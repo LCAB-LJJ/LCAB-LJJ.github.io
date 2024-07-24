@@ -238,13 +238,13 @@
     
     
     <div class="post-body" itemprop="articleBody"><p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
-<p><img src="/images/repalce.jpg"></p>
+<p><img src="/images/loading.png" data-original="/images/repalce.jpg"></p>
 <p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
 <p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
 <p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
 <p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
 <p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
-<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
+<p><img src="/images/loading.png" data-original="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
 <p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
 <p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
 <p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
@@ -361,5 +361,18 @@
 
 
 
-</body>
+
+        <style>
+            [bg-lazy] {
+                background-image: none !important;
+                background-color: #eee !important;
+            }
+        </style>
+        <script>
+            window.imageLazyLoadSetting = {
+                isSPA: false,
+                preloadRatio: 1,
+                processImages: null,
+            };
+        </script><script>window.addEventListener("load",function(){var t=/\.(gif|jpg|jpeg|tiff|png)$/i,r=/^data:image\/[a-z]+;base64,/;Array.prototype.slice.call(document.querySelectorAll("img[data-original]")).forEach(function(a){var e=a.parentNode;"A"===e.tagName&&(e.href.match(t)||e.href.match(r))&&(e.href=a.dataset.original)})});</script><script>!function(r){r.imageLazyLoadSetting.processImages=t;var a=r.imageLazyLoadSetting.isSPA,n=r.imageLazyLoadSetting.preloadRatio||1,d=o();function o(){var t=Array.prototype.slice.call(document.querySelectorAll("img[data-original]")),e=Array.prototype.slice.call(document.querySelectorAll("[bg-lazy]"));return t.concat(e)}function t(t){(a||t)&&(d=o());for(var e,i=0;i<d.length;i++)0<=(e=(e=d[i]).getBoundingClientRect()).bottom&&0<=e.left&&e.top<=(r.innerHeight*n||document.documentElement.clientHeight*n)&&function(){var t,e,a,n,o=d[i];e=function(){d=d.filter(function(t){return o!==t}),r.imageLazyLoadSetting.onImageLoaded&&r.imageLazyLoadSetting.onImageLoaded(o)},(t=o).dataset.loaded||(t.hasAttribute("bg-lazy")?(t.removeAttribute("bg-lazy"),e&&e()):(a=new Image,n=t.getAttribute("data-original"),a.onload=function(){t.src=n,t.removeAttribute("data-original"),t.setAttribute("data-loaded",!0),e&&e()},a.onerror=function(){t.removeAttribute("data-original"),t.setAttribute("data-loaded",!1),t.src=n},t.src!==n&&(a.src=n)))}()}function e(){clearTimeout(t.tId),t.tId=setTimeout(t,500)}t(),document.addEventListener("scroll",e),r.addEventListener("resize",e),r.addEventListener("orientationchange",e)}(this);</script></body>
 </html>
