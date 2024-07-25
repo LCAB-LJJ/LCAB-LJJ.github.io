@@ -205,6 +205,30 @@
       </tags>
   </entry>
   <entry>
+    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
+    <url>/2024/07/19/newsGPT4o/</url>
+    <content><![CDATA[<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
+<p><img src="/images/repalce.jpg"></p>
+<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
+<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
+<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
+<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
+<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
+<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
+<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
+<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
+<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
+<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
+<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
+<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
+<p>喜欢我的文章就点点赞吧，欢迎同样热爱AIGC的朋友关注一起成长！</p>
+]]></content>
+      <tags>
+        <tag>chatGPT4o</tag>
+        <tag>OpenAI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【最新最热】开源引领未来：Llama 3.1震撼发布，405B参数超越闭源GPT-4，扎克伯格宣告AI分水岭到来</title>
     <url>/2024/07/25/lzw2/</url>
     <content><![CDATA[<p>刚刚，备受瞩目的<strong>LIama 3.1</strong>震撼问世，荣耀加冕为大模型领域的最新王者！</p>
@@ -359,45 +383,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
-    <url>/2024/07/19/newsGPT4o/</url>
-    <content><![CDATA[<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
-<p><img src="/images/repalce.jpg"></p>
-<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
-<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
-<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
-<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
-<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
-<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
-<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
-<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
-<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
-<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
-<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
-<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
-<p>喜欢我的文章就点点赞吧，欢迎同样热爱AIGC的朋友关注一起成长！</p>
-]]></content>
-      <tags>
-        <tag>chatGPT4o</tag>
-        <tag>OpenAI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
-    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
-    <content><![CDATA[<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
-<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
-<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
-<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
-<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
-<p><strong>欢迎热爱ai技术的道友看看博主其他文章参与讨论哦</strong></p>
-]]></content>
-      <tags>
-        <tag>Anthropic</tag>
-        <tag>Claude Android</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【最新最热】几何朗兰兹猜想终获破解！跨越30年研究，800余页证明论文问世，中国学者陈麟卓越贡献！</title>
     <url>/2024/07/24/%E7%8C%9C%E6%83%B3/</url>
     <content><![CDATA[<p>历经三十余载的潜心研究，九位杰出的数学家携手跨越了学术的崇山峻岭，通过五篇累计超过八百页的深邃论文，终于迎来了数学史上的一大盛事——<strong>几何朗兰兹猜想</strong>的壮丽证明！</p>
@@ -432,6 +417,21 @@
       <tags>
         <tag>数学</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
+    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
+    <content><![CDATA[<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
+<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
+<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
+<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
+<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
+<p><strong>欢迎热爱ai技术的道友看看博主其他文章参与讨论哦</strong></p>
+]]></content>
+      <tags>
+        <tag>Anthropic</tag>
+        <tag>Claude Android</tag>
       </tags>
   </entry>
 </search>
