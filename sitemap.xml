@@ -83,20 +83,6 @@
 
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/PVG/</loc>
-    <lastmod>2024-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/OpenAi/</loc>
-    <lastmod>2024-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/chatgpt/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,14 +111,28 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT4o/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/OpenAI/</loc>
+    <loc>https://lcab-ljj.github.io/tags/AIGC/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/PVG/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/OpenAi/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -146,14 +146,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
+    <loc>https://lcab-ljj.github.io/tags/chatGPT4o/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/AIGC/</loc>
+    <loc>https://lcab-ljj.github.io/tags/OpenAI/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
