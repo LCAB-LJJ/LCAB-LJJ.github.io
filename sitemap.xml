@@ -201,20 +201,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/AI/</loc>
-    <lastmod>2024-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Anthropic/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,6 +209,20 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/Claude-Android/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/AI/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
