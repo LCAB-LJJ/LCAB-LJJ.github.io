@@ -260,14 +260,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/AI/</loc>
+    <loc>https://lcab-ljj.github.io/tags/patreon/</loc>
     <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -288,7 +281,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/patreon/</loc>
+    <loc>https://lcab-ljj.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/AI/</loc>
     <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
