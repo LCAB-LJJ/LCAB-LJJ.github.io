@@ -466,30 +466,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
-    <url>/2024/07/19/newsGPT4o/</url>
-    <content><![CDATA[<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
-<p><img src="/images/repalce.jpg"></p>
-<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
-<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
-<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
-<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
-<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
-<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
-<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
-<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
-<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
-<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
-<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
-<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
-<p>喜欢我的文章就点点赞吧，欢迎同样热爱AIGC的朋友关注一起成长！</p>
-]]></content>
-      <tags>
-        <tag>chatGPT4o</tag>
-        <tag>OpenAI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【推荐】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</title>
     <url>/2024/07/30/midjourney%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="0-【必看】订阅步骤简述"><a href="#0-【必看】订阅步骤简述" class="headerlink" title="0. 【必看】订阅步骤简述"></a>0. 【必看】订阅步骤简述</h1><p>订阅Midjourney的步骤<strong>简要总结</strong>如下：</p>
@@ -564,6 +540,84 @@
       <tags>
         <tag>Fomepay</tag>
         <tag>midjourney</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【亲测有效】如何订阅Netflix奈飞？</title>
+    <url>/2024/08/01/netflix%E8%AE%A2%E9%98%85/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Fomepay 虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/07/16/Fomepay/">Fomepay教程</a></strong></p>
+</blockquote>
+<hr>
+<h1 id="Netflix-订阅全面指南"><a href="#Netflix-订阅全面指南" class="headerlink" title="Netflix 订阅全面指南"></a>Netflix 订阅全面指南</h1><p><strong>Netflix</strong>，作为全球领先的流媒体平台，提供了丰富多样的电影、电视剧以及纪录片等内容，满足了不同用户的观看需求。本指南将带您详细了解如何订阅Netflix，无论您是想独自享受还是与家人朋友共享，都能找到合适的方案。</p>
+<p>今天，小编就来向大家介绍一下如何订阅Netflix以及如何在国内支付Netflix订阅。</p>
+<h1 id="0-准备工具"><a href="#0-准备工具" class="headerlink" title="0.准备工具"></a>0.准备工具</h1><ol>
+<li>虚拟信用卡（这里我推荐<a href="https://gpt.fomepay.com/#/pages/login/index?d=YB57GG"><strong>Fomepay</strong></a>，方便快捷,链接进入有优惠），用来订阅Netflix</li>
+<li>Netflix账号</li>
+</ol>
+<h1 id="1-奈飞套餐概览"><a href="#1-奈飞套餐概览" class="headerlink" title="1. 奈飞套餐概览"></a>1. 奈飞套餐概览</h1><p>Netflix提供四种不同的套餐，以适应不同用户的需求：</p>
+<ul>
+<li>广告套餐：适合预算有限且不介意观看广告的用户。</li>
+<li>基础套餐：提供标准清晰度的观看体验，适合单人使用。</li>
+<li>标准套餐：提供高清画质，支持两个设备同时观看，适合小家庭。</li>
+<li>高级套餐：提供4K画质，最多支持四个设备同时观看，适合追求高清画质的用户。</li>
+</ul>
+<h1 id="2-虚拟信用卡使用教程"><a href="#2-虚拟信用卡使用教程" class="headerlink" title="2. 虚拟信用卡使用教程"></a>2. 虚拟信用卡使用教程</h1><h2 id="2-1-虚拟信用卡是什么东西"><a href="#2-1-虚拟信用卡是什么东西" class="headerlink" title="2.1 虚拟信用卡是什么东西"></a>2.1 虚拟信用卡是什么东西</h2><p>虚拟信用卡是一种<strong>数字版的信用卡</strong>，提供一次性或多次性使用的卡号，用于<strong>在线交易</strong>而<strong>不需要使用实体</strong>信用卡。</p>
+<p>它和真实的卡一样，有着卡号、cvv、地址等等信息，实体卡有的他都有。</p>
+<p>这种卡通常由信用卡发行机构或数字支付服务提供，旨在提供额外的安全层次，通过限定使用次数、金额、有效期等，以减少欺诈风险和保护用户的真实账户信息。</p>
+<h2 id="2-2-开通虚拟卡"><a href="#2-2-开通虚拟卡" class="headerlink" title="2.2 开通虚拟卡"></a>2.2 开通虚拟卡</h2><p>首先进入官方网站：<a href="https://gpt.fomepay.com/#/pages/login/index?d=YB57GG"><strong>Fomepay一分钟开卡，轻松订阅海外软件服务</strong></a></p>
+<p>进入网站首页之后，按步骤点击即可:</p>
+<p><img src="/images/%E9%BB%91%E8%89%B2/20240619-%E5%BC%80%E5%8D%A1%E6%B5%81%E7%A8%8B_.jpg"></p>
+<p><img src="/images/%E9%BB%91%E8%89%B2/20240620-%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A6%82%E4%BD%95%E5%85%85%E5%80%BC%EF%BC%9F.jpg"></p>
+<p><img src="/images/%E9%BB%91%E8%89%B2/20240620-%E5%8D%A1%E7%89%87%E4%BD%99%E9%A2%9D%E5%A6%82%E4%BD%95%E6%8F%90%E7%8E%B0-2.png"></p>
+<p><img src="/images/%E9%BB%91%E8%89%B2/20240620-%E9%92%B1%E5%8C%85%E4%BD%99%E9%A2%9D%E5%A6%82%E4%BD%95%E6%8F%90%E7%8E%B0.jpg"></p>
+<p>在支付宝扫码验证之后，选择开通的时长（根据个人情况选择，我推荐两年的，性价比更高）。</p>
+<p>支付之后需要几分钟的时间等待开通成功。</p>
+<p>然后在youtube绑定信用卡的链接里面，把下面卡片的信息复制粘贴进去就行了。</p>
+<p><img src="/images/%E9%BB%91%E8%89%B2/20240620-%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E5%8D%A1%E7%89%87%E5%AE%8C%E6%95%B4%E4%BF%A1%E6%81%AF%EF%BC%9F-2.png"></p>
+<p>详细步骤点击：<a href="https://lcab-ljj.github.io/2024/07/16/Fomepay/"><strong>【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</strong></a></p>
+<h1 id="3-如何订阅Netflix"><a href="#3-如何订阅Netflix" class="headerlink" title="3. 如何订阅Netflix"></a>3. 如何订阅Netflix</h1><h2 id="3-1-步骤一：选择套餐"><a href="#3-1-步骤一：选择套餐" class="headerlink" title="3.1 步骤一：选择套餐"></a>3.1 步骤一：选择套餐</h2><p>1.访问Netflix官方网站。<br>2.浏览不同的订阅套餐，根据自己的需求选择最合适的一个。</p>
+<h2 id="3-2-步骤二：创建账户"><a href="#3-2-步骤二：创建账户" class="headerlink" title="3.2 步骤二：创建账户"></a>3.2 步骤二：创建账户</h2><p>1.选择好套餐后，点击“开始”按钮开始创建您的Netflix账户。<br>2.输入您的电子邮件地址，并设置一个密码。</p>
+<h2 id="3-3-步骤三：选择支付方式"><a href="#3-3-步骤三：选择支付方式" class="headerlink" title="3.3 步骤三：选择支付方式"></a>3.3 步骤三：选择支付方式</h2><p>1.Netflix支持多种支付方式，包括信用卡、借记卡、PayPal等。<br>2.根据提示，输入您的支付信息以完成订阅。</p>
+<h2 id="3-4-步骤四：开始观看"><a href="#3-4-步骤四：开始观看" class="headerlink" title="3.4 步骤四：开始观看"></a>3.4 步骤四：开始观看</h2><p>1.订阅完成后，您可以立即开始观看Netflix上的内容。<br>2.您还可以下载Netflix应用，在手机、平板、电视等设备上观看。</p>
+<h1 id="4-合租Netflix的注意事项"><a href="#4-合租Netflix的注意事项" class="headerlink" title="4. 合租Netflix的注意事项"></a>4. 合租Netflix的注意事项</h1><p>合租Netflix是一种成本更低的选择，但请注意以下几点：</p>
+<ul>
+<li>确保与可信赖的人一起合租。</li>
+<li>讨论好每个人的责任和权利，包括付款方式和观看习惯。</li>
+<li>注意保护个人账户的安全，不要随意分享账户信息。</li>
+</ul>
+<h1 id="5-全球不同地区的定价差异"><a href="#5-全球不同地区的定价差异" class="headerlink" title="5. 全球不同地区的定价差异"></a>5. 全球不同地区的定价差异</h1><p>Netflix的订阅费用在不同国家和地区有所不同。这主要是因为每个地区的版权成本、运营成本等因素不同。如果您想了解具体的定价信息，可以访问Netflix官方网站或使用VPN查看其他地区的价格。</p>
+<h1 id="6-结语"><a href="#6-结语" class="headerlink" title="6. 结语"></a>6. 结语</h1><p>Netflix提供了多种订阅选项，满足了不同用户的需求。通过以上步骤，您可以轻松完成订阅并开始享受高质量的视频内容。记住，选择最适合自己的套餐，才能获得最佳的观看体验。</p>
+<hr>
+<p>你好！我是进击的胖虎，一名热爱AIGC的博主，如果你觉得我的文章内容还不错请点赞收藏转发吧，我会持续更新最热最新的新闻热点教程等，更多内容在宝藏小站，开通原版GPT教程在<a href="https://lcab-ljj.github.io/2024/07/16/Fomepay/">【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</a></p>
+]]></content>
+      <tags>
+        <tag>Netflix</tag>
+        <tag>奈飞</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
+    <url>/2024/07/19/newsGPT4o/</url>
+    <content><![CDATA[<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
+<p><img src="/images/repalce.jpg"></p>
+<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
+<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
+<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
+<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
+<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
+<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
+<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
+<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
+<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
+<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
+<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
+<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
+<p>喜欢我的文章就点点赞吧，欢迎同样热爱AIGC的朋友关注一起成长！</p>
+]]></content>
+      <tags>
+        <tag>chatGPT4o</tag>
+        <tag>OpenAI</tag>
       </tags>
   </entry>
   <entry>
@@ -644,21 +698,6 @@
       </tags>
   </entry>
   <entry>
-    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
-    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
-    <content><![CDATA[<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
-<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
-<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
-<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
-<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
-<p><strong>欢迎热爱ai技术的道友看看博主其他文章参与讨论哦</strong></p>
-]]></content>
-      <tags>
-        <tag>Anthropic</tag>
-        <tag>Claude Android</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【最新最热】几何朗兰兹猜想终获破解！跨越30年研究，800余页证明论文问世，中国学者陈麟卓越贡献！</title>
     <url>/2024/07/24/%E7%8C%9C%E6%83%B3/</url>
     <content><![CDATA[<p>历经三十余载的潜心研究，九位杰出的数学家携手跨越了学术的崇山峻岭，通过五篇累计超过八百页的深邃论文，终于迎来了数学史上的一大盛事——<strong>几何朗兰兹猜想</strong>的壮丽证明！</p>
@@ -693,6 +732,21 @@
       <tags>
         <tag>数学</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
+    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
+    <content><![CDATA[<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
+<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
+<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
+<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
+<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
+<p><strong>欢迎热爱ai技术的道友看看博主其他文章参与讨论哦</strong></p>
+]]></content>
+      <tags>
+        <tag>Anthropic</tag>
+        <tag>Claude Android</tag>
       </tags>
   </entry>
 </search>
