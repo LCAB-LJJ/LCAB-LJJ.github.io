@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lcab-ljj.github.io/2024/07/16/Fomepay/</loc>
+    <loc>https://lcab-ljj.github.io/2024/08/07/Fomepay/</loc>
     
     <lastmod>2024-08-07</lastmod>
     
@@ -218,28 +218,14 @@
 
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/chatgpt/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Wildcard/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/Fomepay/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT-4/</loc>
+    <loc>https://lcab-ljj.github.io/tags/chatGPT/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -309,20 +295,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Wildcard/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Suno/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,27 +310,6 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/GPT-4/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/midjourney/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/Netflix/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/%E5%A5%88%E9%A3%9E/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -386,14 +337,21 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Twitter/</loc>
+    <loc>https://lcab-ljj.github.io/tags/midjourney/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/X/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Netflix/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/%E5%A5%88%E9%A3%9E/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -422,6 +380,20 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/Claude-Android/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Twitter/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/X/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
