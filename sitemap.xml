@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lcab-ljj.github.io/2024/08/15/how-to-use-bewildcard-remote-environment/</loc>
+    
+    <lastmod>2024-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/2024/08/15/chatgpt-subscribe-failed/</loc>
     
     <lastmod>2024-08-15</lastmod>
@@ -402,14 +411,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/hongkongdoll/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Onlyfans/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Onlyfans/</loc>
+    <loc>https://lcab-ljj.github.io/tags/hongkongdoll/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -451,6 +460,20 @@
   </url>
   
   <url>
+    <loc>https://lcab-ljj.github.io/tags/Rewind/</loc>
+    <lastmod>2024-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Spotify/</loc>
+    <lastmod>2024-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -465,13 +488,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Rewind/</loc>
-    <lastmod>2024-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Suno/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -479,14 +495,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Spotify/</loc>
-    <lastmod>2024-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT-team/</loc>
+    <loc>https://lcab-ljj.github.io/tags/ChatGPT/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -500,7 +509,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/ChatGPT/</loc>
+    <loc>https://lcab-ljj.github.io/tags/chatGPT-team/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
