@@ -389,33 +389,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PVG！以小博大</title>
-    <url>/2024/07/18/PVG/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p>OpenAI于2024年7月18日凌晨发布了最新的技术研究——Prover-Verifier-Games（简称“PVG”），旨在解决AI模型的“黑盒”问题，提升其推理和输出准确性。该技术通过引入一种新的训练框架，使用<strong>小模型</strong>来验证和监督<strong>大模型</strong>的输出，从而提高整体的输出准确率和可控性。</p>
-<p>具体来说，PVG框架包含两个主要组成部分：证明者（Prover）和验证者（ Verifier）。其中，证明者通常是一个更强大的模型，如GPT-4；而验证者则是一个相对较小且能力较弱的模型，如GPT-3。在这一过程中，证明者需要生成易于验证的解决方案，而验证者则负责检查这些解决方案的正确性。</p>
-<p><img src="/images/pvg1.jpg"></p>
-<p>这种博弈论框架不仅提高了语言模型输出的可读性和可验证性，还使得这些输出更容易被人类理解和评估。此外，这种方法也增强了模型的安全性和准确性，特别是在法律、金融和营销等对安全性和准确性要求极高的领域中。</p>
-<p>实际上，PVG（Proof-Verifier Game）技术理念在2021年8月的一篇学术论文中已初露端倪，激发了OpenAI的创新灵感。这一技术框架根植于博弈论，通过模拟证明者（Prover）与验证者（Verifier）之间的交互博弈，旨在提升机器学习模型生成内容的准确性和质量。</p>
-<p>在此机制下，证明者的核心职责是创造性地生成内容，而验证者则扮演着批判性评估的角色，负责判断这些内容的真实性与合理性。PVG的核心策略在于通过多轮次的迭代训练，不断强化证明者与验证者的能力。每轮训练中，验证者首先运用监督学习技术，从历史证明者生成的内容样本中，学习如何准确识别正确信息，增强辨别能力。</p>
-<p>随后，证明者则借助强化学习策略，不断优化其生成策略，力求生成的内容既准确无误，又能有效说服验证者接受。这一过程中，证明者与验证者形成了紧密相依的关系，证明者需不断提升生成内容的说服力，而验证者则需持续精进其判别能力。</p>
-<p>为了进一步提升训练效率与效果，OpenAI在PVG框架内引入了两种强化类型的证明者角色：有益证明者（Helpful Prover）与狡猾证明者（Sneaky Prover）。前者致力于生成既正确又具说服力的内容，以正面促进学习过程；后者则试图通过生成错误但极具迷惑性的内容，挑战验证者的判断力，从而促使验证者发展出更高的鲁棒性和准确性。</p>
-<p><img src="/images/pvg2.jpg"></p>
-<p>以实际案例为例，当面对复杂问题时（如涉及多步骤逻辑推理的数学问题），GPT-4等先进模型能够给出准确答案（如肖娜父亲年龄的解答），而验证者模型（如GPT-3）则需经历多轮验证，从阿莉亚的年龄出发，逐步推导出肖娜及其父亲的年龄，确保每一步推理的正确性。</p>
-<p>此外，OpenAI还引入了“可检查性训练”方法，通过交替训练验证器与证明者模型，不仅增强了验证器对过往证明者生成解决方案的监督预测能力，还促使证明者根据验证器的反馈和解决方案的正确性进行持续自我优化。随着训练轮次的增加，验证器对狡猾证明者生成的错误信息的抵抗力显著增强，同时有益证明者生成的内容也变得更加清晰易懂，更贴近人类理解模式。</p>
-<p>然而，值得注意的是，高效训练验证者模型依赖于大量真实、准确的标签数据，以确保其辨别能力的精准性。若验证模型本身存在偏差，仍有可能导致验证结果的非预期输出。因此，在推进PVG技术发展的过程中，持续优化数据质量与验证机制同样重要。</p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>PVG</tag>
-        <tag>OpenAi</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【一看就会】国内如何支付Overleaf？Overleaf如何升级标准版专业版？Overleaf升级保姆级教程</title>
     <url>/2024/08/07/Overleaf/</url>
     <content><![CDATA[<blockquote>
@@ -513,6 +486,33 @@
 ]]></content>
       <tags>
         <tag>Perplexity</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PVG！以小博大</title>
+    <url>/2024/07/18/PVG/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p>OpenAI于2024年7月18日凌晨发布了最新的技术研究——Prover-Verifier-Games（简称“PVG”），旨在解决AI模型的“黑盒”问题，提升其推理和输出准确性。该技术通过引入一种新的训练框架，使用<strong>小模型</strong>来验证和监督<strong>大模型</strong>的输出，从而提高整体的输出准确率和可控性。</p>
+<p>具体来说，PVG框架包含两个主要组成部分：证明者（Prover）和验证者（ Verifier）。其中，证明者通常是一个更强大的模型，如GPT-4；而验证者则是一个相对较小且能力较弱的模型，如GPT-3。在这一过程中，证明者需要生成易于验证的解决方案，而验证者则负责检查这些解决方案的正确性。</p>
+<p><img src="/images/pvg1.jpg"></p>
+<p>这种博弈论框架不仅提高了语言模型输出的可读性和可验证性，还使得这些输出更容易被人类理解和评估。此外，这种方法也增强了模型的安全性和准确性，特别是在法律、金融和营销等对安全性和准确性要求极高的领域中。</p>
+<p>实际上，PVG（Proof-Verifier Game）技术理念在2021年8月的一篇学术论文中已初露端倪，激发了OpenAI的创新灵感。这一技术框架根植于博弈论，通过模拟证明者（Prover）与验证者（Verifier）之间的交互博弈，旨在提升机器学习模型生成内容的准确性和质量。</p>
+<p>在此机制下，证明者的核心职责是创造性地生成内容，而验证者则扮演着批判性评估的角色，负责判断这些内容的真实性与合理性。PVG的核心策略在于通过多轮次的迭代训练，不断强化证明者与验证者的能力。每轮训练中，验证者首先运用监督学习技术，从历史证明者生成的内容样本中，学习如何准确识别正确信息，增强辨别能力。</p>
+<p>随后，证明者则借助强化学习策略，不断优化其生成策略，力求生成的内容既准确无误，又能有效说服验证者接受。这一过程中，证明者与验证者形成了紧密相依的关系，证明者需不断提升生成内容的说服力，而验证者则需持续精进其判别能力。</p>
+<p>为了进一步提升训练效率与效果，OpenAI在PVG框架内引入了两种强化类型的证明者角色：有益证明者（Helpful Prover）与狡猾证明者（Sneaky Prover）。前者致力于生成既正确又具说服力的内容，以正面促进学习过程；后者则试图通过生成错误但极具迷惑性的内容，挑战验证者的判断力，从而促使验证者发展出更高的鲁棒性和准确性。</p>
+<p><img src="/images/pvg2.jpg"></p>
+<p>以实际案例为例，当面对复杂问题时（如涉及多步骤逻辑推理的数学问题），GPT-4等先进模型能够给出准确答案（如肖娜父亲年龄的解答），而验证者模型（如GPT-3）则需经历多轮验证，从阿莉亚的年龄出发，逐步推导出肖娜及其父亲的年龄，确保每一步推理的正确性。</p>
+<p>此外，OpenAI还引入了“可检查性训练”方法，通过交替训练验证器与证明者模型，不仅增强了验证器对过往证明者生成解决方案的监督预测能力，还促使证明者根据验证器的反馈和解决方案的正确性进行持续自我优化。随着训练轮次的增加，验证器对狡猾证明者生成的错误信息的抵抗力显著增强，同时有益证明者生成的内容也变得更加清晰易懂，更贴近人类理解模式。</p>
+<p>然而，值得注意的是，高效训练验证者模型依赖于大量真实、准确的标签数据，以确保其辨别能力的精准性。若验证模型本身存在偏差，仍有可能导致验证结果的非预期输出。因此，在推进PVG技术发展的过程中，持续优化数据质量与验证机制同样重要。</p>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>PVG</tag>
+        <tag>OpenAi</tag>
       </tags>
   </entry>
   <entry>
@@ -615,6 +615,55 @@
       </tags>
   </entry>
   <entry>
+    <title>【亲测有效】Spotify新用户必看：快速注册与使用技巧</title>
+    <url>/2024/08/12/Spotify-register/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Spotify ，音译声田、声破天，是目前<strong>全球最大的音乐服务商。</strong> </p>
+<p>Spotify 和国内的 qq 音乐、网易音乐一样，也分为免费和会员付费模式。对于大部分小伙伴来说，国内 qq 音乐、网抑云、酷狗等足矣够用。不过现在由于版权的原因，很多歌曲都无法上架，所以这些平台上面很多音乐也都听不了，特别是网易云。所以对于喜欢折腾的小伙伴，可以试试 Spotify，Spotify 上面的音乐曲库还是<strong>非常庞大和齐全的</strong>。 </p>
+<p>目前，因为 <strong>Spotify  并未进入中国市场</strong>，所以在中国地区并不能正常使用，当你直接访问 Spotify 官网时，会提示：Spotify is currently not available in your country。</p>
+<p>因为 Spotify 是分区的，不同区域可以收听的曲库、会员订阅价格、客户端界面风格都不太一样，你可以根据自己平时的听歌习惯，选择适合自己的区域进行注册。这里，我使用新加坡的节点进行注册（新加坡和印度区域的会员价格会比较便宜）。挂上梯子后，重新访问：<a href="https://accounts.spotify.com/zh-CN/login">Spotify 官网</a>，界面如下： </p>
+<p><img src="/images/Spotify-register/1.jpg"></p>
+<h2 id="Spotify-注册教程"><a href="#Spotify-注册教程" class="headerlink" title="Spotify 注册教程"></a>Spotify 注册教程</h2><p>这里选择 GET 3 MONTHS FREE 开始注册，会跳转到登录注册界面，如下： </p>
+<p><img src="/images/Spotify-register/2.jpg"></p>
+<p><img src="/images/Spotify-register/3.jpg"></p>
+<p>如果你是新用户，还没有 Spotify 账号，那么选择页面下方的注册 SPOTIFY，接着就会跳转到注册界面。 </p>
+<p>如果你有 Facebook 或者 Google 账号，那么可以使用 Facebook 或者 Google 账号进行注册，估计有一些小伙伴没有这些账号，那么也没有关系，可以使用下方的电子邮件进行注册，这里以电子邮件注册为例。 </p>
+<p>在注册界面输入邮件、密码、昵称、生日等信息即可完成注册，具体如下： </p>
+<p><img src="/images/Spotify-register/4.jpg"></p>
+<p><img src="/images/Spotify-register/5.jpg"></p>
+<p>然后勾选用户协议，完成人机验证，完成注册即可： </p>
+<p><img src="/images/Spotify-register/6.jpg"></p>
+<p>本以为立马就可以注册成功了，在点击注册后坑爹的提示：你的帐号并未创建。 你的设备似乎已连接至代理或 VPN 服务。请关闭此类服务，然后再试一次。如下： </p>
+<p><img src="/images/Spotify-register/7.jpg"></p>
+<p>看来是被发现使用代理进行注册了。无奈，只能更换其它代理，这里我使用 strong  ，更换到印度代理，然后重新换一个浏览器，打开无痕浏览重新进行注册，还是提示你的设备似乎已经连接至代理或 VPN 服务。没办法，只能继续更换节点，最后将节点更换至 America，这次终于注册成功了。 </p>
+<p><img src="/images/Spotify-register/8.jpg"></p>
+<p><img src="/images/Spotify-register/9.jpg"></p>
+<p>目前，Spotify 注册成功后，会提示你绑定付款方式，官网只支持 PayPal 和  Visa、MasterCard 信用卡方式。如果你成功绑定了支付方式，下次就会自动进行扣款，然后一般都能免费赠送 1 个月会员。</p>
+<p>由于Spotify不支持国内发行的银联卡，所以绑卡这一步必须使用国外信用卡，这里推荐 ：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 虚拟信用卡</strong></a><br>开卡教程详见：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard一键开卡教程</a></p>
+<p>为什么推荐 WildCard?是因为这个卡申请流程简单，并且十分贴心，申请后的卡长这样：</p>
+<p><img src="/images/Fantia-register/6.jpg"></p>
+<p>每张卡都带有详细的卡片和账单信息，十分贴心有没有。</p>
+<p>下面只需要将<strong>上面卡片</strong>基本信息填到订阅绑卡所需要的信息中即可！</p>
+<p>如果你不想订阅 Spotify 会员，那么不要绑定 PayPal 和 信用卡即可免费开始体验 Spotify。免费的 Spotify 客户端会有广告，可以听的曲库也有限制就是了。 </p>
+<p>至此，Spotify 变注册完成。   </p>
+<h2 id="Spotify-使用-客户端下载"><a href="#Spotify-使用-客户端下载" class="headerlink" title="Spotify 使用&amp;客户端下载"></a>Spotify 使用&amp;客户端下载</h2><p>注册完以后，就可以安装 Spotify 客户端开始愉快的听歌了。目前，各个客户端的下载地址如下： </p>
+<p>Window 客户端：<a href="https://www.spotify.com/tw/download/windows/">https://www.spotify.com/tw/download/windows/</a><br>Mac 客户端：<a href="https://www.spotify.com/us/download/mac/">https://www.spotify.com/us/download/mac/</a><br>Android 客户端：<a href="https://play.google.com/store/apps/details?id=com.spotify.music&hl=en">https://play.google.com/store/apps/details?id=com.spotify.music&hl=en</a><br>Android 客户端需要从 google play 上下载。国内的 Android 手机都可以直接安装使用，不需要支持 google play 套件。 </p>
+<p>如果你的手机不支持 google play，也可以从其它平台下载，比如 apkpure，<br>下载地址： <a href="https://apkpure.com/cn/spotify-music-i/com.spotify.music/download?from=details">https://apkpure.com/cn/spotify-music-i/com.spotify.music/download?from=details</a></p>
+<p>注意，apkpure 上需要使用<strong>魔法</strong>才能打开，而且下载的包是 xapk 安装包，和普通 apk 包不太一样，安装前需要先下载 XAPK 安装器,然后使用 XAPK 安装器进行安装。 </p>
+<p>XAPK 安装器下载地址：<br><a href="https://apkpure.com/tw/xapk-installer/com.apkpure.installer/download?from=details">https://apkpure.com/tw/xapk-installer/com.apkpure.installer/download?from=details</a></p>
+<p>iOS 客户端：<a href="https://itunes.apple.com/app/spotify-music/id324684580">https://itunes.apple.com/app/spotify-music/id324684580</a> </p>
+<p>安装完客户端，就可以开始愉快的听音乐了 ：）。 </p>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>Spotify</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【2024最新】4000字搞懂sora！一张脑图贯穿！</title>
     <url>/2024/07/18/Sora/</url>
     <content><![CDATA[<blockquote>
@@ -712,55 +761,6 @@
       <tags>
         <tag>Sora</tag>
         <tag>AIGC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【亲测有效】Spotify新用户必看：快速注册与使用技巧</title>
-    <url>/2024/08/12/Spotify-register/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Spotify ，音译声田、声破天，是目前<strong>全球最大的音乐服务商。</strong> </p>
-<p>Spotify 和国内的 qq 音乐、网易音乐一样，也分为免费和会员付费模式。对于大部分小伙伴来说，国内 qq 音乐、网抑云、酷狗等足矣够用。不过现在由于版权的原因，很多歌曲都无法上架，所以这些平台上面很多音乐也都听不了，特别是网易云。所以对于喜欢折腾的小伙伴，可以试试 Spotify，Spotify 上面的音乐曲库还是<strong>非常庞大和齐全的</strong>。 </p>
-<p>目前，因为 <strong>Spotify  并未进入中国市场</strong>，所以在中国地区并不能正常使用，当你直接访问 Spotify 官网时，会提示：Spotify is currently not available in your country。</p>
-<p>因为 Spotify 是分区的，不同区域可以收听的曲库、会员订阅价格、客户端界面风格都不太一样，你可以根据自己平时的听歌习惯，选择适合自己的区域进行注册。这里，我使用新加坡的节点进行注册（新加坡和印度区域的会员价格会比较便宜）。挂上梯子后，重新访问：<a href="https://accounts.spotify.com/zh-CN/login">Spotify 官网</a>，界面如下： </p>
-<p><img src="/images/Spotify-register/1.jpg"></p>
-<h2 id="Spotify-注册教程"><a href="#Spotify-注册教程" class="headerlink" title="Spotify 注册教程"></a>Spotify 注册教程</h2><p>这里选择 GET 3 MONTHS FREE 开始注册，会跳转到登录注册界面，如下： </p>
-<p><img src="/images/Spotify-register/2.jpg"></p>
-<p><img src="/images/Spotify-register/3.jpg"></p>
-<p>如果你是新用户，还没有 Spotify 账号，那么选择页面下方的注册 SPOTIFY，接着就会跳转到注册界面。 </p>
-<p>如果你有 Facebook 或者 Google 账号，那么可以使用 Facebook 或者 Google 账号进行注册，估计有一些小伙伴没有这些账号，那么也没有关系，可以使用下方的电子邮件进行注册，这里以电子邮件注册为例。 </p>
-<p>在注册界面输入邮件、密码、昵称、生日等信息即可完成注册，具体如下： </p>
-<p><img src="/images/Spotify-register/4.jpg"></p>
-<p><img src="/images/Spotify-register/5.jpg"></p>
-<p>然后勾选用户协议，完成人机验证，完成注册即可： </p>
-<p><img src="/images/Spotify-register/6.jpg"></p>
-<p>本以为立马就可以注册成功了，在点击注册后坑爹的提示：你的帐号并未创建。 你的设备似乎已连接至代理或 VPN 服务。请关闭此类服务，然后再试一次。如下： </p>
-<p><img src="/images/Spotify-register/7.jpg"></p>
-<p>看来是被发现使用代理进行注册了。无奈，只能更换其它代理，这里我使用 strong  ，更换到印度代理，然后重新换一个浏览器，打开无痕浏览重新进行注册，还是提示你的设备似乎已经连接至代理或 VPN 服务。没办法，只能继续更换节点，最后将节点更换至 America，这次终于注册成功了。 </p>
-<p><img src="/images/Spotify-register/8.jpg"></p>
-<p><img src="/images/Spotify-register/9.jpg"></p>
-<p>目前，Spotify 注册成功后，会提示你绑定付款方式，官网只支持 PayPal 和  Visa、MasterCard 信用卡方式。如果你成功绑定了支付方式，下次就会自动进行扣款，然后一般都能免费赠送 1 个月会员。</p>
-<p>由于Spotify不支持国内发行的银联卡，所以绑卡这一步必须使用国外信用卡，这里推荐 ：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 虚拟信用卡</strong></a><br>开卡教程详见：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard一键开卡教程</a></p>
-<p>为什么推荐 WildCard?是因为这个卡申请流程简单，并且十分贴心，申请后的卡长这样：</p>
-<p><img src="/images/Fantia-register/6.jpg"></p>
-<p>每张卡都带有详细的卡片和账单信息，十分贴心有没有。</p>
-<p>下面只需要将<strong>上面卡片</strong>基本信息填到订阅绑卡所需要的信息中即可！</p>
-<p>如果你不想订阅 Spotify 会员，那么不要绑定 PayPal 和 信用卡即可免费开始体验 Spotify。免费的 Spotify 客户端会有广告，可以听的曲库也有限制就是了。 </p>
-<p>至此，Spotify 变注册完成。   </p>
-<h2 id="Spotify-使用-客户端下载"><a href="#Spotify-使用-客户端下载" class="headerlink" title="Spotify 使用&amp;客户端下载"></a>Spotify 使用&amp;客户端下载</h2><p>注册完以后，就可以安装 Spotify 客户端开始愉快的听歌了。目前，各个客户端的下载地址如下： </p>
-<p>Window 客户端：<a href="https://www.spotify.com/tw/download/windows/">https://www.spotify.com/tw/download/windows/</a><br>Mac 客户端：<a href="https://www.spotify.com/us/download/mac/">https://www.spotify.com/us/download/mac/</a><br>Android 客户端：<a href="https://play.google.com/store/apps/details?id=com.spotify.music&hl=en">https://play.google.com/store/apps/details?id=com.spotify.music&hl=en</a><br>Android 客户端需要从 google play 上下载。国内的 Android 手机都可以直接安装使用，不需要支持 google play 套件。 </p>
-<p>如果你的手机不支持 google play，也可以从其它平台下载，比如 apkpure，<br>下载地址： <a href="https://apkpure.com/cn/spotify-music-i/com.spotify.music/download?from=details">https://apkpure.com/cn/spotify-music-i/com.spotify.music/download?from=details</a></p>
-<p>注意，apkpure 上需要使用<strong>魔法</strong>才能打开，而且下载的包是 xapk 安装包，和普通 apk 包不太一样，安装前需要先下载 XAPK 安装器,然后使用 XAPK 安装器进行安装。 </p>
-<p>XAPK 安装器下载地址：<br><a href="https://apkpure.com/tw/xapk-installer/com.apkpure.installer/download?from=details">https://apkpure.com/tw/xapk-installer/com.apkpure.installer/download?from=details</a></p>
-<p>iOS 客户端：<a href="https://itunes.apple.com/app/spotify-music/id324684580">https://itunes.apple.com/app/spotify-music/id324684580</a> </p>
-<p>安装完客户端，就可以开始愉快的听音乐了 ：）。 </p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>Spotify</tag>
       </tags>
   </entry>
   <entry>
@@ -995,43 +995,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT无法登录，提示我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系</title>
-    <url>/2024/08/15/chatgpt-detected-suspicious-login-behavior/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>之前本来已经连续稳定使用ChatGPT好几个月了，但是今天尝试登录ChatGPT的时候，却提示：<strong>我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系</strong>。</p>
-<p><img src="/images/chatgpt-detected-suspicious-login-behavior/1.jpg"></p>
-<p>此外，我还在网上看到了一些相关的消息，据说是最近openai在大规模封号</p>
-<p><img src="/images/chatgpt-detected-suspicious-login-behavior/2.jpg"></p>
-<p>还有以下这些也是经常遇到的问题：</p>
-<ul>
-<li>Your credit card was declined.Try paying with a debit card instead.</li>
-<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
-<li>你的卡已被拒绝。</li>
-<li>您的金融卡已被拒绝。</li>
-<li>您拒绝了。请尝试用签账卡支付。</li>
-<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
-</ul>
-<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先，我确信我的银行卡中余额充足，并且卡本身没有任何问题。</p>
-<p>因此，问题可能出在代理或浏览器上。</p>
-<p>我尝试更换浏览器，从Chrome切换到Edge，但这并没有解决问题。之后，我又尝试更换了多个代理服务器，包括美国、新加坡、韩国和日本等，但仍<strong>未能找到解决办法</strong>。</p>
-<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
-<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>wildcard</strong></a> 有专门为OpenAI设计的浏览器，于是试了一下</p>
-<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT专用浏览器</a></p>
-<p><img src="/images/chatgpt-detected-suspicious-login-behavior/3.jpg"></p>
-<p>最终，利用ChatGPT专用浏览器，我成功使用上了ChatGPT</p>
-<p><img src="/images/chatgpt-detected-suspicious-login-behavior/4.jpg"></p>
-<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>在经历了一系列登录问题和尝试各种解决方法后，最终发现使用为<strong>OpenAI特别设计的Wildcard浏览器</strong>可以成功解决问题。</p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
     <url>/2024/08/15/chatgpt-subscribe-failed/</url>
     <content><![CDATA[<blockquote>
@@ -1066,6 +1029,43 @@
 <li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
 <li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
 </ul>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT无法登录，提示我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系</title>
+    <url>/2024/08/15/chatgpt-detected-suspicious-login-behavior/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>之前本来已经连续稳定使用ChatGPT好几个月了，但是今天尝试登录ChatGPT的时候，却提示：<strong>我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系</strong>。</p>
+<p><img src="/images/chatgpt-detected-suspicious-login-behavior/1.jpg"></p>
+<p>此外，我还在网上看到了一些相关的消息，据说是最近openai在大规模封号</p>
+<p><img src="/images/chatgpt-detected-suspicious-login-behavior/2.jpg"></p>
+<p>还有以下这些也是经常遇到的问题：</p>
+<ul>
+<li>Your credit card was declined.Try paying with a debit card instead.</li>
+<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
+<li>你的卡已被拒绝。</li>
+<li>您的金融卡已被拒绝。</li>
+<li>您拒绝了。请尝试用签账卡支付。</li>
+<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
+</ul>
+<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先，我确信我的银行卡中余额充足，并且卡本身没有任何问题。</p>
+<p>因此，问题可能出在代理或浏览器上。</p>
+<p>我尝试更换浏览器，从Chrome切换到Edge，但这并没有解决问题。之后，我又尝试更换了多个代理服务器，包括美国、新加坡、韩国和日本等，但仍<strong>未能找到解决办法</strong>。</p>
+<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
+<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>wildcard</strong></a> 有专门为OpenAI设计的浏览器，于是试了一下</p>
+<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT专用浏览器</a></p>
+<p><img src="/images/chatgpt-detected-suspicious-login-behavior/3.jpg"></p>
+<p>最终，利用ChatGPT专用浏览器，我成功使用上了ChatGPT</p>
+<p><img src="/images/chatgpt-detected-suspicious-login-behavior/4.jpg"></p>
+<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>在经历了一系列登录问题和尝试各种解决方法后，最终发现使用为<strong>OpenAI特别设计的Wildcard浏览器</strong>可以成功解决问题。</p>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1184,82 +1184,6 @@
 ]]></content>
       <tags>
         <tag>Wildcard</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【保姆级】claude3 注册及升级教程（包含封号解决方法）</title>
-    <url>/2024/08/14/how-to-update-Cluade3/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<h2 id="Claude-3注册"><a href="#Claude-3注册" class="headerlink" title="Claude 3注册"></a>Claude 3注册</h2><h3 id="前期准备工作"><a href="#前期准备工作" class="headerlink" title="前期准备工作"></a>前期准备工作</h3><ul>
-<li><p>一个干净能用的魔法或者叫科学或梯子</p>
-</li>
-<li><p>一个国外的邮箱账号，例如谷歌微软邮箱。</p>
-</li>
-<li><p>一个国外的手机号码，没有的可以用虚拟的接码平台，本教程使用的是虚拟的接码平台：sms，</p>
-</li>
-</ul>
-<p>这里不做对 sms 接码平台的注册解释，支持中文界面，自己注册登录就行，<br>记得提前冲好钱进去，一般2美元就行了，sms官网：<a href="https://sms-activate.org/cn/accounts">https://sms-activate.org/cn/accounts</a>。</p>
-<p>准备好这些后，我们直接进入教程：</p>
-<h3 id="第一步：检查我们的-ip-地址"><a href="#第一步：检查我们的-ip-地址" class="headerlink" title="第一步：检查我们的 ip 地址"></a>第一步：检查我们的 ip 地址</h3><p>打开浏览器使用<strong>无痕模式</strong></p>
-<p><img src="/images/how-to-update-Claude3/1.jpg"></p>
-<p>直接输入搜索 ip 这两个字符。</p>
-<p><img src="/images/how-to-update-Claude3/2.jpg"><br><img src="/images/how-to-update-Claude3/3.jpg"></p>
-<p><strong>注意节点一定要确认，不然容易封号！</strong></p>
-<h3 id="第二步：打开-Claude-官网"><a href="#第二步：打开-Claude-官网" class="headerlink" title="第二步：打开 Claude 官网"></a>第二步：打开 Claude 官网</h3><p>Claude3 注册链接：<a href="https://claude.ai/login">https://claude.ai/login</a></p>
-<p><img src="/images/how-to-update-Claude3/4.jpg"></p>
-<p>选择自己的邮箱注册，输入邮箱密码确认后 会跳到这个界面：</p>
-<p><img src="/images/how-to-update-Claude3/5.jpg"></p>
-<h3 id="第三步：验证手机号"><a href="#第三步：验证手机号" class="headerlink" title="第三步：验证手机号"></a>第三步：验证手机号</h3><p>打开 sms<br><img src="/images/how-to-update-Claude3/6.jpg"></p>
-<p>按图片中提示选择智利，也可选择其它的，但是其它的，例如英国跟美国的，大多都让人抢先注册了所以不要浪费钱。</p>
-<p><img src="/images/how-to-update-Claude3/7.jpg"></p>
-<p>购买后跳出界面，复制购买的虚拟手机号。</p>
-<p><img src="/images/how-to-update-Claude3/8.jpg"></p>
-<p>把复制的电话号码，贴去刚才验证号码的界面，并在号码最前面添加 “+”。</p>
-<p><strong>如果号码可用着回到 sms 界面等待短信，需要注意几个点：</strong></p>
-<ul>
-<li>它的号码有可能接受不了短信，就是你点击验证后，它一直收不到短信（正常一般两分钟就能收到）。</li>
-<li>它的号码收到短信了，但是输入验证码后，显示“该号码已经被注册使用了”。</li>
-</ul>
-<p>遇到以上这些点，<strong>解决方式：重新选择购买的虚拟的手机码，多切换一下购买的地区</strong>，尝试一下，放心如果收不到短信着购买的费用原路返回的，但是若是第二种情况，收到了但是被让人注册了，那就退不了，不过两美元能卖很多次了，不用担心。</p>
-<h3 id="注册完成"><a href="#注册完成" class="headerlink" title="注册完成"></a>注册完成</h3><p>以上的操作步骤都顺利完成后，即可完成注册了</p>
-<p><img src="/images/how-to-update-Claude3/9.jpg"><br><img src="/images/how-to-update-Claude3/10.jpg"><br><img src="/images/how-to-update-Claude3/11.jpg"></p>
-<h2 id="升级-Claude-3"><a href="#升级-Claude-3" class="headerlink" title="升级 Claude 3"></a>升级 Claude 3</h2><p>与 升级 ChatGPT Plus 一样，都是需要一个国外的虚拟信用卡。没有的朋友可以去网上搜索一下。</p>
-<p><strong>本教程使用的是国内的一家较为简单操作的平台</strong>： <a href="https://wildcard.com.cn/i/JJDPH">Wildcard</a></p>
-<h3 id="第一步：注册虚拟信用卡"><a href="#第一步：注册虚拟信用卡" class="headerlink" title="第一步：注册虚拟信用卡"></a>第一步：注册虚拟信用卡</h3><p>首先我们点击进入: <a href="https://wildcard.com.cn/i/JJDPH">WildCard 官网</a></p>
-<p>点击<strong>立即体验</strong>进行开卡操作</p>
-<p><img src="/images/how-to-update-Claude3/12.jpg"></p>
-<p>可以了解一下开卡价格，一年11.99美金，两年13.99美金，也就是<strong>一天2毛钱不到</strong>，填邀请码你能有 88 折优惠，我也有一点返利，大家共赢！。这里提供一个邀请码给大家 JJDPH</p>
-<p>这是国内的公司是专门解决这类问题的，使用的是支付宝进行实名认证，不用担心，这个是因为走银联通道购汇需要（防止洗钱），不用担心安全问题。后续自己订阅产品，用多少充多少。随时可以提现，大家不用担心钱充进去就取不出来了，如果没消费成功，<strong>亲测可以秒提现到支付宝</strong>。</p>
-<p>剩下来的操作就是验证操作了</p>
-<p><strong>注意：升级 Claude3 需要用到20美金 建议大家开好卡后多充几美元，有备无患，升级完成了多的再提回支付宝就行了。</strong></p>
-<h3 id="第二步：升级信息填写"><a href="#第二步：升级信息填写" class="headerlink" title="第二步：升级信息填写"></a>第二步：升级信息填写</h3><p>打开 Claude3 界面 <a href="https://claude.ai/chats">https://claude.ai/chats</a><br><img src="/images/how-to-update-Claude3/13.jpg"></p>
-<p>进入升级界面</p>
-<p><img src="/images/how-to-update-Claude3/14.jpg"></p>
-<p>填写信息</p>
-<p><img src="/images/how-to-update-Claude3/15.jpg"></p>
-<p>升级完成<br>完成了以上的步骤操作后，即可升级完成了。大家快去体验一下吧。</p>
-<h2 id="封号解决方法"><a href="#封号解决方法" class="headerlink" title="封号解决方法"></a>封号解决方法</h2><p>写在后面，有许多小伙伴都遇到过注册时显示：</p>
-<p><img src="/images/how-to-update-Claude3/16.jpg"></p>
-<p>那么这种情况该怎么解决呢？下面给出自己亲测的解决方式：</p>
-<p>点进图中的 “Acceptable Use Policy. ”</p>
-<p><img src="/images/how-to-update-Claude3/17.jpg"></p>
-<p>拉下点击邮箱。</p>
-<p><img src="/images/how-to-update-Claude3/18.jpg"></p>
-<p>点进去后编辑申诉邮件，这里提供我自己的申诉邮件给大家参考，可以自己改改。</p>
-<blockquote>
-<p>Dear anthropic,<br>I am writing to express my dissatisfaction and appeal the unwarranted suspension of my account. My account, which holds personal and important information, was recently suspended without any prior notification or explanation.<br>I understand that you might have to suspend accounts for various reasons, such as security breaches or violations of terms and conditions. However, in my case, I have not been informed of any such issues. It is therefore my sincere request that you review my account and provide a detailed explanation for the suspension.<br>I would also appreciate it if you could reinstate my account immediately, as it holds crucial personal information and I am unable to access it at this moment. I assure you that I will continue to abide by all the terms and conditions of your platform and make every effort to ensure that my account remains secure.<br>Thank you for your attention to this matter. I look forward to receiving a prompt and satisfactory response from your team.</p>
-</blockquote>
-<p>发送后等待两三天，它就会回你解封的邮件了。</p>
-<p><img src="/images/how-to-update-Claude3/19.jpg"></p>
-<p>这样你就能重新按我上面方法进行注册了。快去试试吧！</p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>Claude3</tag>
       </tags>
   </entry>
   <entry>
@@ -1422,6 +1346,82 @@
       </tags>
   </entry>
   <entry>
+    <title>【保姆级】claude3 注册及升级教程（包含封号解决方法）</title>
+    <url>/2024/08/14/how-to-update-Cluade3/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="Claude-3注册"><a href="#Claude-3注册" class="headerlink" title="Claude 3注册"></a>Claude 3注册</h2><h3 id="前期准备工作"><a href="#前期准备工作" class="headerlink" title="前期准备工作"></a>前期准备工作</h3><ul>
+<li><p>一个干净能用的魔法或者叫科学或梯子</p>
+</li>
+<li><p>一个国外的邮箱账号，例如谷歌微软邮箱。</p>
+</li>
+<li><p>一个国外的手机号码，没有的可以用虚拟的接码平台，本教程使用的是虚拟的接码平台：sms，</p>
+</li>
+</ul>
+<p>这里不做对 sms 接码平台的注册解释，支持中文界面，自己注册登录就行，<br>记得提前冲好钱进去，一般2美元就行了，sms官网：<a href="https://sms-activate.org/cn/accounts">https://sms-activate.org/cn/accounts</a>。</p>
+<p>准备好这些后，我们直接进入教程：</p>
+<h3 id="第一步：检查我们的-ip-地址"><a href="#第一步：检查我们的-ip-地址" class="headerlink" title="第一步：检查我们的 ip 地址"></a>第一步：检查我们的 ip 地址</h3><p>打开浏览器使用<strong>无痕模式</strong></p>
+<p><img src="/images/how-to-update-Claude3/1.jpg"></p>
+<p>直接输入搜索 ip 这两个字符。</p>
+<p><img src="/images/how-to-update-Claude3/2.jpg"><br><img src="/images/how-to-update-Claude3/3.jpg"></p>
+<p><strong>注意节点一定要确认，不然容易封号！</strong></p>
+<h3 id="第二步：打开-Claude-官网"><a href="#第二步：打开-Claude-官网" class="headerlink" title="第二步：打开 Claude 官网"></a>第二步：打开 Claude 官网</h3><p>Claude3 注册链接：<a href="https://claude.ai/login">https://claude.ai/login</a></p>
+<p><img src="/images/how-to-update-Claude3/4.jpg"></p>
+<p>选择自己的邮箱注册，输入邮箱密码确认后 会跳到这个界面：</p>
+<p><img src="/images/how-to-update-Claude3/5.jpg"></p>
+<h3 id="第三步：验证手机号"><a href="#第三步：验证手机号" class="headerlink" title="第三步：验证手机号"></a>第三步：验证手机号</h3><p>打开 sms<br><img src="/images/how-to-update-Claude3/6.jpg"></p>
+<p>按图片中提示选择智利，也可选择其它的，但是其它的，例如英国跟美国的，大多都让人抢先注册了所以不要浪费钱。</p>
+<p><img src="/images/how-to-update-Claude3/7.jpg"></p>
+<p>购买后跳出界面，复制购买的虚拟手机号。</p>
+<p><img src="/images/how-to-update-Claude3/8.jpg"></p>
+<p>把复制的电话号码，贴去刚才验证号码的界面，并在号码最前面添加 “+”。</p>
+<p><strong>如果号码可用着回到 sms 界面等待短信，需要注意几个点：</strong></p>
+<ul>
+<li>它的号码有可能接受不了短信，就是你点击验证后，它一直收不到短信（正常一般两分钟就能收到）。</li>
+<li>它的号码收到短信了，但是输入验证码后，显示“该号码已经被注册使用了”。</li>
+</ul>
+<p>遇到以上这些点，<strong>解决方式：重新选择购买的虚拟的手机码，多切换一下购买的地区</strong>，尝试一下，放心如果收不到短信着购买的费用原路返回的，但是若是第二种情况，收到了但是被让人注册了，那就退不了，不过两美元能卖很多次了，不用担心。</p>
+<h3 id="注册完成"><a href="#注册完成" class="headerlink" title="注册完成"></a>注册完成</h3><p>以上的操作步骤都顺利完成后，即可完成注册了</p>
+<p><img src="/images/how-to-update-Claude3/9.jpg"><br><img src="/images/how-to-update-Claude3/10.jpg"><br><img src="/images/how-to-update-Claude3/11.jpg"></p>
+<h2 id="升级-Claude-3"><a href="#升级-Claude-3" class="headerlink" title="升级 Claude 3"></a>升级 Claude 3</h2><p>与 升级 ChatGPT Plus 一样，都是需要一个国外的虚拟信用卡。没有的朋友可以去网上搜索一下。</p>
+<p><strong>本教程使用的是国内的一家较为简单操作的平台</strong>： <a href="https://wildcard.com.cn/i/JJDPH">Wildcard</a></p>
+<h3 id="第一步：注册虚拟信用卡"><a href="#第一步：注册虚拟信用卡" class="headerlink" title="第一步：注册虚拟信用卡"></a>第一步：注册虚拟信用卡</h3><p>首先我们点击进入: <a href="https://wildcard.com.cn/i/JJDPH">WildCard 官网</a></p>
+<p>点击<strong>立即体验</strong>进行开卡操作</p>
+<p><img src="/images/how-to-update-Claude3/12.jpg"></p>
+<p>可以了解一下开卡价格，一年11.99美金，两年13.99美金，也就是<strong>一天2毛钱不到</strong>，填邀请码你能有 88 折优惠，我也有一点返利，大家共赢！。这里提供一个邀请码给大家 JJDPH</p>
+<p>这是国内的公司是专门解决这类问题的，使用的是支付宝进行实名认证，不用担心，这个是因为走银联通道购汇需要（防止洗钱），不用担心安全问题。后续自己订阅产品，用多少充多少。随时可以提现，大家不用担心钱充进去就取不出来了，如果没消费成功，<strong>亲测可以秒提现到支付宝</strong>。</p>
+<p>剩下来的操作就是验证操作了</p>
+<p><strong>注意：升级 Claude3 需要用到20美金 建议大家开好卡后多充几美元，有备无患，升级完成了多的再提回支付宝就行了。</strong></p>
+<h3 id="第二步：升级信息填写"><a href="#第二步：升级信息填写" class="headerlink" title="第二步：升级信息填写"></a>第二步：升级信息填写</h3><p>打开 Claude3 界面 <a href="https://claude.ai/chats">https://claude.ai/chats</a><br><img src="/images/how-to-update-Claude3/13.jpg"></p>
+<p>进入升级界面</p>
+<p><img src="/images/how-to-update-Claude3/14.jpg"></p>
+<p>填写信息</p>
+<p><img src="/images/how-to-update-Claude3/15.jpg"></p>
+<p>升级完成<br>完成了以上的步骤操作后，即可升级完成了。大家快去体验一下吧。</p>
+<h2 id="封号解决方法"><a href="#封号解决方法" class="headerlink" title="封号解决方法"></a>封号解决方法</h2><p>写在后面，有许多小伙伴都遇到过注册时显示：</p>
+<p><img src="/images/how-to-update-Claude3/16.jpg"></p>
+<p>那么这种情况该怎么解决呢？下面给出自己亲测的解决方式：</p>
+<p>点进图中的 “Acceptable Use Policy. ”</p>
+<p><img src="/images/how-to-update-Claude3/17.jpg"></p>
+<p>拉下点击邮箱。</p>
+<p><img src="/images/how-to-update-Claude3/18.jpg"></p>
+<p>点进去后编辑申诉邮件，这里提供我自己的申诉邮件给大家参考，可以自己改改。</p>
+<blockquote>
+<p>Dear anthropic,<br>I am writing to express my dissatisfaction and appeal the unwarranted suspension of my account. My account, which holds personal and important information, was recently suspended without any prior notification or explanation.<br>I understand that you might have to suspend accounts for various reasons, such as security breaches or violations of terms and conditions. However, in my case, I have not been informed of any such issues. It is therefore my sincere request that you review my account and provide a detailed explanation for the suspension.<br>I would also appreciate it if you could reinstate my account immediately, as it holds crucial personal information and I am unable to access it at this moment. I assure you that I will continue to abide by all the terms and conditions of your platform and make every effort to ensure that my account remains secure.<br>Thank you for your attention to this matter. I look forward to receiving a prompt and satisfactory response from your team.</p>
+</blockquote>
+<p>发送后等待两三天，它就会回你解封的邮件了。</p>
+<p><img src="/images/how-to-update-Claude3/19.jpg"></p>
+<p>这样你就能重新按我上面方法进行注册了。快去试试吧！</p>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>Claude3</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【推荐】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</title>
     <url>/2024/07/30/midjourney%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<blockquote>
@@ -1500,84 +1500,6 @@
       <tags>
         <tag>Wildcard</tag>
         <tag>midjourney</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【亲测有效】如何订阅Netflix奈飞？</title>
-    <url>/2024/08/01/netflix%E8%AE%A2%E9%98%85/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<h1 id="Netflix-订阅全面指南"><a href="#Netflix-订阅全面指南" class="headerlink" title="Netflix 订阅全面指南"></a>Netflix 订阅全面指南</h1><p><strong>Netflix</strong>，作为全球领先的流媒体平台，提供了丰富多样的电影、电视剧以及纪录片等内容，满足了不同用户的观看需求。本指南将带您详细了解如何订阅Netflix，无论您是想独自享受还是与家人朋友共享，都能找到合适的方案。</p>
-<p>今天，小编就来向大家介绍一下如何订阅Netflix以及如何在国内支付Netflix订阅。</p>
-<h2 id="0-准备工具"><a href="#0-准备工具" class="headerlink" title="0.准备工具"></a>0.准备工具</h2><ol>
-<li>虚拟信用卡（这里我推荐<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>，方便快捷,链接进入有优惠），用来订阅Netflix</li>
-<li>Netflix账号</li>
-</ol>
-<h2 id="1-奈飞套餐概览"><a href="#1-奈飞套餐概览" class="headerlink" title="1. 奈飞套餐概览"></a>1. 奈飞套餐概览</h2><p>Netflix提供四种不同的套餐，以适应不同用户的需求：</p>
-<ul>
-<li>广告套餐：适合预算有限且不介意观看广告的用户。</li>
-<li>基础套餐：提供标准清晰度的观看体验，适合单人使用。</li>
-<li>标准套餐：提供高清画质，支持两个设备同时观看，适合小家庭。</li>
-<li>高级套餐：提供4K画质，最多支持四个设备同时观看，适合追求高清画质的用户。</li>
-</ul>
-<h2 id="2-虚拟信用卡使用教程"><a href="#2-虚拟信用卡使用教程" class="headerlink" title="2. 虚拟信用卡使用教程"></a>2. 虚拟信用卡使用教程</h2><h3 id="2-1-虚拟信用卡是什么东西"><a href="#2-1-虚拟信用卡是什么东西" class="headerlink" title="2.1 虚拟信用卡是什么东西"></a>2.1 虚拟信用卡是什么东西</h3><p>虚拟信用卡是一种<strong>数字版的信用卡</strong>，提供一次性或多次性使用的卡号，用于<strong>在线交易</strong>而<strong>不需要使用实体</strong>信用卡。</p>
-<p>它和真实的卡一样，有着卡号、cvv、地址等等信息，实体卡有的他都有。</p>
-<p>这种卡通常由信用卡发行机构或数字支付服务提供，旨在提供额外的安全层次，通过限定使用次数、金额、有效期等，以减少欺诈风险和保护用户的真实账户信息。</p>
-<h3 id="2-2-开通虚拟卡"><a href="#2-2-开通虚拟卡" class="headerlink" title="2.2 开通虚拟卡"></a>2.2 开通虚拟卡</h3><p>首先进入官方网站：<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard一分钟开卡，轻松订阅海外软件服务</strong></a></p>
-<p>进入网站首页之后，按步骤点击即可，具体教程在：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【保姆级开卡教程】</strong></a></p>
-<p>在支付宝扫码验证之后，选择开通的时长（根据个人情况选择，我推荐两年的，性价比更高）。</p>
-<p>支付之后需要几分钟的时间等待开通成功。</p>
-<p>然后在youtube绑定信用卡的链接里面，把下面卡片的信息复制粘贴进去就行了。</p>
-<p>详细步骤点击：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</strong></a></p>
-<h2 id="3-如何订阅Netflix"><a href="#3-如何订阅Netflix" class="headerlink" title="3. 如何订阅Netflix"></a>3. 如何订阅Netflix</h2><h3 id="3-1-步骤一：选择套餐"><a href="#3-1-步骤一：选择套餐" class="headerlink" title="3.1 步骤一：选择套餐"></a>3.1 步骤一：选择套餐</h3><p>1.访问Netflix官方网站。<br>2.浏览不同的订阅套餐，根据自己的需求选择最合适的一个。</p>
-<h3 id="3-2-步骤二：创建账户"><a href="#3-2-步骤二：创建账户" class="headerlink" title="3.2 步骤二：创建账户"></a>3.2 步骤二：创建账户</h3><p>1.选择好套餐后，点击“开始”按钮开始创建您的Netflix账户。<br>2.输入您的电子邮件地址，并设置一个密码。</p>
-<h3 id="3-3-步骤三：选择支付方式"><a href="#3-3-步骤三：选择支付方式" class="headerlink" title="3.3 步骤三：选择支付方式"></a>3.3 步骤三：选择支付方式</h3><p>1.Netflix支持多种支付方式，包括信用卡、借记卡、PayPal等。<br>2.根据提示，输入您的支付信息以完成订阅。</p>
-<h3 id="3-4-步骤四：开始观看"><a href="#3-4-步骤四：开始观看" class="headerlink" title="3.4 步骤四：开始观看"></a>3.4 步骤四：开始观看</h3><p>1.订阅完成后，您可以立即开始观看Netflix上的内容。<br>2.您还可以下载Netflix应用，在手机、平板、电视等设备上观看。</p>
-<h2 id="4-合租Netflix的注意事项"><a href="#4-合租Netflix的注意事项" class="headerlink" title="4. 合租Netflix的注意事项"></a>4. 合租Netflix的注意事项</h2><p>合租Netflix是一种成本更低的选择，但请注意以下几点：</p>
-<ul>
-<li>确保与可信赖的人一起合租。</li>
-<li>讨论好每个人的责任和权利，包括付款方式和观看习惯。</li>
-<li>注意保护个人账户的安全，不要随意分享账户信息。</li>
-</ul>
-<h2 id="5-全球不同地区的定价差异"><a href="#5-全球不同地区的定价差异" class="headerlink" title="5. 全球不同地区的定价差异"></a>5. 全球不同地区的定价差异</h2><p>Netflix的订阅费用在不同国家和地区有所不同。这主要是因为每个地区的版权成本、运营成本等因素不同。如果您想了解具体的定价信息，可以访问Netflix官方网站或使用VPN查看其他地区的价格。</p>
-<h2 id="6-结语"><a href="#6-结语" class="headerlink" title="6. 结语"></a>6. 结语</h2><p>Netflix提供了多种订阅选项，满足了不同用户的需求。通过以上步骤，您可以轻松完成订阅并开始享受高质量的视频内容。记住，选择最适合自己的套餐，才能获得最佳的观看体验。</p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>Netflix</tag>
-        <tag>奈飞</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
-    <url>/2024/07/19/newsGPT4o/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
-<p><img src="/images/repalce.jpg"></p>
-<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
-<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
-<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
-<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
-<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
-<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
-<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
-<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
-<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
-<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
-<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
-<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>chatGPT4o</tag>
-        <tag>OpenAI</tag>
       </tags>
   </entry>
   <entry>
@@ -1668,6 +1590,84 @@
 ]]></content>
       <tags>
         <tag>chatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【亲测有效】如何订阅Netflix奈飞？</title>
+    <url>/2024/08/01/netflix%E8%AE%A2%E9%98%85/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<h1 id="Netflix-订阅全面指南"><a href="#Netflix-订阅全面指南" class="headerlink" title="Netflix 订阅全面指南"></a>Netflix 订阅全面指南</h1><p><strong>Netflix</strong>，作为全球领先的流媒体平台，提供了丰富多样的电影、电视剧以及纪录片等内容，满足了不同用户的观看需求。本指南将带您详细了解如何订阅Netflix，无论您是想独自享受还是与家人朋友共享，都能找到合适的方案。</p>
+<p>今天，小编就来向大家介绍一下如何订阅Netflix以及如何在国内支付Netflix订阅。</p>
+<h2 id="0-准备工具"><a href="#0-准备工具" class="headerlink" title="0.准备工具"></a>0.准备工具</h2><ol>
+<li>虚拟信用卡（这里我推荐<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>，方便快捷,链接进入有优惠），用来订阅Netflix</li>
+<li>Netflix账号</li>
+</ol>
+<h2 id="1-奈飞套餐概览"><a href="#1-奈飞套餐概览" class="headerlink" title="1. 奈飞套餐概览"></a>1. 奈飞套餐概览</h2><p>Netflix提供四种不同的套餐，以适应不同用户的需求：</p>
+<ul>
+<li>广告套餐：适合预算有限且不介意观看广告的用户。</li>
+<li>基础套餐：提供标准清晰度的观看体验，适合单人使用。</li>
+<li>标准套餐：提供高清画质，支持两个设备同时观看，适合小家庭。</li>
+<li>高级套餐：提供4K画质，最多支持四个设备同时观看，适合追求高清画质的用户。</li>
+</ul>
+<h2 id="2-虚拟信用卡使用教程"><a href="#2-虚拟信用卡使用教程" class="headerlink" title="2. 虚拟信用卡使用教程"></a>2. 虚拟信用卡使用教程</h2><h3 id="2-1-虚拟信用卡是什么东西"><a href="#2-1-虚拟信用卡是什么东西" class="headerlink" title="2.1 虚拟信用卡是什么东西"></a>2.1 虚拟信用卡是什么东西</h3><p>虚拟信用卡是一种<strong>数字版的信用卡</strong>，提供一次性或多次性使用的卡号，用于<strong>在线交易</strong>而<strong>不需要使用实体</strong>信用卡。</p>
+<p>它和真实的卡一样，有着卡号、cvv、地址等等信息，实体卡有的他都有。</p>
+<p>这种卡通常由信用卡发行机构或数字支付服务提供，旨在提供额外的安全层次，通过限定使用次数、金额、有效期等，以减少欺诈风险和保护用户的真实账户信息。</p>
+<h3 id="2-2-开通虚拟卡"><a href="#2-2-开通虚拟卡" class="headerlink" title="2.2 开通虚拟卡"></a>2.2 开通虚拟卡</h3><p>首先进入官方网站：<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard一分钟开卡，轻松订阅海外软件服务</strong></a></p>
+<p>进入网站首页之后，按步骤点击即可，具体教程在：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【保姆级开卡教程】</strong></a></p>
+<p>在支付宝扫码验证之后，选择开通的时长（根据个人情况选择，我推荐两年的，性价比更高）。</p>
+<p>支付之后需要几分钟的时间等待开通成功。</p>
+<p>然后在youtube绑定信用卡的链接里面，把下面卡片的信息复制粘贴进去就行了。</p>
+<p>详细步骤点击：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</strong></a></p>
+<h2 id="3-如何订阅Netflix"><a href="#3-如何订阅Netflix" class="headerlink" title="3. 如何订阅Netflix"></a>3. 如何订阅Netflix</h2><h3 id="3-1-步骤一：选择套餐"><a href="#3-1-步骤一：选择套餐" class="headerlink" title="3.1 步骤一：选择套餐"></a>3.1 步骤一：选择套餐</h3><p>1.访问Netflix官方网站。<br>2.浏览不同的订阅套餐，根据自己的需求选择最合适的一个。</p>
+<h3 id="3-2-步骤二：创建账户"><a href="#3-2-步骤二：创建账户" class="headerlink" title="3.2 步骤二：创建账户"></a>3.2 步骤二：创建账户</h3><p>1.选择好套餐后，点击“开始”按钮开始创建您的Netflix账户。<br>2.输入您的电子邮件地址，并设置一个密码。</p>
+<h3 id="3-3-步骤三：选择支付方式"><a href="#3-3-步骤三：选择支付方式" class="headerlink" title="3.3 步骤三：选择支付方式"></a>3.3 步骤三：选择支付方式</h3><p>1.Netflix支持多种支付方式，包括信用卡、借记卡、PayPal等。<br>2.根据提示，输入您的支付信息以完成订阅。</p>
+<h3 id="3-4-步骤四：开始观看"><a href="#3-4-步骤四：开始观看" class="headerlink" title="3.4 步骤四：开始观看"></a>3.4 步骤四：开始观看</h3><p>1.订阅完成后，您可以立即开始观看Netflix上的内容。<br>2.您还可以下载Netflix应用，在手机、平板、电视等设备上观看。</p>
+<h2 id="4-合租Netflix的注意事项"><a href="#4-合租Netflix的注意事项" class="headerlink" title="4. 合租Netflix的注意事项"></a>4. 合租Netflix的注意事项</h2><p>合租Netflix是一种成本更低的选择，但请注意以下几点：</p>
+<ul>
+<li>确保与可信赖的人一起合租。</li>
+<li>讨论好每个人的责任和权利，包括付款方式和观看习惯。</li>
+<li>注意保护个人账户的安全，不要随意分享账户信息。</li>
+</ul>
+<h2 id="5-全球不同地区的定价差异"><a href="#5-全球不同地区的定价差异" class="headerlink" title="5. 全球不同地区的定价差异"></a>5. 全球不同地区的定价差异</h2><p>Netflix的订阅费用在不同国家和地区有所不同。这主要是因为每个地区的版权成本、运营成本等因素不同。如果您想了解具体的定价信息，可以访问Netflix官方网站或使用VPN查看其他地区的价格。</p>
+<h2 id="6-结语"><a href="#6-结语" class="headerlink" title="6. 结语"></a>6. 结语</h2><p>Netflix提供了多种订阅选项，满足了不同用户的需求。通过以上步骤，您可以轻松完成订阅并开始享受高质量的视频内容。记住，选择最适合自己的套餐，才能获得最佳的观看体验。</p>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>Netflix</tag>
+        <tag>奈飞</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【最新】OpenAI震撼发布全新模型，GPT-3.5光荣退役，引领大模型成本两年内狂降99%的革新</title>
+    <url>/2024/07/19/newsGPT4o/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p>在科技界掀起新一波浪潮的OpenAI，近日突发重磅新模型——<strong>GPT-4o mini</strong>，这款模型不仅能力直逼原版GPT-4，更在价格上实现了惊人的飞跃，每百万输入tokens仅需15美分（约合1.09元人民币），每百万输出tokens也仅60美分（约合4.36元人民币），相比以往模型，成本大幅降低了一个数量级。</p>
+<p><img src="/images/repalce.jpg"></p>
+<p>随着GPT-4o mini的登场，昔日的明星模型GPT-3.5在ChatGPT应用中已正式退役，取而代之的是更为强大且经济的GPT-4o mini，免费用户现已能直接体验这一升级。同时，配套的API也已全面开放，支持高达128k的输入tokens（涵盖图像与文本），并突破性地支持16k输出tokens，远超近期竞争对手Claude 3.5 Sonnet的8k输出能力。</p>
+<p>GPT-4o mini凭借其低成本、低延迟的特性，被官方强烈推荐用于多种高需求场景，包括链式或并行化模型调用、处理大规模上下文输入（如完整代码库或对话历史）以及实现快速、实时的文本交互（如客服系统）。更令人振奋的是，未来几天内，用户还将有机会参与GPT-4o mini的微调过程，进一步定制模型以满足个性化需求。</p>
+<p>OpenAI CEO在回顾过去时提到，仅仅两年前，市场上最顶尖的模型还是GPT-3的text-davinci-003版本，不仅性能远不及今日，成本更是高达现在的100倍，这标志着大模型成本在短短两年内实现了99%的惊人降幅。</p>
+<p>GPT-4o mini不仅在价格上占据优势，其性能同样不容小觑。在多项文本与多模态推理学术基准测试中，该模型均展现出超越其他小模型的实力，特别是在数学与代码能力上表现卓越，仅略逊于GPT-4o完整版。此外，GPT-4o mini还在函数调用方面展现出强大性能，为用户提供了更为全面的解决方案。</p>
+<p>在价格方面，GPT-4o mini相较于竞争对手如Anthropic的Claude 3 Haiku和谷歌的Gemini Flash，更是拥有40%-60%的价格优势。这一优势使得GPT-4o mini在市场中更具竞争力，也进一步巩固了OpenAI在AI领域的领先地位。</p>
+<p><img src="/images/v2-e0bfa882badfaaa773c7c5467d2f1609_180x120.jpg"></p>
+<p>值得一提的是，GPT-4o mini已在多个实际应用场景中展现出其强大实力。通过与Ramp和Superhuman等公司的合作，该模型在“从文件中提取结构化数据”和“对邮件通信记录生成高质量回复”等任务中均表现出色，明显优于GPT-3.5 Turbo。此外，GPT-4o mini还曾在化名GPT-mini的情况下登上大模型竞技场供网友测试检验，并获得了6000+用户投票的认可，其表现与GPT-4 Turbo不相上下。</p>
+<p>在安全性方面，GPT-4o mini也进行了全面升级。作为首个应用OpenAI指令层次结构方法的模型，该模型在抵抗越狱、Prompt注入和系统Prompt提取等方面表现出色。尽管在简单测试中难以通过一句话套出系统提示词，但在面对复杂越狱手段时仍需进一步加强防护。</p>
+<p>此外，OpenAI CEO还透露了一个令人期待的消息：GPT-4o的实时语音模式《Her》将于本月晚些时候进入Alpha测试阶段，并将在稍晚时间正式发布。这一消息无疑为AI语音交互领域带来了新的期待。</p>
+<p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
+<p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
+<p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>chatGPT4o</tag>
+        <tag>OpenAI</tag>
       </tags>
   </entry>
   <entry>
