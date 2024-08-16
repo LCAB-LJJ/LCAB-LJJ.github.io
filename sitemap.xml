@@ -507,13 +507,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Poe/</loc>
-    <lastmod>2024-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Rewind/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -521,14 +514,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Spotify/</loc>
-    <lastmod>2024-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/Suno/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Poe/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -543,6 +529,20 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/AIGC/</loc>
+    <lastmod>2024-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Spotify/</loc>
+    <lastmod>2024-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Suno/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
