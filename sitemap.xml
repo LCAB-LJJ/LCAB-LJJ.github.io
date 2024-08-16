@@ -521,20 +521,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
-    <lastmod>2024-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/AIGC/</loc>
-    <lastmod>2024-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Spotify/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -549,6 +535,20 @@
   </url>
   
   <url>
+    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
+    <lastmod>2024-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/AIGC/</loc>
+    <lastmod>2024-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/tags/ChatGPT/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -556,14 +556,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT4o/</loc>
+    <loc>https://lcab-ljj.github.io/tags/chatGPT-team/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/chatGPT-team/</loc>
+    <loc>https://lcab-ljj.github.io/tags/chatGPT4o/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
