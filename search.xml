@@ -464,6 +464,16 @@
 <p>以实际案例为例，当面对复杂问题时（如涉及多步骤逻辑推理的数学问题），GPT-4等先进模型能够给出准确答案（如肖娜父亲年龄的解答），而验证者模型（如GPT-3）则需经历多轮验证，从阿莉亚的年龄出发，逐步推导出肖娜及其父亲的年龄，确保每一步推理的正确性。</p>
 <p>此外，OpenAI还引入了“可检查性训练”方法，通过交替训练验证器与证明者模型，不仅增强了验证器对过往证明者生成解决方案的监督预测能力，还促使证明者根据验证器的反馈和解决方案的正确性进行持续自我优化。随着训练轮次的增加，验证器对狡猾证明者生成的错误信息的抵抗力显著增强，同时有益证明者生成的内容也变得更加清晰易懂，更贴近人类理解模式。</p>
 <p>然而，值得注意的是，高效训练验证者模型依赖于大量真实、准确的标签数据，以确保其辨别能力的精准性。若验证模型本身存在偏差，仍有可能导致验证结果的非预期输出。因此，在推进PVG技术发展的过程中，持续优化数据质量与验证机制同样重要。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -914,6 +924,16 @@
 <li>GPT订阅费（20$+0.7$手续费）</li>
 <li>总计30.69$，折合人民币约220.11元（参考汇率7.17）</li>
 </ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -979,6 +999,16 @@
 <li>GPT Team订阅的费用（25$）</li>
 <li>总共34.99$，折合人民币约245元（参考汇率7）</li>
 </ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1040,6 +1070,16 @@
 <p>点击确认</p>
 <p><img src="/images/GPT-4o%E8%AE%A2%E9%98%85/11.jpg"></p>
 <p>余额不足请使用支付宝充值，订阅 ChatGPT Plus，接下来的操作会从您的余额中扣取 $20.00。订阅成功后，每个月将会从您的余额中扣取 $20.00，您可随时取消续订。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1077,6 +1117,16 @@
 <p>最终，利用ChatGPT专用浏览器，我成功使用上了ChatGPT</p>
 <p><img src="/images/chatgpt-detected-suspicious-login-behavior/4.jpg"></p>
 <h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>在经历了一系列登录问题和尝试各种解决方法后，最终发现使用为<strong>OpenAI特别设计的Wildcard浏览器</strong>可以成功解决问题。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1119,6 +1169,16 @@
 <li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
 <li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
 </ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1173,6 +1233,16 @@
 <p>记住，选择邮箱服务商时，要确保它符合OpenAI的支持范围，推荐<strong>优先使用gmail</strong>。</p>
 <p>此外，IP环境也是一个重要因素。大家可以使用专用网络环境或者切换其他IP地址。</p>
 <p>如果上述方法都无效，那么你也可以使用一键注册服务，来快速注册ChatGPT账号。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1203,7 +1273,17 @@
 <p><img src="/images/Claude3/2.jpg"></p>
 <h2 id="4-接受验证码"><a href="#4-接受验证码" class="headerlink" title="4.接受验证码"></a>4.接受验证码</h2><p>申请手机号后，点击发送验证码，检查你的虚拟手机号收件箱，找到来自Claude3的短信验证码,将验证码输入到Claude3的注册页面中，完成验证。</p>
 <h2 id="5-结语"><a href="#5-结语" class="headerlink" title="5.结语"></a>5.结语</h2><p>通过以上步骤，您可以完成手机号验证并注册Claude 3.</p>
-<h2 id="6-想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3-注册及升级教程（包含封号解决方法）"><a href="#6-想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3-注册及升级教程（包含封号解决方法）" class="headerlink" title="6.想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3 注册及升级教程（包含封号解决方法）"></a>6.想要升级Claude3并且遇到封号请看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/"><strong>【保姆级】claude3 注册及升级教程（包含封号解决方法）</strong></a></h2><hr>
+<h2 id="6-想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3-注册及升级教程（包含封号解决方法）"><a href="#6-想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3-注册及升级教程（包含封号解决方法）" class="headerlink" title="6.想要升级Claude3并且遇到封号请看这篇文章：【保姆级】claude3 注册及升级教程（包含封号解决方法）"></a>6.想要升级Claude3并且遇到封号请看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/"><strong>【保姆级】claude3 注册及升级教程（包含封号解决方法）</strong></a></h2><blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
       <tags>
@@ -1557,6 +1637,16 @@
 <h3 id="4-报错处理"><a href="#4-报错处理" class="headerlink" title="4. 报错处理"></a>4. 报错处理</h3><p>如果重新登录遇到 Kasm Limit Exceeded For User 这类错误，不用担心，点击左边已经运行的 Session，点击 「Resume」即可恢复原来打开的窗口 。</p>
 <p><img src="/images/how-to-use-bewildcard-remote-environment/5.jpg"></p>
 <p><img src="/images/how-to-use-bewildcard-remote-environment/6.jpg"></p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1596,6 +1686,16 @@
 <p><img src="/images/let-chatgpt-talk-like-human/5.png"></p>
 <h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>首先需要开通GPT Plus服务，进入GPT store搜索并选择“【真人】说人话的GPT”，就可以开始使用啦。</p>
 <p>此外，除了这个GPTs，当你开通GPT4.0后，还有数十个类别中上万个GPTs等你使用哦，快来试试吧！</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -1753,6 +1853,16 @@
 </blockquote>
 <blockquote>
 <p>在此，我诚挚地邀请您加入我们的行列，成为这一伟大旅程中的一员。让我们携手并进，共同探索人工智能的无限可能，将这份科技的力量带给世界的每一个角落，让每个人都能享受到人工智能带来的便利与福祉。这不仅仅是一场技术的革命，更是一次人类智慧的共同飞跃。</p>
+</blockquote>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
 </blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
@@ -1913,6 +2023,16 @@
 <p>然而，也有部分网友对GPT-4o mini的发布表示略感失望，他们更期待的是GPT-5的到来。不过，从GPT-4o mini的表现来看，它无疑已经为OpenAI的下一代模型奠定了坚实的基础。</p>
 <p>在同一天内，DeepSeek与Mistral也分别取得了新进展。DeepSeek开源了DeepSeek-V2-0628版本，成功摘得大模型榜单上开源大模型的头名；而Mistral则推出了与英伟达合作开发的12B小模型，同样支持高达128K的上下文长度。这些进展无疑为AI领域注入了新的活力与可能。</p>
 <p>那我们该怎么使用GPT4o呢？教程在我的宝藏小站其他文章~</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -2004,6 +2124,16 @@
 <p><img src="/images/%E4%B8%80%E9%94%AE%E6%B3%A8%E5%86%8CChatGPT/4.jpg"></p>
 <h2 id="3-结语"><a href="#3-结语" class="headerlink" title="3. 结语"></a>3. 结语</h2><p>总的讲来，这个一键注册服务用起来还是很方便的。</p>
 <p>对于那些怕麻烦、不想自己动手的用户来讲，几分钟的时间就能搞定，而且价格也不贵，才<strong>七块钱</strong>，可以说是很方便实惠的。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -2277,6 +2407,16 @@
 <p><img src="/images/%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E/10.jpg"><br>在这场跨越时代的数学盛宴中，哈佛大学教授丹尼斯·盖茨戈里与耶鲁大学教授山姆·拉斯金无疑是耀眼的双子星。然而，他们并非孤军奋战，研究团队中还包括了来自世界各地的杰出数学家。其中，中国学者陈麟的参与尤为引人注目。作为清华大学丘成桐数学科学中心的助理教授，陈麟不仅在数学领域展现出了非凡的才华，更在几何朗兰兹纲领的研究中留下了深刻的印记。</p>
 <p>陈麟的成长历程，是天赋与努力的完美结合。从少年时期的数学奥林匹克金牌得主，到哈佛大学博士毕业并荣获优秀奖学金，他的每一步都走得坚定而扎实。在丹尼斯的引领下，他深入几何朗兰兹纲领的研究领域，为证明几何朗兰兹猜想贡献了自己的力量。未来，他将继续在数学的道路上探索前行，为攀登更高的数学高峰而不懈努力。</p>
 <p>此外，中国数学界对朗兰兹纲领的关注和投入也令人瞩目。北大黄金一代的恽之玮、张伟、袁新意、朱歆文等学者，正以他们的智慧和汗水，为这一宏伟的数学蓝图添砖加瓦。可以预见，在未来的日子里，中国数学学者将在朗兰兹纲领的研究中取得更多令人瞩目的成就。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
@@ -2297,6 +2437,16 @@
 <p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
 <p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
 <p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
 <hr>
 <p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
 ]]></content>
