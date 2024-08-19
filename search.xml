@@ -1292,6 +1292,58 @@
       </tags>
   </entry>
   <entry>
+    <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
+    <url>/2024/08/15/chatgpt-subscribe-failed/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>前几天我的gpt账号过期了，但是当我尝试重新订阅的时候，却提示：“我们未能验证您的支付方式。请选择另一支付方式并重试”。</p>
+<p><img src="/images/chatgpt-subscribe-failed/1.jpg"></p>
+<p>此外，还有以下这些也是经常遇到的问题：</p>
+<ul>
+<li>Your credit card was declined.Try paying with a debit card instead.</li>
+<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
+<li>你的卡已被拒绝。</li>
+<li>您的金融卡已被拒绝。</li>
+<li>您拒绝了。请尝试用签账卡支付。</li>
+<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
+</ul>
+<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先我的卡里肯定是有余额的，而且卡也没有别的问题。</p>
+<p>所以可能是代理出了问题或者浏览器。</p>
+<p>我先换了一下浏览器，从chrome换成了edge，但是依旧没有起到作用。</p>
+<p>随后我又换了一下代理，从美国、新加坡、韩国、日本，等等，我都试了，但是还是没有办法解决。</p>
+<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
+<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a> 有一键升级ChatGPT4.0的功能，于是试了一下</p>
+<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT4.0升级教程</a></p>
+<p><img src="/images/chatgpt-subscribe-failed/2.jpg"></p>
+<p>最终，利用一键升级服务成功升级了ChatGPT4.0</p>
+<p><img src="/images/chatgpt-subscribe-failed/3.jpg"></p>
+<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>如果你遇到类似的问题，不妨尝试以下步骤：</p>
+<ul>
+<li>确认支付方式无误：检查卡内余额、状态及近期的支付记录。</li>
+<li>检查网络连接：尝试更换代理或VPN节点，确保网络连接稳定且安全。</li>
+<li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
+<li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
+</ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【绝对有效】解决ChatGPT邮箱注册失败，提示The email you provided is not supported</title>
     <url>/2024/08/15/chatgpt-the-email-you-provided-is-not-supported/</url>
     <content><![CDATA[<blockquote>
@@ -1672,52 +1724,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT绑卡失败？Openai绑卡被拒绝？如何使用远程环境进行绑定/支付</title>
-    <url>/2024/08/15/how-to-use-bewildcard-remote-environment/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么要使用美国家庭网络环境？</p>
-<p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个<strong>风控判断</strong>，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付，stripe 会返回以下错误：</p>
-<blockquote>
-<p>Your card does not support this type of purchase.<br>您的银行卡不支持这种购买类型。</p>
-</blockquote>
-<blockquote>
-<p>Your card has been declined.<br>您的卡已被拒绝。</p>
-</blockquote>
-<p>这个时候就需要一个美国家庭网络环境来进行绑定&#x2F;支付，避免因为 stripe 的 IP 判断而失败，具体的使用方法如下：</p>
-<h2 id="远程环境使用教程"><a href="#远程环境使用教程" class="headerlink" title="远程环境使用教程"></a>远程环境使用教程</h2><h3 id="1-注册wildcard并开通一张卡"><a href="#1-注册wildcard并开通一张卡" class="headerlink" title="1. 注册wildcard并开通一张卡"></a>1. 注册wildcard并开通一张卡</h3><p>wildcard首页：<a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
-<p>详细教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
-<h3 id="2-登录远程环境"><a href="#2-登录远程环境" class="headerlink" title="2. 登录远程环境"></a>2. 登录远程环境</h3><p>在登录后的「我的卡」页面，找到「远程环境」的入口，点击「登录远程环境」：</p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/1.jpg"></p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/2.jpg"></p>
-<h3 id="3-启动-brave-浏览器"><a href="#3-启动-brave-浏览器" class="headerlink" title="3. 启动 brave 浏览器"></a>3. 启动 brave 浏览器</h3><p>点击屏幕中央的 「Brave」，然后点击「LAUNCH SESSION」按钮：</p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/3.jpg"></p>
-<p>之后会登录到一个远程的浏览器环境。</p>
-<p>然后在浏览器地址栏输入对应的服务网址即可进行访问，每个浏览器环境有20分钟的使用时长：</p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/4.jpg"></p>
-<h3 id="4-报错处理"><a href="#4-报错处理" class="headerlink" title="4. 报错处理"></a>4. 报错处理</h3><p>如果重新登录遇到 Kasm Limit Exceeded For User 这类错误，不用担心，点击左边已经运行的 Session，点击 「Resume」即可恢复原来打开的窗口 。</p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/5.jpg"></p>
-<p><img src="/images/how-to-use-bewildcard-remote-environment/6.jpg"></p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【保姆级】claude3 注册及升级教程（包含封号解决方法）</title>
     <url>/2024/08/14/how-to-update-Cluade3/</url>
     <content><![CDATA[<blockquote>
@@ -1804,40 +1810,34 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
-    <url>/2024/08/15/chatgpt-subscribe-failed/</url>
+    <title>ChatGPT绑卡失败？Openai绑卡被拒绝？如何使用远程环境进行绑定/支付</title>
+    <url>/2024/08/15/how-to-use-bewildcard-remote-environment/</url>
     <content><![CDATA[<blockquote>
 <p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
 </blockquote>
 <hr>
-<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>前几天我的gpt账号过期了，但是当我尝试重新订阅的时候，却提示：“我们未能验证您的支付方式。请选择另一支付方式并重试”。</p>
-<p><img src="/images/chatgpt-subscribe-failed/1.jpg"></p>
-<p>此外，还有以下这些也是经常遇到的问题：</p>
-<ul>
-<li>Your credit card was declined.Try paying with a debit card instead.</li>
-<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
-<li>你的卡已被拒绝。</li>
-<li>您的金融卡已被拒绝。</li>
-<li>您拒绝了。请尝试用签账卡支付。</li>
-<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
-</ul>
-<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先我的卡里肯定是有余额的，而且卡也没有别的问题。</p>
-<p>所以可能是代理出了问题或者浏览器。</p>
-<p>我先换了一下浏览器，从chrome换成了edge，但是依旧没有起到作用。</p>
-<p>随后我又换了一下代理，从美国、新加坡、韩国、日本，等等，我都试了，但是还是没有办法解决。</p>
-<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
-<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a> 有一键升级ChatGPT4.0的功能，于是试了一下</p>
-<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT4.0升级教程</a></p>
-<p><img src="/images/chatgpt-subscribe-failed/2.jpg"></p>
-<p>最终，利用一键升级服务成功升级了ChatGPT4.0</p>
-<p><img src="/images/chatgpt-subscribe-failed/3.jpg"></p>
-<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>如果你遇到类似的问题，不妨尝试以下步骤：</p>
-<ul>
-<li>确认支付方式无误：检查卡内余额、状态及近期的支付记录。</li>
-<li>检查网络连接：尝试更换代理或VPN节点，确保网络连接稳定且安全。</li>
-<li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
-<li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
-</ul>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么要使用美国家庭网络环境？</p>
+<p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个<strong>风控判断</strong>，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付，stripe 会返回以下错误：</p>
+<blockquote>
+<p>Your card does not support this type of purchase.<br>您的银行卡不支持这种购买类型。</p>
+</blockquote>
+<blockquote>
+<p>Your card has been declined.<br>您的卡已被拒绝。</p>
+</blockquote>
+<p>这个时候就需要一个美国家庭网络环境来进行绑定&#x2F;支付，避免因为 stripe 的 IP 判断而失败，具体的使用方法如下：</p>
+<h2 id="远程环境使用教程"><a href="#远程环境使用教程" class="headerlink" title="远程环境使用教程"></a>远程环境使用教程</h2><h3 id="1-注册wildcard并开通一张卡"><a href="#1-注册wildcard并开通一张卡" class="headerlink" title="1. 注册wildcard并开通一张卡"></a>1. 注册wildcard并开通一张卡</h3><p>wildcard首页：<a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+<p>详细教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
+<h3 id="2-登录远程环境"><a href="#2-登录远程环境" class="headerlink" title="2. 登录远程环境"></a>2. 登录远程环境</h3><p>在登录后的「我的卡」页面，找到「远程环境」的入口，点击「登录远程环境」：</p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/1.jpg"></p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/2.jpg"></p>
+<h3 id="3-启动-brave-浏览器"><a href="#3-启动-brave-浏览器" class="headerlink" title="3. 启动 brave 浏览器"></a>3. 启动 brave 浏览器</h3><p>点击屏幕中央的 「Brave」，然后点击「LAUNCH SESSION」按钮：</p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/3.jpg"></p>
+<p>之后会登录到一个远程的浏览器环境。</p>
+<p>然后在浏览器地址栏输入对应的服务网址即可进行访问，每个浏览器环境有20分钟的使用时长：</p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/4.jpg"></p>
+<h3 id="4-报错处理"><a href="#4-报错处理" class="headerlink" title="4. 报错处理"></a>4. 报错处理</h3><p>如果重新登录遇到 Kasm Limit Exceeded For User 这类错误，不用担心，点击左边已经运行的 Session，点击 「Resume」即可恢复原来打开的窗口 。</p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/5.jpg"></p>
+<p><img src="/images/how-to-use-bewildcard-remote-environment/6.jpg"></p>
 <blockquote>
 <p>参考文章：</p>
 <ol>
@@ -2674,36 +2674,6 @@
       </tags>
   </entry>
   <entry>
-    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
-    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
-<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
-<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
-<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
-<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>Anthropic</tag>
-        <tag>Claude Android</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【最新最热】几何朗兰兹猜想终获破解！跨越30年研究，800余页证明论文问世，中国学者陈麟卓越贡献！</title>
     <url>/2024/07/24/%E7%8C%9C%E6%83%B3/</url>
     <content><![CDATA[<blockquote>
@@ -2751,6 +2721,36 @@
       <tags>
         <tag>数学</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>针尖对麦芒！Anthropic 推出 Claude Android 可实时翻译！</title>
+    <url>/2024/07/17/%E9%92%88%E5%B0%96%E5%AF%B9%E9%BA%A6%E8%8A%92/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>Anthropic，作为OpenAI的强劲对手，于本周二正式推出了专为Android用户设计的Claude应用程序，</strong>旨在通过拓宽Claude的接入平台，吸引用户从ChatGPT转向其服务。这款Android应用承袭了五月问世的iOS版本的设计理念，用户无需支付任何费用即可体验到Anthropic顶尖AI模型——Claude 3.5 Sonnet的强大功能，并可选择升级为Anthropic的Pro或Team订阅计划以享受更多高级服务。</p>
+<p><img src="/images/b9aeb9456bf5cea752748e69500fea5.png"></p>
+<p>应用内，用户能够无缝同步跨设备的Claude对话记录，还能即时上传图片或文档，利用应用程序内置的实时图像分析功能进行深度处理。尤为值得一提的是，Claude Android版还集成了实时语言翻译特性，Anthropic寄望这一功能成为吸引用户频繁使用应用的强大诱因。此外，该应用还为企业客户量身打造了移动访问权限，使他们能够随时随地管理自己的Claude账户。</p>
+<p><strong>然而，</strong>尽管Anthropic自信其AI技术能与OpenAI及Google的产品分庭抗礼，市场反应却揭示了其在吸引大众用户方面的挑战。回顾Claude iOS应用的初次亮相，其市场接受度较为温和，首周全球下载量仅为157,000次，相比之下，ChatGPT iOS应用在发布的前五天便实现了480,000次的安装量，这一数据对比凸显了Anthropic在消费者市场中的推广难题。</p>
+<p><img src="http://eb118-file.cdn.bcebos.com/upload/28da87b7ec344be799292f9b99916a88_158473674.png"></p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>Anthropic</tag>
+        <tag>Claude Android</tag>
       </tags>
   </entry>
 </search>
