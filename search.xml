@@ -434,6 +434,96 @@
       </tags>
   </entry>
   <entry>
+    <title>如何启用ChatGPT Plus插件功能</title>
+    <url>/2024/08/20/How-to-Enable-ChatGPT-Plus-Plugin-Features/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Onlyfans</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="进入设置"><a href="#进入设置" class="headerlink" title="进入设置"></a>进入设置</h2><p>请点击页面左下角的个人邮箱图标，随后在弹出的窗口中选择「Settings &amp; Beta」选项，以便进行进一步设置。</p>
+<p><img src="/images/How-to-Enable-ChatGPT-Plus-Plugin-Features/1.png"></p>
+<h2 id="开启选项"><a href="#开启选项" class="headerlink" title="开启选项"></a>开启选项</h2><p>在设置选项中，请找到并点击「Beta features续」，然后启用其中的「Plugins」功能。</p>
+<p><img src="/images/How-to-Enable-ChatGPT-Plus-Plugin-Features/2.png"></p>
+<h2 id="插件推荐"><a href="#插件推荐" class="headerlink" title="插件推荐"></a>插件推荐</h2><p>接下来，<strong>胖虎</strong>将为大家介绍ChatGPT 4.0中的几个高效实用的插件。</p>
+<h3 id="1-AskYourPDF"><a href="#1-AskYourPDF" class="headerlink" title="1.AskYourPDF"></a>1.AskYourPDF</h3><ul>
+<li>功能：此插件专为从PDF文档中高效提取信息而设计。您只需提供PDF文件的链接或文档ID，插件即可自动下载并深入分析其内容，从而迅速回答您关于该文档的任何疑问。</li>
+<li>使用场景： 当您需要从PDF文件中精准提取特定信息时，比如学术论文的详尽细节、报告的关键数据点，或是任何PDF文档的核心内容时，这款插件将发挥巨大作用，助您轻松获取所需信息。</li>
+</ul>
+<h3 id="2、rephrase"><a href="#2、rephrase" class="headerlink" title="2、rephrase"></a>2、rephrase</h3><ul>
+<li>功能： 这款插件具备强大的问题优化与澄清功能，它借助GPT-3.5-turbo模型，能够精准重构您的输入，使问题表达更加清晰、具体且相关，从而提升答案的精准度与满意度。</li>
+<li>使用场景： 当您感到自己的问题可能不够清晰，或希望以更为精准的方式表达时，这款插件将为您提供强大的支持。它能够帮助您重构问题或请求，让您的需求更加明确，从而获得更为精准和满意的答案。</li>
+</ul>
+<h3 id="3、WebPilot"><a href="#3、WebPilot" class="headerlink" title="3、WebPilot"></a>3、WebPilot</h3><ul>
+<li>功能：这款工具赋予您一项便捷功能，只需提供网页链接，即可根据您的需求与网页进行互动、精确提取所需信息或执行多样化操作。无论是访问、分析网页内容，还是根据指示执行如内容重写、翻译等任务，它都能助您一臂之力，让信息获取与处理变得轻松高效。</li>
+<li>使用场景：当您需要从特定网页中精准提取信息、深入理解页面内容，或是对网页内容进行特定的处理（如翻译或重写）时，这款插件将展现出其无可比拟的实用性。</li>
+</ul>
+<h3 id="4、diagrams-show-me"><a href="#4、diagrams-show-me" class="headerlink" title="4、diagrams_show_me"></a>4、diagrams_show_me</h3><ul>
+<li>功能： 这这款插件具备强大的图表和图形创建功能，能够将复杂的信息和概念以直观可视化的方式呈现。它支持多种图表类型，包括序列图、思维导图、实体关系图和时间线等，让您能够根据需求灵活选择，从而更好地展示和解析数据，提升信息传递的效果。</li>
+<li>使用场景： 当您需深入理解或精准解释复杂过程、系统架构、数据集或抽象概念时，这款插件将发挥巨大价值。它能以直观易懂的图表形式，帮助您清晰地展示软件工作流程、项目时间规划、复杂系统的组件关系等，让您在信息传递与沟通中更加得心应手。</li>
+</ul>
+<h3 id="5、KAYAK"><a href="#5、KAYAK" class="headerlink" title="5、KAYAK"></a>5、KAYAK</h3><ul>
+<li>功能： 这款插件提供全方位的旅行搜索服务，涵盖航班、住宿及租车。您可轻松查找特定日期和目的地的航班，搜索心仪城市的住宿，以及快速预订特定地点的租车服务。</li>
+<li>使用场景: 计划旅行时，这款插件助您轻松查找航班、酒店与租车服务，满足商务或休闲需求。更有预算筛选功能，助您探索经济适用的旅行目的地。</li>
+</ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://www.openai.com/">OpenAi官网</a></li>
+<li><a href="https://platform.openai.com/docs/guides/chat">ChatGPT官方文档</a></li>
+<li><a href="https://openai.com/blog">OpenAi博客</a></li>
+<li><a href="https://arxiv.org/abs/2005.14165">OpenAi研究论文</a></li>
+<li><a href="https://community.openai.com/">ChatGPT社区论坛</a></li>
+</ol>
+</blockquote>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【包教包会】如何将虚拟信用卡Wildcard绑定PayPal？详细操作指南！</title>
     <url>/2024/08/14/How-to-bind-wildcard-to-PayPal/</url>
     <content><![CDATA[<blockquote>
@@ -708,96 +798,6 @@
       <tags>
         <tag>Onlyfans</tag>
         <tag>hongkongdoll</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何启用ChatGPT Plus插件功能</title>
-    <url>/2024/08/20/How-to-Enable-ChatGPT-Plus-Plugin-Features/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Onlyfans</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="进入设置"><a href="#进入设置" class="headerlink" title="进入设置"></a>进入设置</h2><p>请点击页面左下角的个人邮箱图标，随后在弹出的窗口中选择「Settings &amp; Beta」选项，以便进行进一步设置。</p>
-<p><img src="/images/How-to-Enable-ChatGPT-Plus-Plugin-Features/1.png"></p>
-<h2 id="开启选项"><a href="#开启选项" class="headerlink" title="开启选项"></a>开启选项</h2><p>在设置选项中，请找到并点击「Beta features续」，然后启用其中的「Plugins」功能。</p>
-<p><img src="/images/How-to-Enable-ChatGPT-Plus-Plugin-Features/2.png"></p>
-<h2 id="插件推荐"><a href="#插件推荐" class="headerlink" title="插件推荐"></a>插件推荐</h2><p>接下来，<strong>胖虎</strong>将为大家介绍ChatGPT 4.0中的几个高效实用的插件。</p>
-<h3 id="1-AskYourPDF"><a href="#1-AskYourPDF" class="headerlink" title="1.AskYourPDF"></a>1.AskYourPDF</h3><ul>
-<li>功能：此插件专为从PDF文档中高效提取信息而设计。您只需提供PDF文件的链接或文档ID，插件即可自动下载并深入分析其内容，从而迅速回答您关于该文档的任何疑问。</li>
-<li>使用场景： 当您需要从PDF文件中精准提取特定信息时，比如学术论文的详尽细节、报告的关键数据点，或是任何PDF文档的核心内容时，这款插件将发挥巨大作用，助您轻松获取所需信息。</li>
-</ul>
-<h3 id="2、rephrase"><a href="#2、rephrase" class="headerlink" title="2、rephrase"></a>2、rephrase</h3><ul>
-<li>功能： 这款插件具备强大的问题优化与澄清功能，它借助GPT-3.5-turbo模型，能够精准重构您的输入，使问题表达更加清晰、具体且相关，从而提升答案的精准度与满意度。</li>
-<li>使用场景： 当您感到自己的问题可能不够清晰，或希望以更为精准的方式表达时，这款插件将为您提供强大的支持。它能够帮助您重构问题或请求，让您的需求更加明确，从而获得更为精准和满意的答案。</li>
-</ul>
-<h3 id="3、WebPilot"><a href="#3、WebPilot" class="headerlink" title="3、WebPilot"></a>3、WebPilot</h3><ul>
-<li>功能：这款工具赋予您一项便捷功能，只需提供网页链接，即可根据您的需求与网页进行互动、精确提取所需信息或执行多样化操作。无论是访问、分析网页内容，还是根据指示执行如内容重写、翻译等任务，它都能助您一臂之力，让信息获取与处理变得轻松高效。</li>
-<li>使用场景：当您需要从特定网页中精准提取信息、深入理解页面内容，或是对网页内容进行特定的处理（如翻译或重写）时，这款插件将展现出其无可比拟的实用性。</li>
-</ul>
-<h3 id="4、diagrams-show-me"><a href="#4、diagrams-show-me" class="headerlink" title="4、diagrams_show_me"></a>4、diagrams_show_me</h3><ul>
-<li>功能： 这这款插件具备强大的图表和图形创建功能，能够将复杂的信息和概念以直观可视化的方式呈现。它支持多种图表类型，包括序列图、思维导图、实体关系图和时间线等，让您能够根据需求灵活选择，从而更好地展示和解析数据，提升信息传递的效果。</li>
-<li>使用场景： 当您需深入理解或精准解释复杂过程、系统架构、数据集或抽象概念时，这款插件将发挥巨大价值。它能以直观易懂的图表形式，帮助您清晰地展示软件工作流程、项目时间规划、复杂系统的组件关系等，让您在信息传递与沟通中更加得心应手。</li>
-</ul>
-<h3 id="5、KAYAK"><a href="#5、KAYAK" class="headerlink" title="5、KAYAK"></a>5、KAYAK</h3><ul>
-<li>功能： 这款插件提供全方位的旅行搜索服务，涵盖航班、住宿及租车。您可轻松查找特定日期和目的地的航班，搜索心仪城市的住宿，以及快速预订特定地点的租车服务。</li>
-<li>使用场景: 计划旅行时，这款插件助您轻松查找航班、酒店与租车服务，满足商务或休闲需求。更有预算筛选功能，助您探索经济适用的旅行目的地。</li>
-</ul>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://www.openai.com/">OpenAi官网</a></li>
-<li><a href="https://platform.openai.com/docs/guides/chat">ChatGPT官方文档</a></li>
-<li><a href="https://openai.com/blog">OpenAi博客</a></li>
-<li><a href="https://arxiv.org/abs/2005.14165">OpenAi研究论文</a></li>
-<li><a href="https://community.openai.com/">ChatGPT社区论坛</a></li>
-</ol>
-</blockquote>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -2146,99 +2146,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
-    <url>/2024/08/15/chatgpt-subscribe-failed/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Onlyfans</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>前几天我的gpt账号过期了，但是当我尝试重新订阅的时候，却提示：“我们未能验证您的支付方式。请选择另一支付方式并重试”。</p>
-<p><img src="/images/chatgpt-subscribe-failed/1.jpg"></p>
-<p>此外，还有以下这些也是经常遇到的问题：</p>
-<ul>
-<li>Your credit card was declined.Try paying with a debit card instead.</li>
-<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
-<li>你的卡已被拒绝。</li>
-<li>您的金融卡已被拒绝。</li>
-<li>您拒绝了。请尝试用签账卡支付。</li>
-<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
-</ul>
-<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先我的卡里肯定是有余额的，而且卡也没有别的问题。</p>
-<p>所以可能是代理出了问题或者浏览器。</p>
-<p>我先换了一下浏览器，从chrome换成了edge，但是依旧没有起到作用。</p>
-<p>随后我又换了一下代理，从美国、新加坡、韩国、日本，等等，我都试了，但是还是没有办法解决。</p>
-<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
-<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a> 有一键升级ChatGPT4.0的功能，于是试了一下</p>
-<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT4.0升级教程</a></p>
-<p><img src="/images/chatgpt-subscribe-failed/2.jpg"></p>
-<p>最终，利用一键升级服务成功升级了ChatGPT4.0</p>
-<p><img src="/images/chatgpt-subscribe-failed/3.jpg"></p>
-<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>如果你遇到类似的问题，不妨尝试以下步骤：</p>
-<ul>
-<li>确认支付方式无误：检查卡内余额、状态及近期的支付记录。</li>
-<li>检查网络连接：尝试更换代理或VPN节点，确保网络连接稳定且安全。</li>
-<li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
-<li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
-</ul>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>解决ChatGPT报错429：请求过多时该怎么办？</title>
     <url>/2024/08/19/chatgpt-error-429-too-many-requests/</url>
     <content><![CDATA[<p><strong>其他精选文章</strong></p>
@@ -2318,6 +2225,99 @@
 <li>可以使用浏览器的清理工具或者手动删除缓存文件。</li>
 </ul>
 <hr>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<p>你好！我是<strong>进击的胖虎</strong>，一名关注AIGC技术的博主，如果你也喜欢我的文章就看看博主其他文章博主宝藏小站，开通正版GPT-4o教程在<a href="https://lcab-ljj.github.io/2024/08/07/chatGPT4o-register/"><strong>【保姆级】GPT-4o官网最详细订阅指南</strong></a></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
+    <url>/2024/08/15/chatgpt-subscribe-failed/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Onlyfans</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>前几天我的gpt账号过期了，但是当我尝试重新订阅的时候，却提示：“我们未能验证您的支付方式。请选择另一支付方式并重试”。</p>
+<p><img src="/images/chatgpt-subscribe-failed/1.jpg"></p>
+<p>此外，还有以下这些也是经常遇到的问题：</p>
+<ul>
+<li>Your credit card was declined.Try paying with a debit card instead.</li>
+<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
+<li>你的卡已被拒绝。</li>
+<li>您的金融卡已被拒绝。</li>
+<li>您拒绝了。请尝试用签账卡支付。</li>
+<li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li>
+</ul>
+<h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先我的卡里肯定是有余额的，而且卡也没有别的问题。</p>
+<p>所以可能是代理出了问题或者浏览器。</p>
+<p>我先换了一下浏览器，从chrome换成了edge，但是依旧没有起到作用。</p>
+<p>随后我又换了一下代理，从美国、新加坡、韩国、日本，等等，我都试了，但是还是没有办法解决。</p>
+<h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p>
+<p>最后，我突然发现我所使用的 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a> 有一键升级ChatGPT4.0的功能，于是试了一下</p>
+<p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">ChatGPT4.0升级教程</a></p>
+<p><img src="/images/chatgpt-subscribe-failed/2.jpg"></p>
+<p>最终，利用一键升级服务成功升级了ChatGPT4.0</p>
+<p><img src="/images/chatgpt-subscribe-failed/3.jpg"></p>
+<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>如果你遇到类似的问题，不妨尝试以下步骤：</p>
+<ul>
+<li>确认支付方式无误：检查卡内余额、状态及近期的支付记录。</li>
+<li>检查网络连接：尝试更换代理或VPN节点，确保网络连接稳定且安全。</li>
+<li>更换浏览器：如果以上步骤都无法解决问题，尝试使用另一种浏览器进行支付。</li>
+<li>如果还不行，你也可以像我一样，使用 <a href="https://wildcard.com.cn/i/JJDPH">wildcard的一键升级</a></li>
+</ul>
 <blockquote>
 <p>参考文章：</p>
 <ol>
