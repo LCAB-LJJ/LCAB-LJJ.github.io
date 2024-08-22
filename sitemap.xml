@@ -479,6 +479,13 @@
 
   
   <url>
+    <loc>https://lcab-ljj.github.io/tags/AWS/</loc>
+    <lastmod>2024-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/tags/Fantia/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -487,13 +494,6 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/wildcard/</loc>
-    <lastmod>2024-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lcab-ljj.github.io/tags/AWS/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -528,14 +528,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/PayPal/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Midjourney/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Midjourney/</loc>
+    <loc>https://lcab-ljj.github.io/tags/PayPal/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -549,14 +549,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/overleaf/</loc>
+    <loc>https://lcab-ljj.github.io/tags/hongkongdoll/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/hongkongdoll/</loc>
+    <loc>https://lcab-ljj.github.io/tags/overleaf/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
