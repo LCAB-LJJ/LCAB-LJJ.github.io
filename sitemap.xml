@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lcab-ljj.github.io/2024/09/05/There-s-a-problem-with-logging-into-Gmail/</loc>
+    
+    <lastmod>2024-09-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/2024/09/05/Wildcard-Supplement-what-flexible-use-is/</loc>
     
     <lastmod>2024-09-05</lastmod>
@@ -866,6 +875,13 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/AI/</loc>
+    <lastmod>2024-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Gmail/</loc>
     <lastmod>2024-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
