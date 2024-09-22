@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lcab-ljj.github.io/2024/09/22/GPT-play-balck-myth-WUkong/</loc>
+    
+    <lastmod>2024-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/2024/09/21/Payment-Guide-for-Google-Play-US-Account/</loc>
     
     <lastmod>2024-09-21</lastmod>
@@ -1003,6 +1012,13 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/Google-play/</loc>
+    <lastmod>2024-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/GPT/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
