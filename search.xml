@@ -8041,4 +8041,76 @@
         <tag>Midjourney</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Meta新模型Dualformer：融合快慢思维，推理能力媲美人脑</title>
+    <url>/2024/10/17/Meta-Innovative-New-Model-Dualformer/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Onlyfans</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>Meta 的 FAIR 团队最近推出了一款名为 Dualformer 的全新 Transformer 模型，该模型模仿人类的双重认知系统，能够无缝整合快速和慢速推理模式，在推理能力和计算效率上取得了显著突破。</p>
+<p>人类的思维过程通常被认为是由两种系统控制的:系统1快速直观，系统2则更慢但更具逻辑性。</p>
+<p>传统的 Transformer 模型通常只模拟了系统1或系统2中的一种，导致模型要么速度快但推理能力差，要么推理能力强但速度慢且计算成本高。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477118748065359519716.png" alt="image.png"></p>
+<p>Dualformer 的创新之处在于其训练方式。研究人员利用随机推理轨迹对模型进行训练，在训练过程中随机丢弃轨迹的不同部分，类似于分析人类思维过程并创建捷径。<strong>这种训练策略使 Dualformer 能够在推理时灵活切换不同的模式:</strong></p>
+<p><strong>快速模式:</strong> Dualformer 只输出最终解决方案，速度极快。</p>
+<p><strong>慢速模式:</strong> Dualformer 会输出完整的推理链和最终解决方案，推理能力更强。</p>
+<p><strong>自动模式:</strong> Dualformer 可以根据任务的复杂程度自动选择合适的模式。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477120580901898647032.png" alt="image.png"></p>
+<p>实验结果表明，Dualformer 在迷宫导航和数学问题求解等任务上表现出色。在慢速模式下，Dualformer 能够以97.6% 的成功率解决30x30的迷宫导航任务，超越了只使用完整推理轨迹训练的 Searchformer 模型，同时推理步骤减少了45.5%。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477130580850368638254.png" alt="image.png"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477123115211454023662.png" alt="image.png"></p>
+<p>在快速模式下，Dualformer 的成功率也高达80%，远高于只使用最终解决方案训练的 Solution-Only 模型。在自动模式下，Dualformer 则能够在保持高成功率的同时，显著减少推理步骤。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477124468320388705105.png" alt="image.png"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6386477125626871276078129.png" alt="image.png"></p>
+<p>Dualformer 的成功表明，将人类认知理论应用于人工智能模型设计能够有效提升模型的性能。这种融合快慢思维的模式为构建更强大、更高效的 AI 系统提供了新的思路。</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/10/17/Meta-Innovative-New-Model-Dualformer/">Meta新模型Dualformer：融合快慢思维，推理能力媲美人脑 | 进击的胖虎</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+  </entry>
 </search>
