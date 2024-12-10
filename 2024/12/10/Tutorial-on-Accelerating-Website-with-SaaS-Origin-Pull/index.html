@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="360-site-verification" content="f031ae85c8e8ffe2c6c53d5bcb34ec97" />
+<meta name="google-site-verification" content="OE48fFWDKjNYfK_WtFFjRPoGaau8WDW6n24kzRtlvp4" />
+<meta name="msvalidate.01" content="E5496E8857BB6D9B5F2B9E6A79111ECE" />
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 7.3.0">
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2bdff2d367b1c5072d1cd1e21f171bd1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha256-XOqroi11tY4EFQMR9ZYwZWKj5ZXiftSx36RRuC3anlA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"lcab-ljj.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.20.0","exturl":false,"sidebar":{"position":"left","widgets":[{"type":"image","src":"https://jjdph.oss-cn-beijing.aliyuncs.com/1726988347205.jpg","alt":"公众号","link":"https://aipioneershark.com/"}],"width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="分享一个利用SaaS回源对网站进行加速的教程，并对SaaS开源进行了简短介绍">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程">
+<meta property="og:url" content="https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/index.html">
+<meta property="og:site_name" content="进击的胖虎">
+<meta property="og:description" content="分享一个利用SaaS回源对网站进行加速的教程，并对SaaS开源进行了简短介绍">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121431-image-20241118121431160-2024-11-12-31.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121520-image-20241118121520009-2024-11-12-20.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123138-image-20241118123138817-2024-11-12-38.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164607-4e0430d39bff681e4c9b2aff48edc5f8-2024-11-16-07.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241117144610-image-20241117144610063-2024-11-14-10.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123417-image-20241118123417832-2024-11-12-17.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123836-image-20241118123836262-2024-11-12-36.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165001-639aad3cb1ff09f7c02df7143b44698a-2024-11-16-01.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164956-345d43446e3572e75f06fae9fee6c24e-2024-11-16-56.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134012-image-20241118134012695-2024-11-13-12.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118133609-image-20241118133609278-2024-11-13-09.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134058-image-20241118134058046-2024-11-13-58.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165421-image-20241119165421221-2024-11-16-21.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165912-image-20241119165911939-2024-11-16-12.png">
+<meta property="og:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp">
+<meta property="article:published_time" content="2024-12-10T11:49:31.000Z">
+<meta property="article:modified_time" content="2024-12-10T12:01:46.195Z">
+<meta property="article:author" content="进击的胖虎">
+<meta property="article:tag" content="SaaS">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png">
+
+
+<link rel="canonical" href="https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/","path":"2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/","title":"【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程 | 进击的胖虎</title>
+  
+
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">进击的胖虎</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">AIGC</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-SaaS%E5%9B%9E%E6%BA%90%E4%BB%8B%E7%BB%8D"><span class="nav-number">1.</span> <span class="nav-text">1 SaaS回源介绍</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-%E4%BB%80%E4%B9%88%E6%98%AFSaaS"><span class="nav-number">1.1.</span> <span class="nav-text">1.1 什么是SaaS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-2-%E4%BB%80%E4%B9%88%E6%98%AFSaaS%E5%9B%9E%E6%BA%90"><span class="nav-number">1.2.</span> <span class="nav-text">1.2 什么是SaaS回源</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-3-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%88%A9%E7%94%A8SaaS%E5%9B%9E%E6%BA%90%E5%AF%B9%E7%BD%91%E7%AB%99%E5%8A%A0%E9%80%9F"><span class="nav-number">1.3.</span> <span class="nav-text">1.3 为什么能利用SaaS回源对网站加速</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-%E6%A6%82%E8%BF%B0"><span class="nav-number">2.</span> <span class="nav-text">2 概述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4"><span class="nav-number">3.</span> <span class="nav-text">3 详细步骤</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#3-1-%E6%B3%A8%E5%86%8CCloudFlare%EF%BC%8C%E5%B9%B6%E6%89%98%E7%AE%A1b-com"><span class="nav-number">3.1.</span> <span class="nav-text">3.1 注册CloudFlare，并托管b.com</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-2-%E5%90%AF%E7%94%A8CloudFlare-for-SaaS"><span class="nav-number">3.2.</span> <span class="nav-text">3.2 启用CloudFlare for SaaS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-3-%E8%A7%A3%E6%9E%90%E5%9B%9E%E6%BA%90%E5%9F%9F%E5%90%8D"><span class="nav-number">3.3.</span> <span class="nav-text">3.3 解析回源域名</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-4-%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%BA%90"><span class="nav-number">3.4.</span> <span class="nav-text">3.4 添加回源</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-5-%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E6%9C%BA%E5%90%8D"><span class="nav-number">3.5.</span> <span class="nav-text">3.5 添加自定义主机名</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-6-a-com%E8%A7%A3%E6%9E%90%E6%8C%87%E5%90%91"><span class="nav-number">3.6.</span> <span class="nav-text">3.6 a.com解析指向</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-7-%E8%AE%BE%E7%BD%AESSL"><span class="nav-number">3.7.</span> <span class="nav-text">3.7 设置SSL</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AE%BF%E9%97%AE%E5%92%8C%E9%AA%8C%E8%AF%81"><span class="nav-number">4.</span> <span class="nav-text">访问和验证</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E8%BF%9B%E5%87%BB%E7%9A%84%E8%83%96%E8%99%8E"><span class="nav-number">4.1.</span> <span class="nav-text">你好，我是进击的胖虎</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="进击的胖虎"
+      src="https://jjdph.oss-cn-beijing.aliyuncs.com/头像.jpg">
+  <p class="site-author-name" itemprop="name">进击的胖虎</p>
+  <div class="site-description" itemprop="description">热爱AIGC技术的博主，为您带来优质内容</div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">68</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">45</span>
+        <span class="site-state-item-name">标签</span>
+      </div>
+  </nav>
+</div>
+
+<p><strong>亲爱的读者你好，我是<span style="color: red;">进击的胖虎</span>,关注下方公众号，从0开始带你精通各类AIGC工具的使用以及速览各类新闻教程！</strong></p>
+<div class="sidebar-qrcode" style="text-align: center;">
+  <img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/1726988347205.jpg" alt="公众号二维码" />
+</div>
+
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+  
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://jjdph.oss-cn-beijing.aliyuncs.com/头像.jpg">
+      <meta itemprop="name" content="进击的胖虎">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="进击的胖虎">
+      <meta itemprop="description" content="热爱AIGC技术的博主，为您带来优质内容">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程 | 进击的胖虎">
+      <meta itemprop="description" content="分享一个利用SaaS回源对网站进行加速的教程，并对SaaS开源进行了简短介绍">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2024-12-10 19:49:31 / 修改时间：20:01:46" itemprop="dateCreated datePublished" datetime="2024-12-10T19:49:31+08:00">2024-12-10</time>
+    </span>
+
+  
+    <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数：</span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+</div>
+
+            <div class="post-description">分享一个利用SaaS回源对网站进行加速的教程，并对SaaS开源进行了简短介绍</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>早就听说可以利用SaaS回源来对网站进行加速，但是一直没有尝试过，今天有空便试了一下，特地分享出来供大家参考。</p>
+<h2 id="1-SaaS回源介绍"><a href="#1-SaaS回源介绍" class="headerlink" title="1 SaaS回源介绍"></a>1 SaaS回源介绍</h2><p>这一节主要是简单介绍一下利用SaaS回源加速网站的原理，<strong>不感兴趣可以直接跳过</strong>。</p>
+<h3 id="1-1-什么是SaaS"><a href="#1-1-什么是SaaS" class="headerlink" title="1.1 什么是SaaS"></a>1.1 什么是SaaS</h3><p>简单的说来，SaaS（Software as Service，软件即服务）就是指：当你想要开展某个业务的时候，不需要自己去编写和部署代码，而是找到现成的软件供应商，通过<strong>互联网</strong>直接使用他们提供的服务。</p>
+<p>比如你使用Gmail发邮件、用百度网盘存储文件、用Netflix看视频等等，这些都是通过互联网访问某种服务，所以他们都属于SaaS。</p>
+<h3 id="1-2-什么是SaaS回源"><a href="#1-2-什么是SaaS回源" class="headerlink" title="1.2 什么是SaaS回源"></a>1.2 什么是SaaS回源</h3><p>对于使用SaaS的用户来讲，可能希望通过<strong>自定义的域名</strong>来访问服务。</p>
+<p>比如你的公司购买了Gmail的服务，但为了彰显公司品牌，你们不希望使用@gmail.com的后缀，而是用公司自己的域名@xxx.com，这个时候就需要用到SaaS回源。</p>
+<p>配置好SaaS回源后，访问xxx.com的请求就会被转发到gmail.com进行处理。</p>
+<p>我们在Github Pages搭建个人博客，绑定自定义域名的时候，其实也是类似的道理。</p>
+<h3 id="1-3-为什么能利用SaaS回源对网站加速"><a href="#1-3-为什么能利用SaaS回源对网站加速" class="headerlink" title="1.3 为什么能利用SaaS回源对网站加速"></a>1.3 为什么能利用SaaS回源对网站加速</h3><p>对于静态资源（如图片、CSS、JS 等），Cloudflare 在全球的分布式节点可以缓存这些内容。当用户请求这些资源时，访问路径是：<strong>浏览器 → Cloudflare 节点（国内&#x2F;最近） → 直接返回缓存内容</strong></p>
+<p>而原来的访问路径是：<strong>浏览器 → 国外源站</strong></p>
+<p>显然，配置了SaaS回源后，不需要请求原站，所以访问速度会快不少。</p>
+<h2 id="2-概述"><a href="#2-概述" class="headerlink" title="2 概述"></a>2 概述</h2><p><strong>需要用到的：</strong></p>
+<ul>
+<li><strong>【必须】</strong> 你希望加速的域名<code>a.com</code>（不用托管到Cloudflare）</li>
+<li><strong>【必须】</strong> 回源域名<code>b.com</code>（必须托管到Cloudflare）</li>
+<li><strong>【必须】</strong> 国外信用卡，用于绑定Cloudflare，推荐使用<a target="_blank" rel="noopener" href="https://bewildcard.com/i/JJDPH">wildcard</a></li>
+<li><strong>【非必须】</strong> DNSPod，用于将<strong>海外线路</strong>和<strong>国内线路</strong>分开解析</li>
+</ul>
+<p><strong>步骤概述：</strong></p>
+<ul>
+<li>将<code>b.com</code>托管到Cloudflare，并解析到你的服务器（比如Github Pages）</li>
+<li>配置Cloudflare SaaS回源（此功能免费，但需要绑定信用卡），将<code>b.com</code>作为回退源</li>
+<li>DNSPod上，配置<code>a.com</code>的DNS，将其指向Cloudflare</li>
+</ul>
+<h2 id="3-详细步骤"><a href="#3-详细步骤" class="headerlink" title="3 详细步骤"></a>3 详细步骤</h2><h3 id="3-1-注册CloudFlare，并托管b-com"><a href="#3-1-注册CloudFlare，并托管b-com" class="headerlink" title="3.1 注册CloudFlare，并托管b.com"></a>3.1 注册CloudFlare，并托管b.com</h3><p>注册登录CloudFlare，把<code>b.com</code>添加进去，并查看Cloudflare分配的NS服务器。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png" alt="image-20241118121329105"></a></p>
+<p>在你的域名注册商那里，把DNS服务器设置为上面那两个ns域名</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121431-image-20241118121431160-2024-11-12-31.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121431-image-20241118121431160-2024-11-12-31.png" alt="image-20241118121431160"></a></p>
+<p>设置完域名托管后，需要等待一段时间才能生效。如果这一步等了很久还是没有生效，可以在域名注册商那里删除cloudflare的记录再重新填写。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121520-image-20241118121520009-2024-11-12-20.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121520-image-20241118121520009-2024-11-12-20.png" alt="image-20241118121520009"></a></p>
+<p>当域名状态变为活动时，表示托管成功</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123138-image-20241118123138817-2024-11-12-38.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123138-image-20241118123138817-2024-11-12-38.png" alt="image-20241118123138817"></a></p>
+<h3 id="3-2-启用CloudFlare-for-SaaS"><a href="#3-2-启用CloudFlare-for-SaaS" class="headerlink" title="3.2 启用CloudFlare for SaaS"></a>3.2 启用CloudFlare for SaaS</h3><p>进入SSL→自定义主机名</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119164607-4e0430d39bff681e4c9b2aff48edc5f8-2024-11-16-07.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164607-4e0430d39bff681e4c9b2aff48edc5f8-2024-11-16-07.png" alt="img"></a></p>
+<p>点击启用CloudFlare SaaS。</p>
+<p>这里需要绑定外国信用卡。没有外国卡的可以使用虚拟卡，推荐<a target="_blank" rel="noopener" href="https://bewildcard.com/i/JJDPH">Wildcard</a>，2年期开卡费10美元。</p>
+<p>在<a target="_blank" rel="noopener" href="https://bewildcard.com/i/JJDPH">Wildcard</a>开卡后，把信息填写进去就行。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241117144610-image-20241117144610063-2024-11-14-10.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241117144610-image-20241117144610063-2024-11-14-10.png" alt="image-20241117144610063"></a></p>
+<h3 id="3-3-解析回源域名"><a href="#3-3-解析回源域名" class="headerlink" title="3.3 解析回源域名"></a>3.3 解析回源域名</h3><p>进入到<code>b.com</code>的管理界面-&gt; DNS -&gt; 记录</p>
+<p>把<code>b.com</code>A记录或AAAA记录到你的真实网站服务器IP，我这里是解析到Github Pages服务器上的。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123417-image-20241118123417832-2024-11-12-17.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123417-image-20241118123417832-2024-11-12-17.png" alt="image-20241118123417832"></a></p>
+<h3 id="3-4-添加回源"><a href="#3-4-添加回源" class="headerlink" title="3.4 添加回源"></a>3.4 添加回源</h3><p>进入到<code>b.com</code>的管理界面-&gt; SSL&#x2F;TLS -&gt; 自定义主机名</p>
+<p>添加回退源，回退源地址为刚刚解析的<code>b.com</code></p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123836-image-20241118123836262-2024-11-12-36.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123836-image-20241118123836262-2024-11-12-36.png" alt="image-20241118123836262"></a></p>
+<h3 id="3-5-添加自定义主机名"><a href="#3-5-添加自定义主机名" class="headerlink" title="3.5 添加自定义主机名"></a>3.5 添加自定义主机名</h3><p>添加回源成功后，在同样的界面看到有效了。</p>
+<p>接下来添加自定义主机名。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165001-639aad3cb1ff09f7c02df7143b44698a-2024-11-16-01.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165001-639aad3cb1ff09f7c02df7143b44698a-2024-11-16-01.png" alt="img"></a></p>
+<p>主机名为你的希望加速的网站域名<code>a.com</code></p>
+<p>其余的按照图片上的填写</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119164956-345d43446e3572e75f06fae9fee6c24e-2024-11-16-56.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164956-345d43446e3572e75f06fae9fee6c24e-2024-11-16-56.png" alt="img"></a></p>
+<p>接下来到DNSPod，为a.com添加下面的两条记录（前提是已经将a.com托管到了DNSPod），用来验证域名所有权</p>
+<p>成功后稍等片刻，再去CloudFlare -&gt; SSL&#x2F;TLS -&gt; 自定义主机名 刷新检查，等到证书状态和主机名状态都为有效则成功。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118134012-image-20241118134012695-2024-11-13-12.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134012-image-20241118134012695-2024-11-13-12.png" alt="image-20241118134012695"></a></p>
+<h3 id="3-6-a-com解析指向"><a href="#3-6-a-com解析指向" class="headerlink" title="3.6 a.com解析指向"></a>3.6 <code>a.com</code>解析指向</h3><p>到这里我们在DNSPod设置<code>a.com</code>的域名解析处</p>
+<p>将境内线路解析到<code>shopify.com</code>。</p>
+<p>境外线路解析到<code>1.0.0.5</code>（Cloudflare服务器在境外的IP）</p>
+<blockquote>
+<p>之所以要解析到<code>shopify.com</code>，是因为<code>shopify.com</code>也使用了Cloudflare的服务，所以它的域名是指向国内最快速的Cloudflare的节点的。</p>
+<p>除了<code>shopify.com</code>，也可以解析到其他使用了Cloudflare服务的域名，比如<code>csgo.com</code>、<code>visa.com</code>等等。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118133609-image-20241118133609278-2024-11-13-09.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118133609-image-20241118133609278-2024-11-13-09.png" alt="image-20241118133609278"></a></p>
+<p>最终a.com的dns记录如下：</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118134058-image-20241118134058046-2024-11-13-58.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134058-image-20241118134058046-2024-11-13-58.png" alt="image-20241118134058046"></a></p>
+<h3 id="3-7-设置SSL"><a href="#3-7-设置SSL" class="headerlink" title="3.7 设置SSL"></a>3.7 设置SSL</h3><p>在CloudFlare进入到<code>b.com</code>的管理界面-&gt; SSL&#x2F;TLS -&gt; 概述 中将SSL&#x2F;TLS加密模式改为<code>完全</code>。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165421-image-20241119165421221-2024-11-16-21.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165421-image-20241119165421221-2024-11-16-21.png" alt="image-20241119165421221"></a></p>
+<p>到此，就完成SaaS回源的配置了。</p>
+<p>当我们访问<code>a.com</code>的时候，请求首先转发给Cloudflare的境内节点。</p>
+<p>然后境内节点会发现<code>a.com</code>是<code>b.com</code>的自定义主机名，就会直接将缓存的<code>b.com</code>的内容返回给浏览器。从而达到加速网站的目的。</p>
+<h2 id="访问和验证"><a href="#访问和验证" class="headerlink" title="访问和验证"></a>访问和验证</h2><p>使用itdog测速，可以看到速度明显快了不少。</p>
+<p><a target="_blank" rel="noopener" href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165912-image-20241119165911939-2024-11-16-12.png"><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165912-image-20241119165911939-2024-11-16-12.png" alt="image-20241119165911939"></a></p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/">【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="/images/loading.png" data-original="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/SaaS/" rel="tag"># SaaS</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2024/12/10/the-way-to-subscribe-cursor-pro/" rel="prev" title="【亲测有效】国内如何支付订阅Cursor Pro？Cursor次数耗尽？Cursor等待排队太久怎么办？">
+                  <i class="fa fa-angle-left"></i> 【亲测有效】国内如何支付订阅Cursor Pro？Cursor次数耗尽？Cursor等待排队太久怎么办？
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2024</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">进击的胖虎</span>
+  </div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/sidebar.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+
+
+        <style>
+            [bg-lazy] {
+                background-image: none !important;
+                background-color: #eee !important;
+            }
+        </style>
+        <script>
+            window.imageLazyLoadSetting = {
+                isSPA: false,
+                preloadRatio: 1,
+                processImages: null,
+            };
+        </script><script>window.addEventListener("load",function(){var t=/\.(gif|jpg|jpeg|tiff|png)$/i,r=/^data:image\/[a-z]+;base64,/;Array.prototype.slice.call(document.querySelectorAll("img[data-original]")).forEach(function(a){var e=a.parentNode;"A"===e.tagName&&(e.href.match(t)||e.href.match(r))&&(e.href=a.dataset.original)})});</script><script>!function(r){r.imageLazyLoadSetting.processImages=t;var a=r.imageLazyLoadSetting.isSPA,n=r.imageLazyLoadSetting.preloadRatio||1,d=o();function o(){var t=Array.prototype.slice.call(document.querySelectorAll("img[data-original]")),e=Array.prototype.slice.call(document.querySelectorAll("[bg-lazy]"));return t.concat(e)}function t(t){(a||t)&&(d=o());for(var e,i=0;i<d.length;i++)0<=(e=(e=d[i]).getBoundingClientRect()).bottom&&0<=e.left&&e.top<=(r.innerHeight*n||document.documentElement.clientHeight*n)&&function(){var t,e,a,n,o=d[i];e=function(){d=d.filter(function(t){return o!==t}),r.imageLazyLoadSetting.onImageLoaded&&r.imageLazyLoadSetting.onImageLoaded(o)},(t=o).dataset.loaded||(t.hasAttribute("bg-lazy")?(t.removeAttribute("bg-lazy"),e&&e()):(a=new Image,n=t.getAttribute("data-original"),a.onload=function(){t.src=n,t.removeAttribute("data-original"),t.setAttribute("data-loaded",!0),e&&e()},a.onerror=function(){t.removeAttribute("data-original"),t.setAttribute("data-loaded",!1),t.src=n},t.src!==n&&(a.src=n)))}()}function e(){clearTimeout(t.tId),t.tId=setTimeout(t,500)}t(),document.addEventListener("scroll",e),r.addEventListener("resize",e),r.addEventListener("orientationchange",e)}(this);</script></body>
+</html>
