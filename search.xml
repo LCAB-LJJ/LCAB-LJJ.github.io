@@ -7221,4 +7221,341 @@
         <tag>Sora</tag>
       </tags>
   </entry>
+  <entry>
+    <title>【亲测有效】Cursor 如何安装旧版本？Cursor怎么禁止自动更新教程</title>
+    <url>/2024/12/18/How-to-close-cursor-update/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="Cursor是什么"><a href="#Cursor是什么" class="headerlink" title="Cursor是什么"></a>Cursor是什么</h2><p>虽然目前出现了很多的编程辅助类的工具，比如Bolt.new，Windsurf等等，但是最强大的编程辅助工具还是<strong>Cursor</strong>。</p>
+<p>胖虎目前最常使用的工具就是Cursor，之前也分享过<a href="https://lcab-ljj.github.io/2024/12/18/Cursor-Detailed-Usage-Guide/">怎么使用Cursor？Cursor 超详细使用教程，从安装、订阅到高级技巧的全面教程 </a>，介绍了Cursor的常用快捷键、如何使用Cursor的Compose功能、如何使用Cursor访问网络、如何使用Cursor回滚代码等等。</p>
+<p>Cursor具体的升级教程方法：<a href="https://lcab-ljj.github.io/2024/12/18/How-to-subscribe-to-Cursor-Pro/">【包教包会】怎么订阅Cursor Pro？Cursor Pro 会员付费订阅详细图文教程 </a></p>
+<h2 id="Cursor新版本界面改动"><a href="#Cursor新版本界面改动" class="headerlink" title="Cursor新版本界面改动"></a>Cursor新版本界面改动</h2><p>目前Cursor发布了最新版本0.43版本。0.43版本Cursor的UI发生了很大的变动。这个版本将Composer和Chat放在了同一个页面，就是下面这样的。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/db7f0b2256f1e7aa.webp" alt="Cursor中的Composer页面"></p>
+<p>通过Compose写完代码之后，对于具体是哪几个文件变更和变更的文件内容也不能像之前一样很直观的显示。无法像之前的老版本一样使用一个单独的窗口显示所有文件的所有变更，而不是在当前的编辑页面中展示。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6ce9de04922e29dd.webp" alt="Composer中修改代码界面"></p>
+<p>0.43版本Cursor的UI发布之后，在社区和网上引起了强烈的反对。我个人也觉得0.43版本Cursor不是很好用。</p>
+<p>最后终于到了一个办法将Cursor退回到了0.42版本，并且关闭了Cursor的功能避免自动更新到了0.43版本。</p>
+<h2 id="Cursor-如何安装旧版本并且禁止自动更新教程"><a href="#Cursor-如何安装旧版本并且禁止自动更新教程" class="headerlink" title="Cursor 如何安装旧版本并且禁止自动更新教程"></a>Cursor 如何安装旧版本并且禁止自动更新教程</h2><h3 id="Cursor安装老版本"><a href="#Cursor安装老版本" class="headerlink" title="Cursor安装老版本"></a>Cursor安装老版本</h3><p>以下是是0.42版本的Cursor的下载地址 Mac版本的下载地址：</p>
+<p><a href="https://downloader.cursor.sh/builds/24111460bf2loz1/mac/installer/universal">https://downloader.cursor.sh/builds/24111460bf2loz1/mac/installer/universal</a></p>
+<p>Windows版本的下载地址：</p>
+<p><a href="https://downloader.cursor.sh/builds/24111460bf2loz1/windows/nsis/x64">https://downloader.cursor.sh/builds/24111460bf2loz1/windows/nsis/x64</a></p>
+<p>Linux版本的下载地址：</p>
+<p><a href="https://downloader.cursor.sh/builds/24111460bf2loz1/linux/appImage/x64">https://downloader.cursor.sh/builds/24111460bf2loz1/linux/appImage/x64</a></p>
+<p>如果我们需要使用老版本，首先就是需要先卸载掉0.43版本，然后通过上面的下载地址下载0.42版本安装。</p>
+<h3 id="Cursor如何禁止自动更新"><a href="#Cursor如何禁止自动更新" class="headerlink" title="Cursor如何禁止自动更新"></a>Cursor如何禁止自动更新</h3><p>当前方法目前还是可用的，当前我的Cursor版本一直停留在0.42版本，没有自动升级到0.43版本。</p>
+<p>按照下面的操作步骤，就可以关闭Cursor的自动更新功能。</p>
+<h4 id="打开Cursor的设置功能"><a href="#打开Cursor的设置功能" class="headerlink" title="打开Cursor的设置功能"></a>打开Cursor的设置功能</h4><p>通过点击右上角的Cursor的设置按钮，进入到Cursor的功能设置页面。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/b670c61eece57ad0.webp" alt="Cursor设置页面"></p>
+<h4 id="找到Editor的配置选项"><a href="#找到Editor的配置选项" class="headerlink" title="找到Editor的配置选项"></a>找到Editor的配置选项</h4><p>进入到Cursor配置页面之后，进入到<code>General</code>的配置页面，然后向下查找，就可以找到<code>Editor</code>的配置选项，打开其中的<code>Open editor settings</code>的配置。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/93eab437d2971d26.webp" alt="Open editor settings配置"></p>
+<h4 id="找到更新选项配置"><a href="#找到更新选项配置" class="headerlink" title="找到更新选项配置"></a>找到更新选项配置</h4><p>通过<code>Open editor settings</code>的配置，就会进入到下面这个配置页面。 找到<code>Application</code>选项，就会发存在一个<code>Update</code>的配置。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/0ae5b224f6e38a4d.webp" alt="Cursor自动更新选项"></p>
+<h3 id="关闭Cursor自动更新"><a href="#关闭Cursor自动更新" class="headerlink" title="关闭Cursor自动更新"></a>关闭Cursor自动更新</h3><p>点击进入到<code>Update</code>配置选项之后，在<code>Mode</code>的这个地方需要选择<code>none</code>。选择<code>none</code>就表示关闭了Cursor的自动更新，</p>
+<p><strong>Cursor记得不要退出或者是关闭，否则Cursor还是会后台偷偷升级。</strong></p>
+<p><strong>不要退出Cursor！！！</strong></p>
+<p><strong>不要退出Cursor！！！</strong></p>
+<p><strong>不要退出Cursor！！！</strong></p>
+<p>后面Cursor就不会更新到0.43版本了。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过上面的教程，就可以关闭掉Cursor的自动更新功能了，目前我还是在继续使用0.42版本的Cursor。相对来说，0.42版本的Cursor功能和体验更好。</p>
+<p>Cursor注册账户之后，就可以免费体验14天的会员，可以使用最新的模型，包括最新的Claude-3.5-Sonnet-20241022，非常推荐大家使用Cursor。</p>
+<p>体验时间过了之后，就要付费才能够继续使用AI功能，否则就和普通的VS Code编程工具没有任何区别。</p>
+<p>Cursor具体的升级教程，可以看<a href="https://lcab-ljj.github.io/2024/12/18/How-to-subscribe-to-Cursor-Pro/">【包教包会】怎么订阅Cursor Pro？Cursor Pro 会员付费订阅详细图文教程 </a></p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/18/How-to-close-cursor-update/">【亲测有效】Cursor 如何安装旧版本？Cursor怎么禁止自动更新教程 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Cursor</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【包教包会】怎么订阅Cursor Pro？Cursor Pro 会员付费订阅详细图文教程</title>
+    <url>/2024/12/18/How-to-subscribe-to-Cursor-Pro/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="cursor-简介"><a href="#cursor-简介" class="headerlink" title="cursor 简介"></a>cursor 简介</h2><p>Cursor 是一款集成人工智能（AI）功能的代码编辑器，旨在提升开发者的编程效率和代码质量。作为 Visual Studio Code 的分支，Cursor 保留了其熟悉的界面和扩展支持，同时引入了强大的 AI 功能。该编辑器于 2023 年 1 月正式发布，由 Aman Sanger 和 Michael Shuffett 创立。2024 年 8 月，Cursor 宣布获得 A 轮 6000 万美元融资，估值达到 4 亿美元。在开发者社区中，Cursor 获得了积极的反馈，用户赞赏其在代码补全、错误检测和代码重构等方面的出色表现，以及友好的界面设计。</p>
+<p><a href="http://cheniit.com/wp-content/uploads/2024/11/2_AgAAERzmuP-xuviL8YdK-6Df_GO-1m49.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/2_AgAAERzmuP-xuviL8YdK-6Df_GO-1m49-1024x445.png" alt="img"></a></p>
+<p>主要功能：</p>
+<ul>
+<li>智能代码补全：Cursor 利用 AI 模型，根据上下文提供代码补全建议，帮助开发者快速编写代码。</li>
+<li>自然语言编程：开发者可以使用自然语言描述所需的功能，Cursor 将其转换为相应的代码，实现更直观的编程体验。</li>
+<li>代码库理解：Cursor 能够分析整个代码库，提供全局搜索、代码导航等功能，方便开发者理解和维护大型项目。</li>
+<li>多模型支持：Cursor 支持多种 AI 模型，如 OpenAI 的 GPT-4、Claude 3.5 和 Meta 的 Llama 3.1，开发者可根据需求选择合适的模型。</li>
+</ul>
+<p>优势：</p>
+<ul>
+<li>提高生产力：通过 AI 辅助，减少重复性编码任务，加速开发进程。</li>
+<li>降低学习曲线：自然语言编程功能使新手开发者更容易上手，快速实现功能。</li>
+<li>增强代码质量：智能代码补全和错误检测功能有助于减少代码中的错误，提高代码质量。</li>
+</ul>
+<h2 id="Cursor-Pro-与非会员的区别"><a href="#Cursor-Pro-与非会员的区别" class="headerlink" title="Cursor Pro 与非会员的区别"></a>Cursor Pro 与非会员的区别</h2><p><a href="http://cheniit.com/wp-content/uploads/2024/11/3_AgAAERzmuP_3VozyHTtP5r-N2Ts9Eedu.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3_AgAAERzmuP_3VozyHTtP5r-N2Ts9Eedu-1024x559.png" alt="img"></a></p>
+<p>Cursor 是一款集成 AI 功能的代码编辑器，提供免费版（Hobby）和专业版（Pro）两种订阅选项。以下是两者的主要区别：</p>
+<p>免费版（Hobby）：</p>
+<ul>
+<li>试用期：新用户可免费试用 Pro 版功能 14 天。</li>
+<li>使用限制：每月 2000 次代码生成。</li>
+<li>每月 50 次使用慢速高级模型（如 GPT-4、Claude 3.5 Sonnet）。</li>
+<li>每月 200 次使用 cursor-small 模型。</li>
+</ul>
+<p>专业版（Pro）：</p>
+<ul>
+<li>无限制：无限次代码生成。</li>
+<li>无限次使用 cursor-small 模型。</li>
+<li>高级模型使用：每月 500 次快速使用高级模型（如 GPT-4、Claude 3.5 Sonnet）。</li>
+<li>无限次慢速使用高级模型。</li>
+<li>额外功能：每日 10 次使用 Claude Opus 模型。</li>
+</ul>
+<h2 id="Cursor-Pro-订阅过程"><a href="#Cursor-Pro-订阅过程" class="headerlink" title="Cursor Pro 订阅过程"></a>Cursor Pro 订阅过程</h2><h3 id="订阅准备"><a href="#订阅准备" class="headerlink" title="订阅准备"></a>订阅准备</h3><p><strong>支付方式</strong>：Wildcard 虚拟卡，优惠码:JJDPH 。Wildcard传送：<a href="https://bewildcard.com/i/JJDPH">Click me</a></p>
+<p><strong>费用预估</strong>：开卡 $10.99 + cursor pro $20（月套餐）。</p>
+<h3 id="Step1-Wildcard-虚拟卡获取与充值："><a href="#Step1-Wildcard-虚拟卡获取与充值：" class="headerlink" title="Step1 Wildcard 虚拟卡获取与充值："></a>Step1 Wildcard 虚拟卡获取与充值：</h3><p>Wildcard传送：<a href="https://bewildcard.com/i/JJDPH">Click me</a></p>
+<p><a href="http://cheniit.com/wp-content/uploads/2024/11/5_AgAAERzmuP-AV8IvdUdG-It2MkdYQDF0.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5_AgAAERzmuP-AV8IvdUdG-It2MkdYQDF0-1024x497.png" alt="img"></a></p>
+<h3 id="Step2-在Wildcard选择需要支付的产品"><a href="#Step2-在Wildcard选择需要支付的产品" class="headerlink" title="Step2 在Wildcard选择需要支付的产品"></a>Step2 在Wildcard选择需要支付的产品</h3><p><a href="http://cheniit.com/wp-content/uploads/2024/11/6_AgAAERzmuP9sfZtNhWRMaYuisSXdRDM3.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6_AgAAERzmuP9sfZtNhWRMaYuisSXdRDM3-1024x522.png" alt="img"></a><a href="http://cheniit.com/wp-content/uploads/2024/11/7_AgAAERzmuP-2GMBrux1D3aUghEELpbc_.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/7_AgAAERzmuP-2GMBrux1D3aUghEELpbc_-1024x490.png" alt="img"></a><a href="http://cheniit.com/wp-content/uploads/2024/11/8_AgAAERzmuP8ly1rVJ4ZHgKW-QOfC1arr.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/8_AgAAERzmuP8ly1rVJ4ZHgKW-QOfC1arr-1024x525.png" alt="img"></a></p>
+<h3 id="Step3-在Cursor完成绑卡与订阅"><a href="#Step3-在Cursor完成绑卡与订阅" class="headerlink" title="Step3 在Cursor完成绑卡与订阅"></a>Step3 在Cursor完成绑卡与订阅</h3><p>登录Cursor官网导航到settings 页面，点击【upgrade to pro】，或者点击上方【pricing】选择其他订阅计划。</p>
+<p><a href="http://cheniit.com/wp-content/uploads/2024/11/9_AgAAERzmuP96FaQPJq5Bg4dg4O4iM_2u.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/9_AgAAERzmuP96FaQPJq5Bg4dg4O4iM_2u-1024x576.png" alt="img"></a><a href="http://cheniit.com/wp-content/uploads/2024/11/10_AgAAERzmuP-OzVeMDg9IxqTqG-VN8QH5.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/10_AgAAERzmuP-OzVeMDg9IxqTqG-VN8QH5-1024x548.png" alt="img"></a></p>
+<p>进入Cursor Pro支付页面</p>
+<p><a href="http://cheniit.com/wp-content/uploads/2024/11/11_AgAAERzmuP9NGb_92epEhbuJPsMkyLiW.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/11_AgAAERzmuP9NGb_92epEhbuJPsMkyLiW-1024x621.png" alt="img"></a></p>
+<p>回到wildcard，从我的卡片中把信息一一对应填入，检查无误后点击【订阅】</p>
+<p> <a href="http://cheniit.com/wp-content/uploads/2024/11/13_AgAAERzmuP-hAuwsFuJOiL4pQ-ZEstXV.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/13_AgAAERzmuP-hAuwsFuJOiL4pQ-ZEstXV-1024x520.png" alt="img"></a></p>
+<p>回到settings界面就可以看到账户已经升级pro。</p>
+<p><a href="http://cheniit.com/wp-content/uploads/2024/11/14_AgAAERzmuP_I724GY4BMuaTqFsx1OLtl.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/14_AgAAERzmuP_I724GY4BMuaTqFsx1OLtl.png" alt="img"></a></p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/18/How-to-subscribe-to-Cursor-Pro/">【包教包会】怎么订阅Cursor Pro？Cursor Pro 会员付费订阅详细图文教程 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Cursor</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎么使用Cursor？Cursor 超详细使用教程，从安装、订阅到高级技巧的全面教程</title>
+    <url>/2024/12/18/Cursor-Detailed-Usage-Guide/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="简单介绍一下-Cursor"><a href="#简单介绍一下-Cursor" class="headerlink" title="简单介绍一下 Cursor"></a>简单介绍一下 Cursor</h2><p>Cursor 是由 Anysphere 这个实验室打造的<strong>代码编辑器</strong>，它基于 VSCode 修改派生，因此所有你在 VSCode 上的配置都能够导入到 Cursor 里使用，如果你平常使用 VSCode 进行开发，那么你能够非常便捷地迁移过来。</p>
+<p>Cursor 和 VSCode 的最大的不同点在于它内置了 AI 进行代码的协作，为此它对 VSCode 进行了诸多修改，这些修改使得它的体验比在 VSCode 上使用诸如 Github Copilot 一类的插件更加舒服。这么说也许很单调，我以 Github Copilot进行对比说明。</p>
+<p>Github Copilot 在 VSCode 中是以一个插件导入的：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/8606f6d07b5f0c5.png" alt="-1"></p>
+<p>​																									Github Copilot</p>
+<p>使用上，Copilot的辅助集中在这几点上：代码补全、和GPT一样的对话窗口与代码的生成重写。</p>
+<p>代码补全是我喜欢的 Copilot 的核心功能，它会在你书写代码的时候自动推理出后续的内容，你只需要按一下 <code>Tab</code> 键就能接收它的建议：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1c44d5d021de2e0.png" alt="-1"></p>
+<p>​																	Github Copilot的代码补全，以我现在在书写的文档为例</p>
+<p>它的最大优点是沉浸式的体验：我可以很方便地复写一些样板代码，不需要离开我的编辑器，不需要去复制黏贴原有的代码——这是不讲生成效果而言的，然而事实上它在大部分情况下确实能够生成出我想要的代码。</p>
+<p>而后是和 GPT 一样的对话窗口，它的优点是能够便捷地将当前你正在编辑的代码的上下文同时提交给大模型，从而获得更好的生成效果：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1a90c49c8a860f7.png" alt="-1"></p>
+<p>​																							Github Copilot的对话窗口</p>
+<p>最后是平平无奇的编辑器内的代码生成编辑重写，你可以通过 VSCode 的小灯泡（正式名叫 Code Action，用于对代码做出一些行为）触发：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e0a248b6fb80f61.png" alt="-1"></p>
+<p>​																		Github Copilot的代码生成重写会出现在 Code Action</p>
+<p>选择使用 Copilot 进行修改后，会弹出相应的 prompt 输入框，你可以输入 <code>/doc</code> 之类的命令帮助 Copilot 是进行文档生成或是更好地对你的代码做出修改&#x2F;重写：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/8e5e3a126ec8176.png" alt="-1"></p>
+<p>​																						Github Copilot的代码生成重写</p>
+<p>虽然看起来很 awesome ，但是我个人的实际体验是不太行的。:( 因为它的重写大多数情况下会重新生成一份代码，然后我又要去删除掉原有的代码……只能说，我用 Copilot 主要就是爱代码补全这个功能。</p>
+<p>而 Cursor 的使用体验尤为惊人，Copilot 做得好的，它做得更好;Copilot 做不好的，它做得趋于完美。</p>
+<p>代码补全，个人体验下来精度更加高，Copilot 时常会出现不能完好生成封闭的代码块的情况（例如不能正确生成 <code>()</code> <code>&#123;&#125;</code> 的彼此的配对），但它很少出现这种情况。</p>
+<p>对话窗口，我的天哪，Copilot 和它对比真的是个垃圾，因为 Cursor 对话生成的代码是可以直接应用到你的代码上的：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/046017153219ea0.png" alt="-1"></p>
+<p>​														Cursor对话窗的应用功能，那个apply就是将它修改的代码应用到代码上</p>
+<p>之所以 Cursor 能直接将修改部分的内容应用到你的代码上，是因为它自己微调了一个模型，让 LLM 输出了 Git 那样的 diff fomat[3]。借助 diff format 它能够精确地修改相应地代码段。</p>
+<p>并且更舒服的是， Cusor 在一次对话里能够方便地传递多个源代码文件或是扫描你整个项目的代码仓（按下 <code>ctrl + enter</code>）提取出相关内容作为向大模型询问的上下文，以获得更精确的回答：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/887a1701c634a87.png" alt="-1"></p>
+<p>​											可以通过相关UI快速添加相关文件，按下<code>ctrl + enter</code>会基于代码仓的代码进行对话 </p>
+<p>生成速度和索引速度非常流畅，因为它会类似于 JetBrains 那样对代码仓建立索引，不过它的索引是做向量化（embeddings，习惯翻译是向量内嵌，但我喜欢叫它向量化），因此在索引的时候可以便捷地做相似性的搜索以获得更好的生成效果。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5e82c6d27007177.png" alt="-1"></p>
+<p>​																										Cursor的索引功能</p>
+<p>除此之外，Cursor 自己内置了比较方便的快捷键，在后文里我会提到这些内容。</p>
+<p>总之简单粗暴的一句话：Cursor 真的使用体验爆杀 Copilot。</p>
+<p>虽然从我之前写 VSCode 的插件的经验来看，之所以一些东东 Copilot 使用体验一般，最主要还是因为作为 VSCode 插件限制了它，但是 Cursor 是魔改的编辑器，因此很多受限的功能都能大胆自由地去做，也无怪乎 Cursor 能做得那么好。</p>
+<h2 id="Cursor-的基本使用"><a href="#Cursor-的基本使用" class="headerlink" title="Cursor 的基本使用"></a>Cursor 的基本使用</h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>Cursor 需要去它的官网上下载：<a href="https://www.cursor.com/">https://www.cursor.com/</a>。下载完后需要注册才能使用，支持 Google 与 Github 账号登录。</p>
+<p>Cursor 采取的是订阅制。新用户可以试用两周的 Pro 订阅。而要订阅 Pro 的话，每个月需要支付 20 刀（大约一百四十元上下浮动）。虽然它确实好用，但是有丢丢小贵是真的，安装完后还需订阅哦，教程在这里：<a href="https://lcab-ljj.github.io/2024/12/18/How-to-subscribe-to-Cursor-Pro/">【包教包会】怎么订阅Cursor Pro？Cursor Pro 会员付费订阅详细图文教程 </a></p>
+<p>安装完后，Cursor 会在第一次启动时提示你是否要导入你的 VSCode 配置，导入完成后，你基本上就拥有了 AI 增强版的 VSCode 了。</p>
+<h3 id="快捷键及对应的功能"><a href="#快捷键及对应的功能" class="headerlink" title="快捷键及对应的功能"></a>快捷键及对应的功能</h3><p>Cursor 具有以下快捷键使用相应的AI功能。</p>
+<h4 id="1-CTRL-CMD-L-打开对话框"><a href="#1-CTRL-CMD-L-打开对话框" class="headerlink" title="1. CTRL/CMD + L 打开对话框"></a>1. <code>CTRL/CMD + L</code> 打开对话框</h4><p>使用 <code>CTRL/CMD + L</code> 键在编辑器的右边打开对话框（这个 <code>L</code> 是 vim 键位下的向右，vim 键位下的方向键是 <code>h,j,k,l</code> 在键盘上为一行的键位，<code>h</code>在左边所以向左，<code>l</code> 在右边向右，<code>j</code> 向下 <code>k</code> 向上。我很喜欢这一点）。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/96838b85292c4b0.png" alt="-1"></p>
+<p>​											图源原文，右边打开的便是对话框，引用的其他来源的图片都会在前边说明</p>
+<h4 id="2-CTRL-CMD-K-打开生成窗口"><a href="#2-CTRL-CMD-K-打开生成窗口" class="headerlink" title="2. CTRL/CMD + K 打开生成窗口"></a>2. <code>CTRL/CMD + K</code> 打开生成窗口</h4><p>使用 <code>CTRL/CMD + K</code> 键在光标停留上方（因为 <code>k</code> 代表向上！）打开生成窗口：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/d05602c809fb617.png" alt="-1"></p>
+<p>​																	图源原文，上方打开的是生成代码的对话框</p>
+<p>需要额外说明的是，当你选中一块内容后，按下 <code>CTRL/CMD + K</code> 键，也能够打开相应的窗口，此时生成内容依据的上下文会是你选中的内容：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/31eb04b023e3653.png" alt="-1"></p>
+<p>​																										选中内容生成</p>
+<h4 id="3-CTRL-CMD-I-打开-Composer"><a href="#3-CTRL-CMD-I-打开-Composer" class="headerlink" title="3. CTRL/CMD + I 打开 Composer"></a>3. <code>CTRL/CMD + I</code> 打开 Composer</h4><p>使用 <code>CTRL/CMD + I</code> 能够打开 Cursor 的特殊功能：Composer。Composer 是 Cursor 的特色功能，它的功能就是在一个对话窗口里同时对多个文件进行修改。</p>
+<p>想要使用 Composer ，首先要在 Cursor 的设置里打开它，你需要按这个顺序访问它的设置页面：<code>File &gt; Prefereces &gt; Cursor Settings &gt; Features &gt; Enable Composer</code></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/de280809b4dd15d.png" alt="-1"></p>
+<p>​																							图源原文，Composer设置 </p>
+<p>使用 <code>CTRL + I</code> 打开的 <code>Composer</code> 是这样的一个可以拖动的小面板界面：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e60501fe152615f.png" alt="-1"></p>
+<p>​																								Composer的小面板界面</p>
+<p>你可以在这里输入一个分步骤、涉及多文件的复杂修改，而后 Composor 会同时生成涉及到的文件的所有修改。但通常而言，使用 Composer 应该在通过小面板界面的右上角的按钮打开它的完整界面：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/603a4aa3b959cfd.png" alt="-1"></p>
+<p>​																							打开Composer的完整界面</p>
+<p>它会比较清晰地在左边列出在你累计的对话中，你要修改那些文件的哪些地方，并且你可以直接 apply 相关的修改。</p>
+<p>这一点是目前我体验最好的 <strong>AI辅助编程</strong> 的方式：你可以很自然地不断在一个窗口内用自然语言描述你的需求，而不需要在多个窗口和文件里进行切换。我感觉 Cursor 是探索出来了最好的交互形式。</p>
+<h3 id="便捷提供上下文信息的-注记"><a href="#便捷提供上下文信息的-注记" class="headerlink" title="便捷提供上下文信息的 @ 注记"></a>便捷提供上下文信息的 <code>@</code> 注记</h3><p>为了更方便地向大语言模型提供上下文信息，Cursor 内设了不同地 <code>@</code> 注记，使用 <code>@</code> 注记能够方便地注入不同类型的上下文信息到你的对话里。</p>
+<p><code>@</code> 注记有一些是通用的，在所有对话窗口中都可以使用；有一些是特殊的，我会在提到时做补充说明。</p>
+<blockquote>
+<p>注：事实上 Github Copilot 也有类似的功能，但是没 Cursor 齐全好用。</p>
+</blockquote>
+<h4 id="1-Files-注记，传递指定代码文件的上下文"><a href="#1-Files-注记，传递指定代码文件的上下文" class="headerlink" title="1. @Files 注记，传递指定代码文件的上下文"></a>1. <code>@Files</code> 注记，传递指定代码文件的上下文</h4><p>当你在对话框输入 <code>@Files</code> 注记时，Cursor 会自动弹出对你代码仓库的检索列表，你可以输入你想要导入上下文的文件名，而后按下确认键，相应的文件里的内容便会届时自动注入到上下文中：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/020b6ad8c57bb73.png" alt="-1"></p>
+<p><code>																							@Files</code>注记</p>
+<h4 id="2-Code-注记，传递指定代码块的上下文"><a href="#2-Code-注记，传递指定代码块的上下文" class="headerlink" title="2. @Code 注记，传递指定代码块的上下文"></a>2. <code>@Code</code> 注记，传递指定代码块的上下文</h4><p><code>Code</code> 注记提供更精确的代码片段，<code>@</code> 注记的使用都大同小异，会弹出相应的检索框，你输入关键词后在索引列表中选择相应的代码块即可。</p>
+<p>代码块的识别是由你开发环境的 LSP 决定的，大多数情况下都是精确的：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/9f823c4b3afa880.png" alt="-1"></p>
+<p><code>																								@Code</code>注记</p>
+<h4 id="3-Docs-注记，从函数或库的官方文档里获取上下文"><a href="#3-Docs-注记，从函数或库的官方文档里获取上下文" class="headerlink" title="3. @Docs 注记，从函数或库的官方文档里获取上下文"></a>3. <code>@Docs</code> 注记，从函数或库的官方文档里获取上下文</h4><p><code>@Docs</code> 注记能够从函数或库的官方文档里获取上下文。目前，它只能从可访问的在线文档里获取上下文。因此，你自己写的类似于 JSDoc 之类的文档信息除非你能整一个线上地址，否则是没用的~我个人觉得这个功能不是很泛用。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3a4f136209482e4.png" alt="-1"></p>
+<p><code>@Docs</code>注记，通常使用需要你手动导入文档</p>
+<h4 id="4-Web-注记，从搜索引擎的搜索内容获取上下文"><a href="#4-Web-注记，从搜索引擎的搜索内容获取上下文" class="headerlink" title="4. @Web 注记，从搜索引擎的搜索内容获取上下文"></a>4. <code>@Web</code> 注记，从搜索引擎的搜索内容获取上下文</h4><p><code>@Web</code> 注记类似于一种方法，它会默认将你的提问先向搜索引擎进行搜索，然后从搜索结果里提取上下文喂给 LLM。但因为 Cursor 官方没公开透明具体的实现法子，它自个也没调好，实际上使用效果忽好忽差的。</p>
+<p>如果你遇到问题想偷懒不打开网页搜报错或是大模型自身的回答无法解决问题，你可以直接使用这个注记。</p>
+<h4 id="5-Folders-注记，传递文件目录信息的上下文"><a href="#5-Folders-注记，传递文件目录信息的上下文" class="headerlink" title="5. @Folders 注记，传递文件目录信息的上下文"></a>5. <code>@Folders</code> 注记，传递文件目录信息的上下文</h4><p><code>@Folders</code> 注记能够提供文件目录的相关信息，如果你遇到什么路径问题，可以考虑使用这个注记向大模型寻求解决方法。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/c5e4ba2d88bd841.png" alt="-1"></p>
+<p><code>@Folders</code>注记</p>
+<h4 id="6-Chat-注记，只能在文件内的代码生成窗口里使用的注记"><a href="#6-Chat-注记，只能在文件内的代码生成窗口里使用的注记" class="headerlink" title="6. @Chat 注记，只能在文件内的代码生成窗口里使用的注记"></a>6. <code>@Chat</code> 注记，只能在文件内的代码生成窗口里使用的注记</h4><p><code>@Chat</code> 注记只能在文件内的代码生成窗口（<code>CTRL + K</code> 打开的窗口）里使用，它能够将你右边打开的对话窗口里的对话内容作为上下文传递给大模型。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/62a70f5d664b6e6.png" alt="-1"></p>
+<p><code>@Chat</code>注记</p>
+<h4 id="7-Definitions-注记，只能在文件内的代码生成窗口里使用的注记"><a href="#7-Definitions-注记，只能在文件内的代码生成窗口里使用的注记" class="headerlink" title="7. @Definitions 注记，只能在文件内的代码生成窗口里使用的注记"></a>7. <code>@Definitions</code> 注记，只能在文件内的代码生成窗口里使用的注记</h4><p>和 <code>@Chat</code> 注记一样，<code>@Definitions</code> 注记只能在文件内的代码生成窗口里使用。它会将你光标停留的那一行代码里涉及到的变量、类型的相关定义作为上下文传递给大模型，类似于 <code>@Code</code> 注记。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/bf392691d938899.png" alt="-1"></p>
+<p><code>@Definitions</code>注记</p>
+<h4 id="8-Git-注记，只能在对话窗里使用"><a href="#8-Git-注记，只能在对话窗里使用" class="headerlink" title="8. @Git 注记，只能在对话窗里使用"></a>8. <code>@Git</code> 注记，只能在对话窗里使用</h4><p>对话窗指的是通过 <code>CTRL + L</code> 与 <code>CTRL + I</code> 打开的对话窗口。<code>@Git</code> 注记能够将你当前的 Git 仓库的 commit 历史作为上下文传递给大模型。</p>
+<p>感觉比较适合在代码协作的时候查战犯清算的时候使用。</p>
+<h4 id="9-Codebase-注记，只能在对话窗里使用，用于在代码仓里扫描相应的文件传入"><a href="#9-Codebase-注记，只能在对话窗里使用，用于在代码仓里扫描相应的文件传入" class="headerlink" title="9. @Codebase 注记，只能在对话窗里使用，用于在代码仓里扫描相应的文件传入"></a>9. <code>@Codebase</code> 注记，只能在对话窗里使用，用于在代码仓里扫描相应的文件传入</h4><p><code>Codebase</code> 注记其实不是很好用，与其说它是扫代码仓，不如说是从代码仓里寻找到你想要的文件的上下文传入，也就是 <code>CodebaseFilter</code> 。</p>
+<p>我感觉平时开发不会用到，因为它要传递过滤条件设置过滤参数：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3f239623bff29a6.png" alt="-1"></p>
+<p><code>@Codebase</code>注记需要你传递数量、过滤&#x2F;排序时使用的模型等信息</p>
+<p>它和通过 <code>CTRL + enter</code> 快捷键的区别估计就在于你能够自定义查询的过滤规则。但我感觉没啥用。</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/18/Cursor-Detailed-Usage-Guide/">怎么使用Cursor？Cursor 超详细使用教程，从安装、订阅到高级技巧的全面教程 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Cursor</tag>
+      </tags>
+  </entry>
 </search>
