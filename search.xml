@@ -6817,131 +6817,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程</title>
-    <url>/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<p>早就听说可以利用SaaS回源来对网站进行加速，但是一直没有尝试过，今天有空便试了一下，特地分享出来供大家参考。</p>
-<h2 id="1-SaaS回源介绍"><a href="#1-SaaS回源介绍" class="headerlink" title="1 SaaS回源介绍"></a>1 SaaS回源介绍</h2><p>这一节主要是简单介绍一下利用SaaS回源加速网站的原理，<strong>不感兴趣可以直接跳过</strong>。</p>
-<h3 id="1-1-什么是SaaS"><a href="#1-1-什么是SaaS" class="headerlink" title="1.1 什么是SaaS"></a>1.1 什么是SaaS</h3><p>简单的说来，SaaS（Software as Service，软件即服务）就是指：当你想要开展某个业务的时候，不需要自己去编写和部署代码，而是找到现成的软件供应商，通过<strong>互联网</strong>直接使用他们提供的服务。</p>
-<p>比如你使用Gmail发邮件、用百度网盘存储文件、用Netflix看视频等等，这些都是通过互联网访问某种服务，所以他们都属于SaaS。</p>
-<h3 id="1-2-什么是SaaS回源"><a href="#1-2-什么是SaaS回源" class="headerlink" title="1.2 什么是SaaS回源"></a>1.2 什么是SaaS回源</h3><p>对于使用SaaS的用户来讲，可能希望通过<strong>自定义的域名</strong>来访问服务。</p>
-<p>比如你的公司购买了Gmail的服务，但为了彰显公司品牌，你们不希望使用@gmail.com的后缀，而是用公司自己的域名@xxx.com，这个时候就需要用到SaaS回源。</p>
-<p>配置好SaaS回源后，访问xxx.com的请求就会被转发到gmail.com进行处理。</p>
-<p>我们在Github Pages搭建个人博客，绑定自定义域名的时候，其实也是类似的道理。</p>
-<h3 id="1-3-为什么能利用SaaS回源对网站加速"><a href="#1-3-为什么能利用SaaS回源对网站加速" class="headerlink" title="1.3 为什么能利用SaaS回源对网站加速"></a>1.3 为什么能利用SaaS回源对网站加速</h3><p>对于静态资源（如图片、CSS、JS 等），Cloudflare 在全球的分布式节点可以缓存这些内容。当用户请求这些资源时，访问路径是：<strong>浏览器 → Cloudflare 节点（国内&#x2F;最近） → 直接返回缓存内容</strong></p>
-<p>而原来的访问路径是：<strong>浏览器 → 国外源站</strong></p>
-<p>显然，配置了SaaS回源后，不需要请求原站，所以访问速度会快不少。</p>
-<h2 id="2-概述"><a href="#2-概述" class="headerlink" title="2 概述"></a>2 概述</h2><p><strong>需要用到的：</strong></p>
-<ul>
-<li><strong>【必须】</strong> 你希望加速的域名<code>a.com</code>（不用托管到Cloudflare）</li>
-<li><strong>【必须】</strong> 回源域名<code>b.com</code>（必须托管到Cloudflare）</li>
-<li><strong>【必须】</strong> 国外信用卡，用于绑定Cloudflare，推荐使用<a href="https://bewildcard.com/i/JJDPH">wildcard</a></li>
-<li><strong>【非必须】</strong> DNSPod，用于将<strong>海外线路</strong>和<strong>国内线路</strong>分开解析</li>
-</ul>
-<p><strong>步骤概述：</strong></p>
-<ul>
-<li>将<code>b.com</code>托管到Cloudflare，并解析到你的服务器（比如Github Pages）</li>
-<li>配置Cloudflare SaaS回源（此功能免费，但需要绑定信用卡），将<code>b.com</code>作为回退源</li>
-<li>DNSPod上，配置<code>a.com</code>的DNS，将其指向Cloudflare</li>
-</ul>
-<h2 id="3-详细步骤"><a href="#3-详细步骤" class="headerlink" title="3 详细步骤"></a>3 详细步骤</h2><h3 id="3-1-注册CloudFlare，并托管b-com"><a href="#3-1-注册CloudFlare，并托管b-com" class="headerlink" title="3.1 注册CloudFlare，并托管b.com"></a>3.1 注册CloudFlare，并托管b.com</h3><p>注册登录CloudFlare，把<code>b.com</code>添加进去，并查看Cloudflare分配的NS服务器。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121329-image-20241118121329105-2024-11-12-29.png" alt="image-20241118121329105"></a></p>
-<p>在你的域名注册商那里，把DNS服务器设置为上面那两个ns域名</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121431-image-20241118121431160-2024-11-12-31.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121431-image-20241118121431160-2024-11-12-31.png" alt="image-20241118121431160"></a></p>
-<p>设置完域名托管后，需要等待一段时间才能生效。如果这一步等了很久还是没有生效，可以在域名注册商那里删除cloudflare的记录再重新填写。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118121520-image-20241118121520009-2024-11-12-20.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118121520-image-20241118121520009-2024-11-12-20.png" alt="image-20241118121520009"></a></p>
-<p>当域名状态变为活动时，表示托管成功</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123138-image-20241118123138817-2024-11-12-38.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123138-image-20241118123138817-2024-11-12-38.png" alt="image-20241118123138817"></a></p>
-<h3 id="3-2-启用CloudFlare-for-SaaS"><a href="#3-2-启用CloudFlare-for-SaaS" class="headerlink" title="3.2 启用CloudFlare for SaaS"></a>3.2 启用CloudFlare for SaaS</h3><p>进入SSL→自定义主机名</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119164607-4e0430d39bff681e4c9b2aff48edc5f8-2024-11-16-07.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164607-4e0430d39bff681e4c9b2aff48edc5f8-2024-11-16-07.png" alt="img"></a></p>
-<p>点击启用CloudFlare SaaS。</p>
-<p>这里需要绑定外国信用卡。没有外国卡的可以使用虚拟卡，推荐<a href="https://bewildcard.com/i/JJDPH">Wildcard</a>，2年期开卡费10美元。</p>
-<p>在<a href="https://bewildcard.com/i/JJDPH">Wildcard</a>开卡后，把信息填写进去就行。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241117144610-image-20241117144610063-2024-11-14-10.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241117144610-image-20241117144610063-2024-11-14-10.png" alt="image-20241117144610063"></a></p>
-<h3 id="3-3-解析回源域名"><a href="#3-3-解析回源域名" class="headerlink" title="3.3 解析回源域名"></a>3.3 解析回源域名</h3><p>进入到<code>b.com</code>的管理界面-&gt; DNS -&gt; 记录</p>
-<p>把<code>b.com</code>A记录或AAAA记录到你的真实网站服务器IP，我这里是解析到Github Pages服务器上的。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123417-image-20241118123417832-2024-11-12-17.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123417-image-20241118123417832-2024-11-12-17.png" alt="image-20241118123417832"></a></p>
-<h3 id="3-4-添加回源"><a href="#3-4-添加回源" class="headerlink" title="3.4 添加回源"></a>3.4 添加回源</h3><p>进入到<code>b.com</code>的管理界面-&gt; SSL&#x2F;TLS -&gt; 自定义主机名</p>
-<p>添加回退源，回退源地址为刚刚解析的<code>b.com</code></p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118123836-image-20241118123836262-2024-11-12-36.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118123836-image-20241118123836262-2024-11-12-36.png" alt="image-20241118123836262"></a></p>
-<h3 id="3-5-添加自定义主机名"><a href="#3-5-添加自定义主机名" class="headerlink" title="3.5 添加自定义主机名"></a>3.5 添加自定义主机名</h3><p>添加回源成功后，在同样的界面看到有效了。</p>
-<p>接下来添加自定义主机名。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165001-639aad3cb1ff09f7c02df7143b44698a-2024-11-16-01.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165001-639aad3cb1ff09f7c02df7143b44698a-2024-11-16-01.png" alt="img"></a></p>
-<p>主机名为你的希望加速的网站域名<code>a.com</code></p>
-<p>其余的按照图片上的填写</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119164956-345d43446e3572e75f06fae9fee6c24e-2024-11-16-56.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119164956-345d43446e3572e75f06fae9fee6c24e-2024-11-16-56.png" alt="img"></a></p>
-<p>接下来到DNSPod，为a.com添加下面的两条记录（前提是已经将a.com托管到了DNSPod），用来验证域名所有权</p>
-<p>成功后稍等片刻，再去CloudFlare -&gt; SSL&#x2F;TLS -&gt; 自定义主机名 刷新检查，等到证书状态和主机名状态都为有效则成功。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118134012-image-20241118134012695-2024-11-13-12.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134012-image-20241118134012695-2024-11-13-12.png" alt="image-20241118134012695"></a></p>
-<h3 id="3-6-a-com解析指向"><a href="#3-6-a-com解析指向" class="headerlink" title="3.6 a.com解析指向"></a>3.6 <code>a.com</code>解析指向</h3><p>到这里我们在DNSPod设置<code>a.com</code>的域名解析处</p>
-<p>将境内线路解析到<code>shopify.com</code>。</p>
-<p>境外线路解析到<code>1.0.0.5</code>（Cloudflare服务器在境外的IP）</p>
-<blockquote>
-<p>之所以要解析到<code>shopify.com</code>，是因为<code>shopify.com</code>也使用了Cloudflare的服务，所以它的域名是指向国内最快速的Cloudflare的节点的。</p>
-<p>除了<code>shopify.com</code>，也可以解析到其他使用了Cloudflare服务的域名，比如<code>csgo.com</code>、<code>visa.com</code>等等。</p>
-</blockquote>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118133609-image-20241118133609278-2024-11-13-09.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118133609-image-20241118133609278-2024-11-13-09.png" alt="image-20241118133609278"></a></p>
-<p>最终a.com的dns记录如下：</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241118134058-image-20241118134058046-2024-11-13-58.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241118134058-image-20241118134058046-2024-11-13-58.png" alt="image-20241118134058046"></a></p>
-<h3 id="3-7-设置SSL"><a href="#3-7-设置SSL" class="headerlink" title="3.7 设置SSL"></a>3.7 设置SSL</h3><p>在CloudFlare进入到<code>b.com</code>的管理界面-&gt; SSL&#x2F;TLS -&gt; 概述 中将SSL&#x2F;TLS加密模式改为<code>完全</code>。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165421-image-20241119165421221-2024-11-16-21.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165421-image-20241119165421221-2024-11-16-21.png" alt="image-20241119165421221"></a></p>
-<p>到此，就完成SaaS回源的配置了。</p>
-<p>当我们访问<code>a.com</code>的时候，请求首先转发给Cloudflare的境内节点。</p>
-<p>然后境内节点会发现<code>a.com</code>是<code>b.com</code>的自定义主机名，就会直接将缓存的<code>b.com</code>的内容返回给浏览器。从而达到加速网站的目的。</p>
-<h2 id="访问和验证"><a href="#访问和验证" class="headerlink" title="访问和验证"></a>访问和验证</h2><p>使用itdog测速，可以看到速度明显快了不少。</p>
-<p><a href="https://puputeju-tc.oss-cn-beijing.aliyuncs.com/20241119165912-image-20241119165911939-2024-11-16-12.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/20241119165912-image-20241119165911939-2024-11-16-12.png" alt="image-20241119165911939"></a></p>
-<blockquote>
-<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/10/Tutorial-on-Accelerating-Website-with-SaaS-Origin-Pull/">【一文搞懂】什么是CloudFlare SaaS回源？利用SaaS回源加速网站教程 </a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>SaaS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【一文看懂】Fanbox国内怎么支付？Fanbox PayPal付款失败？Fanbox只能信用卡支付？</title>
     <url>/2024/08/23/How-to-make-payments-on-Fanbox-domestically/</url>
     <content><![CDATA[<h2 id="1-引言"><a href="#1-引言" class="headerlink" title="1.引言"></a><strong>1.引言</strong></h2><ul>
@@ -7782,6 +7657,86 @@
 ]]></content>
       <tags>
         <tag>Windsurf AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Medium是什么？Medium能干嘛？如何用开通medium会员？一文搞懂</title>
+    <url>/2024/12/19/How-to-subscribe-to-Medium/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="1-背景介绍"><a href="#1-背景介绍" class="headerlink" title="1.背景介绍"></a>1.背景介绍</h2><h3 id="1-1-什么是medium"><a href="#1-1-什么是medium" class="headerlink" title="1.1 什么是medium"></a>1.1 什么是medium</h3><p>medium是国外一个<strong>内容创作和分享平台</strong>。 主要用户来自美国，每月有26万的访问量。</p>
+<p>网址： <a href="https://medium.com/">Medium官网</a></p>
+<p>平台注重优质、专业的内容。</p>
+<p>这个平台有2点比较吸引人：</p>
+<p>① <strong>内容优质、专业</strong></p>
+<p>② <strong>在上面写作，能赚美元</strong>。 网站有官方伙伴计划。每月支付5美元，就可以享有写作的收益。</p>
+<p>开通伙伴计划，需要有美国信用卡。</p>
+<p>本文就以<a href="https://bewildcard.com/i/JJDPH">wildcard</a>的美国万事达虚拟卡为例，演示如何开通medium会员。</p>
+<h3 id="1-2-什么是wildcard"><a href="#1-2-什么是wildcard" class="headerlink" title="1.2 什么是wildcard"></a>1.2 什么是wildcard</h3><p>wildcard：一款虚拟的美国万事达信用卡。支持ChatGPT、国外主流互联网、电商服务。</p>
+<p>网址： <a href="https://bewildcard.com/i/JJDPH">wildcard官网</a></p>
+<p>wildcard使用教程：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></p>
+<h2 id="2-开通medium会员教程"><a href="#2-开通medium会员教程" class="headerlink" title="2. 开通medium会员教程"></a>2. 开通medium会员教程</h2><p>登录medium账号后，</p>
+<p>① 点击右上角的头像</p>
+<p>② 单击“成为会员（become medium member）”</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051028945.png" alt="img"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051026063.png" alt="img"></p>
+<p>① 选择月付（Pay monthly）</p>
+<p>② 单击“选择（select）”</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051034185.png" alt="img"></p>
+<p>填写wildcard信息，然后点击“付款（Pay with credit or debit card）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051043935.png" alt="img"></p>
+<p>显示付款成功</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051045774.png" alt="img"></p>
+<p>在wildcard的交易记录里，也可以看到交易成功。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/202410051046861.png" alt="img"></p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/19/How-to-subscribe-to-Medium/">Medium是什么？Medium能干嘛？如何用开通medium会员？一文搞懂 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Medium</tag>
       </tags>
   </entry>
 </search>
