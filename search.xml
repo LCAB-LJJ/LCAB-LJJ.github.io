@@ -7739,4 +7739,83 @@
         <tag>Claude Android</tag>
       </tags>
   </entry>
+  <entry>
+    <title>【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版/专业版？</title>
+    <url>/2024/12/24/How-to-Use-and-Upgrade-Overleaf/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h3 id="1-Overleaf介绍"><a href="#1-Overleaf介绍" class="headerlink" title="1. Overleaf介绍"></a>1. Overleaf介绍</h3><p>Overleaf是<strong>一个使用LaTeX进行多人协同编辑的平台</strong>，可以免费注册和使用，不用下载LaTeX软件，是最为著名的LaTeX在线协作系统。 LaTeX 是一种广泛使用的排版系统，特别适合于科学文档、学术论文、图书和其他技术文档的编写。</p>
+<p>它最大优势是：<strong>在线编辑、多人共享</strong></p>
+<p>overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</p>
+<p>免费版Overleaf限制编译时间为20秒，超出此限制的文档无法编译。相比之下，标准版和专业版的编译时间长达240秒。值得注意的是，之前通过IEEE认证可免费获得专业版Overleaf的方式，已于2024年4月2日被Overleaf官方宣布暂停。</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/b1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/b1.png" alt="b1"></a></p>
+<p>此外，还有淘宝等特殊渠道购买overleaf专业版，不过<strong>风险很大</strong>（相当于把自己的论文交给别人任意访问，轻则查重率上升，重则学术不端），胖虎不建议大家用这种渠道。</p>
+<h3 id="2-Overleaf有哪些功能-优势"><a href="#2-Overleaf有哪些功能-优势" class="headerlink" title="2. Overleaf有哪些功能&#x2F;优势"></a>2. Overleaf有哪些功能&#x2F;优势</h3><p>Overleaf是一个功能强大的在线LaTeX编辑器，它提供了以下主要功能：</p>
+<ol>
+<li><strong>在线协作</strong>：Overleaf 支持多人实时协作，这意味着多个用户可以同时编辑同一个文档，非常适合<strong>团队合作</strong>。</li>
+<li><strong>模板库</strong>：Overleaf 提供了大量的文档模板，包括期刊文章、会议论文、简历、报告、书籍等，用户可以直接使用这些模板开始编写文档。</li>
+<li><strong>版本控制</strong>：Overleaf 自动保存文档的版本历史，用户可以轻松回滚到之前的版本。</li>
+<li><strong>实时预览</strong>：编辑 LaTeX 文档时，Overleaf 提供实时的文档预览，让用户即时看到排版效果。</li>
+<li><strong>集成编译器</strong>：Overleaf 内置了 LaTeX 编译器，用户无需在本地安装任何软件即可编译文档。</li>
+<li><strong>云存储</strong>：文档存储在云端，可以随时随地访问，并且支持从其他云服务或本地计算机导入和导出文档。</li>
+<li><strong>丰富的功能</strong>：Overleaf 支持 LaTeX 的所有功能，包括插入图片、表格、数学公式、参考文献等。</li>
+<li><strong>教育支持</strong>：Overleaf 为教育机构提供特殊支持，包括免费的教育版和专业版，供教师和学生使用。</li>
+</ol>
+<h3 id="3-Overleaf怎样升级到标准版-专业版"><a href="#3-Overleaf怎样升级到标准版-专业版" class="headerlink" title="3. Overleaf怎样升级到标准版&#x2F;专业版"></a>3. Overleaf怎样升级到标准版&#x2F;专业版</h3><p>首先你需要注册一个Overleaf账号:</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155138688.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155138688.png" alt="image-20240524155138688"></a></p>
+<p>然后选择你要升级的套餐，标准版年付199刀。当然月付也行，但要21刀&#x2F;每月。</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155214174.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155214174.png" alt="image-20240524155214174"></a></p>
+<p>最后填写支付信息，估计很多人没有国外的信用卡，这里可以使用虚拟信用卡。推荐使用<a href="https://bewildcard.com/i/JJDPH">WildCard</a>（使用邀请码：JJDPH有优惠哦），能用它来订阅大部分海外服务，并且专门针对ChatGPT相关服务做了优化，感兴趣的可以看看我的教程<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">WildCard是什么？怎样使用WildCard订阅国外服务？</a></p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/a1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a1.png" alt="a1"></a></p>
+<p>至此，就可以愉快地使用更强大的OverLeaf了。</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/24/How-to-Use-and-Upgrade-Overleaf/">【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版&#x2F;专业版？ | 进击的胖虎</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Overleaf</tag>
+      </tags>
+  </entry>
 </search>
