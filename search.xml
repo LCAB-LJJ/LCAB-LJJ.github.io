@@ -659,6 +659,85 @@
       </tags>
   </entry>
   <entry>
+    <title>惊了，GPT也会玩《黑神话》？胜率还远超人类？全靠大模型实力！</title>
+    <url>/2024/09/22/GPT-play-balck-myth-WUkong/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p>《黑神话：悟空》这款游戏，以其独特的东方魅力和引人入胜的剧情，在玩家和业界中引发了巨大的热潮。它不仅在界内十分火爆，更是火<strong>出了圈</strong>，可以在各处看见他的身影，包括奶茶店、咖啡店、商场超市等。这款游戏凭借其精致的画面和深入人心的角色塑造，无疑将为中国游戏产业注入新的活力，让人们看见了中华文化的博大精深，不禁感叹：祖宗优选才是好货！</p>
+<p>然而，最近胖虎竟然发现：<strong>AI也能直面天命</strong>！GPT可以玩《黑神话·悟空》！</p>
+<p>AI竟然在《黑神话：悟空》中打败了人类玩家！这可不是什么小打小闹，而是完完全全的大招！ 它不仅赢了，还赢得超级漂亮，特别是在对抗鸦香客和牯护院时，简直像开了挂一样！ 而且，这全靠一个大模型，没有使用强化学习！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e93ff63c1f2fa144852e4c374e379ae.jpg"></p>
+<p>阿里巴巴的研究人员们真的太牛了，他们提出了一种新型的VARP智能体框架。这个框架可以直接分析游戏截图，然后通过视觉语言模型推理，生成Python代码形式的动作来操作游戏。在《黑神话·悟空》中，这个智能体在90%的简单和中等水平的战斗场景中取得了胜利！</p>
+<h2 id="GPT-4o、Claude-3-5都不缺席挑战"><a href="#GPT-4o、Claude-3-5都不缺席挑战" class="headerlink" title="GPT-4o、Claude 3.5都不缺席挑战"></a>GPT-4o、Claude 3.5都不缺席挑战</h2><p>研究人员以《黑神话·悟空》为研究平台，一共定义了12个任务，75%与战斗有关。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4f92197cb240eff8062587507623570.jpg"></p>
+<p>他们构建了一个包含1000条有效数据的人类操作数据集，这些数据囊括了键鼠操作和游戏截图。每个操作都是由一系列原子命令组成的，比如轻攻、闪避、重攻击和回血等。</p>
+<p>他们提出了VARP智能体框架，主要包括动作规划系统和人类引导轨迹系统。</p>
+<p>动作规划系统由情境库、动作库和人类引导库组成，使用VLMs进行动作推理和生成，并引入辅助模块以分解特定任务以及自我优化的动作生成模块。</p>
+<p>人类引导轨迹系统则利用人类操作数据提升智能体性能，针对复杂任务，通过查询人类引导库获取相似截图和操作，生成新的引导动作。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a9a9cc2aec90a44bca06a4bee4ae017.jpg"></p>
+<p>同时，VARP还包括三个库：情景库、动作库和人工引导库。</p>
+<p>这些库存储了智能体自我学习和人类指导的内容，能够进行检索和更新。动作库中，“def new_func_a()”表示动作规划系统生成的新动作，“def new_func_h()”代表人导轨迹系统生成的动作，而“def pre_func()”则是预定义的动作。</p>
+<p>动作案例研究和相关游戏截图中，第一行和第二行的操作是预定义函数，第三行的动作由人工引导轨迹系统生成。SOAG会在每次玩家角色与敌人战斗互动后，总结第四行和第五行中的新动作，并将其存储在动作库中。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4cb99f40d536a50e5c89d32e1cb1249.jpg"></p>
+<p>框架分别使用了GPT-4o（2024-0513版本）、Claude 3.5 Sonnet和Gemini 1.5 Pro。</p>
+<p>对比人类和AI的表现结果发现，在小怪部分，AI的表现达到了人类玩家的水平。然而，当进入牯护院时，Claude 3.5 Sonnet表现不佳，而GPT-4o的胜率最高。</p>
+<p>但对于新手玩家普遍感到棘手的幽魂，AI们也无能为力。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e93ff63c1f2fa144852e4c374e379ae.jpg"></p>
+<p>还有研究指出，由于VLMs的推理速度限制，它无法实时处理每一帧画面，只能间隔输入关键帧，这可能导致AI错过boss攻击的关键信息。此外，由于游戏缺乏明确的道路引导且存在许多空气墙，智能体在没有人类指导的情况下也无法找到正确的路线。这项研究由阿里团队的五位作者完成。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/94248906737dfe9e767f641003e28fa.jpg"></p>
+<p>后续相关代码和数据集有发布计划，感兴趣的朋友可以蹲下。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>我想说，AI的潜力是无限的，欢迎关注我的公众号：AI小鲨，持续为您带来最新AIGC资讯！</p>
+<blockquote>
+<p>参考原文：<a href="https://lcab-ljj.github.io/2024/09/22/GPT-play-balck-myth-WUkong/">GPT也会玩《黑神话》？胜率还远超人类？全靠大模型实力！</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>GPT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【AI破局】自由职业必将成为新趋势</title>
     <url>/2024/09/02/Freelancing-is-bound-to-become-the-new-trend/</url>
     <content><![CDATA[<blockquote>
@@ -746,160 +825,6 @@
       <tags>
         <tag>ChatGPT</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>惊了，GPT也会玩《黑神话》？胜率还远超人类？全靠大模型实力！</title>
-    <url>/2024/09/22/GPT-play-balck-myth-WUkong/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p>《黑神话：悟空》这款游戏，以其独特的东方魅力和引人入胜的剧情，在玩家和业界中引发了巨大的热潮。它不仅在界内十分火爆，更是火<strong>出了圈</strong>，可以在各处看见他的身影，包括奶茶店、咖啡店、商场超市等。这款游戏凭借其精致的画面和深入人心的角色塑造，无疑将为中国游戏产业注入新的活力，让人们看见了中华文化的博大精深，不禁感叹：祖宗优选才是好货！</p>
-<p>然而，最近胖虎竟然发现：<strong>AI也能直面天命</strong>！GPT可以玩《黑神话·悟空》！</p>
-<p>AI竟然在《黑神话：悟空》中打败了人类玩家！这可不是什么小打小闹，而是完完全全的大招！ 它不仅赢了，还赢得超级漂亮，特别是在对抗鸦香客和牯护院时，简直像开了挂一样！ 而且，这全靠一个大模型，没有使用强化学习！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e93ff63c1f2fa144852e4c374e379ae.jpg"></p>
-<p>阿里巴巴的研究人员们真的太牛了，他们提出了一种新型的VARP智能体框架。这个框架可以直接分析游戏截图，然后通过视觉语言模型推理，生成Python代码形式的动作来操作游戏。在《黑神话·悟空》中，这个智能体在90%的简单和中等水平的战斗场景中取得了胜利！</p>
-<h2 id="GPT-4o、Claude-3-5都不缺席挑战"><a href="#GPT-4o、Claude-3-5都不缺席挑战" class="headerlink" title="GPT-4o、Claude 3.5都不缺席挑战"></a>GPT-4o、Claude 3.5都不缺席挑战</h2><p>研究人员以《黑神话·悟空》为研究平台，一共定义了12个任务，75%与战斗有关。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4f92197cb240eff8062587507623570.jpg"></p>
-<p>他们构建了一个包含1000条有效数据的人类操作数据集，这些数据囊括了键鼠操作和游戏截图。每个操作都是由一系列原子命令组成的，比如轻攻、闪避、重攻击和回血等。</p>
-<p>他们提出了VARP智能体框架，主要包括动作规划系统和人类引导轨迹系统。</p>
-<p>动作规划系统由情境库、动作库和人类引导库组成，使用VLMs进行动作推理和生成，并引入辅助模块以分解特定任务以及自我优化的动作生成模块。</p>
-<p>人类引导轨迹系统则利用人类操作数据提升智能体性能，针对复杂任务，通过查询人类引导库获取相似截图和操作，生成新的引导动作。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a9a9cc2aec90a44bca06a4bee4ae017.jpg"></p>
-<p>同时，VARP还包括三个库：情景库、动作库和人工引导库。</p>
-<p>这些库存储了智能体自我学习和人类指导的内容，能够进行检索和更新。动作库中，“def new_func_a()”表示动作规划系统生成的新动作，“def new_func_h()”代表人导轨迹系统生成的动作，而“def pre_func()”则是预定义的动作。</p>
-<p>动作案例研究和相关游戏截图中，第一行和第二行的操作是预定义函数，第三行的动作由人工引导轨迹系统生成。SOAG会在每次玩家角色与敌人战斗互动后，总结第四行和第五行中的新动作，并将其存储在动作库中。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4cb99f40d536a50e5c89d32e1cb1249.jpg"></p>
-<p>框架分别使用了GPT-4o（2024-0513版本）、Claude 3.5 Sonnet和Gemini 1.5 Pro。</p>
-<p>对比人类和AI的表现结果发现，在小怪部分，AI的表现达到了人类玩家的水平。然而，当进入牯护院时，Claude 3.5 Sonnet表现不佳，而GPT-4o的胜率最高。</p>
-<p>但对于新手玩家普遍感到棘手的幽魂，AI们也无能为力。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/e93ff63c1f2fa144852e4c374e379ae.jpg"></p>
-<p>还有研究指出，由于VLMs的推理速度限制，它无法实时处理每一帧画面，只能间隔输入关键帧，这可能导致AI错过boss攻击的关键信息。此外，由于游戏缺乏明确的道路引导且存在许多空气墙，智能体在没有人类指导的情况下也无法找到正确的路线。这项研究由阿里团队的五位作者完成。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/94248906737dfe9e767f641003e28fa.jpg"></p>
-<p>后续相关代码和数据集有发布计划，感兴趣的朋友可以蹲下。</p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>我想说，AI的潜力是无限的，欢迎关注我的公众号：AI小鲨，持续为您带来最新AIGC资讯！</p>
-<blockquote>
-<p>参考原文：<a href="https://lcab-ljj.github.io/2024/09/22/GPT-play-balck-myth-WUkong/">GPT也会玩《黑神话》？胜率还远超人类？全靠大模型实力！</a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>GPT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【包教包会】怎么去除视频水印？HitPaw帮你轻松解决</title>
-    <url>/2024/08/21/HitPaw-Remove-Watermarks-from-Videos/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>HitPaw是一款优秀的去除视频水印的工具。</p>
-<p>特点：不仅仅能够去除图片、视频里的固定水印，还能去除<strong>移动水印</strong>。</p>
-<p>尤其是它的AI去水印功能，效果非常好。</p>
-<h2 id="极简使用教程"><a href="#极简使用教程" class="headerlink" title="极简使用教程"></a>极简使用教程</h2><h3 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h3><p>HitPaw需要在电脑上安装软件才能使用。 支持Windows系统和Mac系统。</p>
-<p>打开网址：</p>
-<p><a href="https://www.hitpaw.tw/remove-watermark.html?linksource=home">https://www.hitpaw.tw/remove-watermark.html?linksource=home</a></p>
-<p>下载后，双击安装程序，安装即可。</p>
-<h3 id="第1步：添加视频"><a href="#第1步：添加视频" class="headerlink" title="第1步：添加视频"></a>第1步：添加视频</h3><p>打开软件后，点击左上角的“+”号，添加需要编辑的视频</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1i.png"></p>
-<h3 id="第2步：添加选区"><a href="#第2步：添加选区" class="headerlink" title="第2步：添加选区"></a>第2步：添加选区</h3><p>点击右上角的“+”，添加去水印选区。</p>
-<p>把选区拉到水印的位置</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/2i.png"></p>
-<h3 id="第3步：开启移动去水印模式"><a href="#第3步：开启移动去水印模式" class="headerlink" title="第3步：开启移动去水印模式"></a>第3步：开启移动去水印模式</h3><p>点击右下角的“去除移动水印”图标</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3i.png"><br>把去水印框，拉到右边水印结束的位置。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4i.png"></p>
-<h3 id="第4步：导出即可"><a href="#第4步：导出即可" class="headerlink" title="第4步：导出即可"></a>第4步：导出即可</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5i.png"></p>
-<p><strong>PS</strong>：</p>
-<p>1.视频导出，需要付费。如果不想付费，可以用<strong>录屏软件录屏</strong>。<br>费用大概是一年80元人民币。<br>2.在移除模式里，还有多种模式，可以根据实际情况，挑选最合适的。</p>
-<h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><p>去水印也可以使用剪映里的模糊特效和蒙版。但是比较麻烦。</p>
-<p>HitPaw是一款优秀的去除图片、视频水印的工具，可以去除视频里的移动水印。</p>
-<ul>
-<li><p>优点是：速度快，效果好；</p>
-</li>
-<li><p>缺点是：导出视频要收费。 可以采取录屏的方式，白p。</p>
-</li>
-</ul>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
   </entry>
   <entry>
     <title>【小白向】如何注册和使用Disney+？Disney+会员账号可以合租？Disney+会员账号订阅购买使用教程</title>
@@ -1106,6 +1031,81 @@
       <tags>
         <tag>Heygen</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>【包教包会】怎么去除视频水印？HitPaw帮你轻松解决</title>
+    <url>/2024/08/21/HitPaw-Remove-Watermarks-from-Videos/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>HitPaw是一款优秀的去除视频水印的工具。</p>
+<p>特点：不仅仅能够去除图片、视频里的固定水印，还能去除<strong>移动水印</strong>。</p>
+<p>尤其是它的AI去水印功能，效果非常好。</p>
+<h2 id="极简使用教程"><a href="#极简使用教程" class="headerlink" title="极简使用教程"></a>极简使用教程</h2><h3 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h3><p>HitPaw需要在电脑上安装软件才能使用。 支持Windows系统和Mac系统。</p>
+<p>打开网址：</p>
+<p><a href="https://www.hitpaw.tw/remove-watermark.html?linksource=home">https://www.hitpaw.tw/remove-watermark.html?linksource=home</a></p>
+<p>下载后，双击安装程序，安装即可。</p>
+<h3 id="第1步：添加视频"><a href="#第1步：添加视频" class="headerlink" title="第1步：添加视频"></a>第1步：添加视频</h3><p>打开软件后，点击左上角的“+”号，添加需要编辑的视频</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1i.png"></p>
+<h3 id="第2步：添加选区"><a href="#第2步：添加选区" class="headerlink" title="第2步：添加选区"></a>第2步：添加选区</h3><p>点击右上角的“+”，添加去水印选区。</p>
+<p>把选区拉到水印的位置</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/2i.png"></p>
+<h3 id="第3步：开启移动去水印模式"><a href="#第3步：开启移动去水印模式" class="headerlink" title="第3步：开启移动去水印模式"></a>第3步：开启移动去水印模式</h3><p>点击右下角的“去除移动水印”图标</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3i.png"><br>把去水印框，拉到右边水印结束的位置。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4i.png"></p>
+<h3 id="第4步：导出即可"><a href="#第4步：导出即可" class="headerlink" title="第4步：导出即可"></a>第4步：导出即可</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5i.png"></p>
+<p><strong>PS</strong>：</p>
+<p>1.视频导出，需要付费。如果不想付费，可以用<strong>录屏软件录屏</strong>。<br>费用大概是一年80元人民币。<br>2.在移除模式里，还有多种模式，可以根据实际情况，挑选最合适的。</p>
+<h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><p>去水印也可以使用剪映里的模糊特效和蒙版。但是比较麻烦。</p>
+<p>HitPaw是一款优秀的去除图片、视频水印的工具，可以去除视频里的移动水印。</p>
+<ul>
+<li><p>优点是：速度快，效果好；</p>
+</li>
+<li><p>缺点是：导出视频要收费。 可以采取录屏的方式，白p。</p>
+</li>
+</ul>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
   </entry>
   <entry>
     <title>【绝对管用】怎么用上ChatGPT o1模型？</title>
@@ -1603,6 +1603,171 @@
       </tags>
   </entry>
   <entry>
+    <title>【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版/专业版？</title>
+    <url>/2024/12/24/How-to-Use-and-Upgrade-Overleaf/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h3 id="1-Overleaf介绍"><a href="#1-Overleaf介绍" class="headerlink" title="1. Overleaf介绍"></a>1. Overleaf介绍</h3><p>Overleaf是<strong>一个使用LaTeX进行多人协同编辑的平台</strong>，可以免费注册和使用，不用下载LaTeX软件，是最为著名的LaTeX在线协作系统。 LaTeX 是一种广泛使用的排版系统，特别适合于科学文档、学术论文、图书和其他技术文档的编写。</p>
+<p>它最大优势是：<strong>在线编辑、多人共享</strong></p>
+<p>overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</p>
+<p>免费版Overleaf限制编译时间为20秒，超出此限制的文档无法编译。相比之下，标准版和专业版的编译时间长达240秒。值得注意的是，之前通过IEEE认证可免费获得专业版Overleaf的方式，已于2024年4月2日被Overleaf官方宣布暂停。</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/b1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/b1.png" alt="b1"></a></p>
+<p>此外，还有淘宝等特殊渠道购买overleaf专业版，不过<strong>风险很大</strong>（相当于把自己的论文交给别人任意访问，轻则查重率上升，重则学术不端），胖虎不建议大家用这种渠道。</p>
+<h3 id="2-Overleaf有哪些功能-优势"><a href="#2-Overleaf有哪些功能-优势" class="headerlink" title="2. Overleaf有哪些功能&#x2F;优势"></a>2. Overleaf有哪些功能&#x2F;优势</h3><p>Overleaf是一个功能强大的在线LaTeX编辑器，它提供了以下主要功能：</p>
+<ol>
+<li><strong>在线协作</strong>：Overleaf 支持多人实时协作，这意味着多个用户可以同时编辑同一个文档，非常适合<strong>团队合作</strong>。</li>
+<li><strong>模板库</strong>：Overleaf 提供了大量的文档模板，包括期刊文章、会议论文、简历、报告、书籍等，用户可以直接使用这些模板开始编写文档。</li>
+<li><strong>版本控制</strong>：Overleaf 自动保存文档的版本历史，用户可以轻松回滚到之前的版本。</li>
+<li><strong>实时预览</strong>：编辑 LaTeX 文档时，Overleaf 提供实时的文档预览，让用户即时看到排版效果。</li>
+<li><strong>集成编译器</strong>：Overleaf 内置了 LaTeX 编译器，用户无需在本地安装任何软件即可编译文档。</li>
+<li><strong>云存储</strong>：文档存储在云端，可以随时随地访问，并且支持从其他云服务或本地计算机导入和导出文档。</li>
+<li><strong>丰富的功能</strong>：Overleaf 支持 LaTeX 的所有功能，包括插入图片、表格、数学公式、参考文献等。</li>
+<li><strong>教育支持</strong>：Overleaf 为教育机构提供特殊支持，包括免费的教育版和专业版，供教师和学生使用。</li>
+</ol>
+<h3 id="3-Overleaf怎样升级到标准版-专业版"><a href="#3-Overleaf怎样升级到标准版-专业版" class="headerlink" title="3. Overleaf怎样升级到标准版&#x2F;专业版"></a>3. Overleaf怎样升级到标准版&#x2F;专业版</h3><p>首先你需要注册一个Overleaf账号:</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155138688.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155138688.png" alt="image-20240524155138688"></a></p>
+<p>然后选择你要升级的套餐，标准版年付199刀。当然月付也行，但要21刀&#x2F;每月。</p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155214174.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155214174.png" alt="image-20240524155214174"></a></p>
+<p>最后填写支付信息，估计很多人没有国外的信用卡，这里可以使用虚拟信用卡。推荐使用<a href="https://bewildcard.com/i/JJDPH">WildCard</a>（使用邀请码：JJDPH有优惠哦），能用它来订阅大部分海外服务，并且专门针对ChatGPT相关服务做了优化，感兴趣的可以看看我的教程<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">WildCard是什么？怎样使用WildCard订阅国外服务？</a></p>
+<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/a1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a1.png" alt="a1"></a></p>
+<p>至此，就可以愉快地使用更强大的OverLeaf了。</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/24/How-to-Use-and-Upgrade-Overleaf/">【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版&#x2F;专业版？ | 进击的胖虎</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Overleaf</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【包教包会】如何将虚拟信用卡Wildcard绑定PayPal？详细操作指南！</title>
+    <url>/2024/08/14/How-to-bind-wildcard-to-PayPal/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>随着电子商务的发展，越来越多的人选择使用<strong>PayPal</strong>作为在线支付工具。然而，在使用PayPal进行交易时，有时我们需要<strong>绑定虚拟信用卡</strong>以提高安全性和便利性。本文将为您详细介绍如何将虚拟信用卡绑定到PayPal账户并进行验证。</p>
+<p>首先，我们需要了解什么是虚拟信用卡。虚拟信用卡是一种<strong>数字版的信用卡</strong>，提供一次性或多次性使用的卡号，用于在线交易而不需要使用<strong>实体信用卡</strong>。</p>
+<p>这种卡通常由信用卡发行机构或数字支付服务提供，旨在提供额外的安全层次，通过限定使用次数、金额、有效期等，以减少欺诈风险和保护用户的真实账户信息。</p>
+<p>虚拟信用卡和实体虚拟卡一样，它也有cvv、名称、地址、卡号等等，可以用来购买各种服务，<strong>使用起来和实体信用卡是相同的</strong>。</p>
+<h2 id="详细教程"><a href="#详细教程" class="headerlink" title="详细教程"></a>详细教程</h2><p>那么，如何将虚拟信用卡绑定到PayPal账户呢？以下是详细的操作步骤：</p>
+<h3 id="1-注册并登录PayPal账户"><a href="#1-注册并登录PayPal账户" class="headerlink" title="1. 注册并登录PayPal账户"></a>1. 注册并登录PayPal账户</h3><h4 id="步骤1：访问PayPal官方网站"><a href="#步骤1：访问PayPal官方网站" class="headerlink" title="步骤1：访问PayPal官方网站"></a>步骤1：访问PayPal官方网站</h4><p>打开浏览器，访问 <a href="https://www.paypal.com/c2/home">PayPal官方网站</a>，点击注册按钮。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1p.jpg"></p>
+<h4 id="步骤2：选择账户类型"><a href="#步骤2：选择账户类型" class="headerlink" title="步骤2：选择账户类型"></a>步骤2：选择账户类型</h4><p>PayPal提供个人账户和企业账户两种类型。如果是个人用户，选择个人账户；如果是企业，选择企业账户。这里选择注册个人账户。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/2p.jpg"></p>
+<h4 id="步骤3：验证手机号码"><a href="#步骤3：验证手机号码" class="headerlink" title="步骤3：验证手机号码"></a>步骤3：验证手机号码</h4><p>注册PayPal账户，添加手机号码，并输入接收到的验证码。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3p.jpg"></p>
+<h4 id="步骤4：设置用户信息"><a href="#步骤4：设置用户信息" class="headerlink" title="步骤4：设置用户信息"></a>步骤4：设置用户信息</h4><p>填写所需的个人信息，包括电子邮件地址、选择国籍、姓氏、名称、设置密码。确保密码强度足够高，以提高账户的安全性。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4p.jpg"></p>
+<h4 id="步骤5：设置收件地址"><a href="#步骤5：设置收件地址" class="headerlink" title="步骤5：设置收件地址"></a>步骤5：设置收件地址</h4><p>按照要求输入出生日期、身份证号、邮件编码、省份、城市、具体地址。勾选同意条款后提交。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5p.jpg"></p>
+<h4 id="步骤6：验证电子邮箱"><a href="#步骤6：验证电子邮箱" class="headerlink" title="步骤6：验证电子邮箱"></a>步骤6：验证电子邮箱</h4><p>PayPal会要求你验证你的电子邮件地址，以确保你可以接收重要通知和交易信息。点击验证邮箱，发送电子邮件。然后登录注册邮箱，确认邮件。<br><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6p.jpg"></p>
+<h3 id="2-添加虚拟信用卡"><a href="#2-添加虚拟信用卡" class="headerlink" title="2. 添加虚拟信用卡"></a>2. 添加虚拟信用卡</h3><p>这里我推荐 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>，因为wildcard是一家专注于提供虚拟信用卡服务的平台。该平台对OpenAI旗下各项支付业务做了专门设计和优化，可以实现一键注册gpt账号、一键购买gpt4.0等等众多一键服务。</p>
+<p>除了openai，wildcard虚拟信用卡还支持购买其他服务，比如<strong>midjouorney、onlyfans、google play、youtube、spotify</strong>等等。</p>
+<p>此外，相比其他平台，wildcard最大优势在于<strong>操作及其简单，完全傻瓜式操作</strong>。并且可以无需身份证件，只通过支付宝认证，轻轻松松就能<strong>订阅国外的服务</strong>。</p>
+<p>想开通Wildcard就看这篇教程：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【重要】wildcard使用教程？如何用wildcard订阅国外服务？</strong></a></p>
+<p>Wildcard官网地址在：<a href="https://wildcard.com.cn/i/JJDPH"><strong>一分钟开卡轻松订阅海外服务</strong></a>（从链接进入或者输入邀请码<strong>JJDPH</strong>可优惠14元哦）</p>
+<p>登录PayPal账户后，点击页面顶部的“钱包”选项卡，然后点击“添加或编辑支付方式”。在弹出的窗口中，选择“信用卡”作为支付方式，然后将<strong>下面卡片的信息输入您的虚拟信用卡信息，包括卡号、有效期、CVV码</strong>等。请注意，您需要确保您的虚拟信用卡支持国际交易，以便在全球范围内使用PayPal进行支付。</p>
+<h3 id="3-绑定虚拟信用卡"><a href="#3-绑定虚拟信用卡" class="headerlink" title="3. 绑定虚拟信用卡"></a>3. 绑定虚拟信用卡</h3><p>在输入完虚拟信用卡信息后，点击“添加卡”按钮。此时，PayPal会向您的虚拟信用卡发送一笔小额验证款项。请查看您的虚拟信用卡账户，<strong>确认收到验证款项</strong>。</p>
+<h3 id="4-验证虚拟信用卡"><a href="#4-验证虚拟信用卡" class="headerlink" title="4. 验证虚拟信用卡"></a>4. 验证虚拟信用卡</h3><p>收到验证款项后，您需要在PayPal账户中输入这笔验证款项的金额。完成输入后，点击“提交”按钮。PayPal会对您输入的金额进行核实，如果核实无误，您的虚拟信用卡将被成功绑定到PayPal账户。</p>
+<h3 id="5-开始使用虚拟信用卡进行支付"><a href="#5-开始使用虚拟信用卡进行支付" class="headerlink" title="5. 开始使用虚拟信用卡进行支付"></a>5. 开始使用虚拟信用卡进行支付</h3><p>绑定并验证虚拟信用卡后，就可以在PayPal账户中使用它进行支付啦。</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://www.paypal.com/c2/webapps/mpp/how-to-guides/link-bank-account">如何将银行账户关联到您的PayPal账户</a></li>
+<li><a href="https://www.vpsrb.com/447.html">[教程]如何使用银联借记卡绑定PayPal 进行外币付款</a></li>
+<li><a href="https://segmentfault.com/a/1190000044590378">3分钟搞定PayPal注册</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Wildcard</tag>
+        <tag>PayPal</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【包教包会】程序员必备！用WildCard开通GitHub Copilot全攻略</title>
     <url>/2024/09/04/How-to-activate-GitHub-Copilot/</url>
     <content><![CDATA[<blockquote>
@@ -1720,92 +1885,6 @@
       <tags>
         <tag>ChatGPT</tag>
         <tag>Wildcard</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【包教包会】如何将虚拟信用卡Wildcard绑定PayPal？详细操作指南！</title>
-    <url>/2024/08/14/How-to-bind-wildcard-to-PayPal/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>随着电子商务的发展，越来越多的人选择使用<strong>PayPal</strong>作为在线支付工具。然而，在使用PayPal进行交易时，有时我们需要<strong>绑定虚拟信用卡</strong>以提高安全性和便利性。本文将为您详细介绍如何将虚拟信用卡绑定到PayPal账户并进行验证。</p>
-<p>首先，我们需要了解什么是虚拟信用卡。虚拟信用卡是一种<strong>数字版的信用卡</strong>，提供一次性或多次性使用的卡号，用于在线交易而不需要使用<strong>实体信用卡</strong>。</p>
-<p>这种卡通常由信用卡发行机构或数字支付服务提供，旨在提供额外的安全层次，通过限定使用次数、金额、有效期等，以减少欺诈风险和保护用户的真实账户信息。</p>
-<p>虚拟信用卡和实体虚拟卡一样，它也有cvv、名称、地址、卡号等等，可以用来购买各种服务，<strong>使用起来和实体信用卡是相同的</strong>。</p>
-<h2 id="详细教程"><a href="#详细教程" class="headerlink" title="详细教程"></a>详细教程</h2><p>那么，如何将虚拟信用卡绑定到PayPal账户呢？以下是详细的操作步骤：</p>
-<h3 id="1-注册并登录PayPal账户"><a href="#1-注册并登录PayPal账户" class="headerlink" title="1. 注册并登录PayPal账户"></a>1. 注册并登录PayPal账户</h3><h4 id="步骤1：访问PayPal官方网站"><a href="#步骤1：访问PayPal官方网站" class="headerlink" title="步骤1：访问PayPal官方网站"></a>步骤1：访问PayPal官方网站</h4><p>打开浏览器，访问 <a href="https://www.paypal.com/c2/home">PayPal官方网站</a>，点击注册按钮。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1p.jpg"></p>
-<h4 id="步骤2：选择账户类型"><a href="#步骤2：选择账户类型" class="headerlink" title="步骤2：选择账户类型"></a>步骤2：选择账户类型</h4><p>PayPal提供个人账户和企业账户两种类型。如果是个人用户，选择个人账户；如果是企业，选择企业账户。这里选择注册个人账户。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/2p.jpg"></p>
-<h4 id="步骤3：验证手机号码"><a href="#步骤3：验证手机号码" class="headerlink" title="步骤3：验证手机号码"></a>步骤3：验证手机号码</h4><p>注册PayPal账户，添加手机号码，并输入接收到的验证码。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/3p.jpg"></p>
-<h4 id="步骤4：设置用户信息"><a href="#步骤4：设置用户信息" class="headerlink" title="步骤4：设置用户信息"></a>步骤4：设置用户信息</h4><p>填写所需的个人信息，包括电子邮件地址、选择国籍、姓氏、名称、设置密码。确保密码强度足够高，以提高账户的安全性。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/4p.jpg"></p>
-<h4 id="步骤5：设置收件地址"><a href="#步骤5：设置收件地址" class="headerlink" title="步骤5：设置收件地址"></a>步骤5：设置收件地址</h4><p>按照要求输入出生日期、身份证号、邮件编码、省份、城市、具体地址。勾选同意条款后提交。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/5p.jpg"></p>
-<h4 id="步骤6：验证电子邮箱"><a href="#步骤6：验证电子邮箱" class="headerlink" title="步骤6：验证电子邮箱"></a>步骤6：验证电子邮箱</h4><p>PayPal会要求你验证你的电子邮件地址，以确保你可以接收重要通知和交易信息。点击验证邮箱，发送电子邮件。然后登录注册邮箱，确认邮件。<br><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/6p.jpg"></p>
-<h3 id="2-添加虚拟信用卡"><a href="#2-添加虚拟信用卡" class="headerlink" title="2. 添加虚拟信用卡"></a>2. 添加虚拟信用卡</h3><p>这里我推荐 <a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>，因为wildcard是一家专注于提供虚拟信用卡服务的平台。该平台对OpenAI旗下各项支付业务做了专门设计和优化，可以实现一键注册gpt账号、一键购买gpt4.0等等众多一键服务。</p>
-<p>除了openai，wildcard虚拟信用卡还支持购买其他服务，比如<strong>midjouorney、onlyfans、google play、youtube、spotify</strong>等等。</p>
-<p>此外，相比其他平台，wildcard最大优势在于<strong>操作及其简单，完全傻瓜式操作</strong>。并且可以无需身份证件，只通过支付宝认证，轻轻松松就能<strong>订阅国外的服务</strong>。</p>
-<p>想开通Wildcard就看这篇教程：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【重要】wildcard使用教程？如何用wildcard订阅国外服务？</strong></a></p>
-<p>Wildcard官网地址在：<a href="https://wildcard.com.cn/i/JJDPH"><strong>一分钟开卡轻松订阅海外服务</strong></a>（从链接进入或者输入邀请码<strong>JJDPH</strong>可优惠14元哦）</p>
-<p>登录PayPal账户后，点击页面顶部的“钱包”选项卡，然后点击“添加或编辑支付方式”。在弹出的窗口中，选择“信用卡”作为支付方式，然后将<strong>下面卡片的信息输入您的虚拟信用卡信息，包括卡号、有效期、CVV码</strong>等。请注意，您需要确保您的虚拟信用卡支持国际交易，以便在全球范围内使用PayPal进行支付。</p>
-<h3 id="3-绑定虚拟信用卡"><a href="#3-绑定虚拟信用卡" class="headerlink" title="3. 绑定虚拟信用卡"></a>3. 绑定虚拟信用卡</h3><p>在输入完虚拟信用卡信息后，点击“添加卡”按钮。此时，PayPal会向您的虚拟信用卡发送一笔小额验证款项。请查看您的虚拟信用卡账户，<strong>确认收到验证款项</strong>。</p>
-<h3 id="4-验证虚拟信用卡"><a href="#4-验证虚拟信用卡" class="headerlink" title="4. 验证虚拟信用卡"></a>4. 验证虚拟信用卡</h3><p>收到验证款项后，您需要在PayPal账户中输入这笔验证款项的金额。完成输入后，点击“提交”按钮。PayPal会对您输入的金额进行核实，如果核实无误，您的虚拟信用卡将被成功绑定到PayPal账户。</p>
-<h3 id="5-开始使用虚拟信用卡进行支付"><a href="#5-开始使用虚拟信用卡进行支付" class="headerlink" title="5. 开始使用虚拟信用卡进行支付"></a>5. 开始使用虚拟信用卡进行支付</h3><p>绑定并验证虚拟信用卡后，就可以在PayPal账户中使用它进行支付啦。</p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://www.paypal.com/c2/webapps/mpp/how-to-guides/link-bank-account">如何将银行账户关联到您的PayPal账户</a></li>
-<li><a href="https://www.vpsrb.com/447.html">[教程]如何使用银联借记卡绑定PayPal 进行外币付款</a></li>
-<li><a href="https://segmentfault.com/a/1190000044590378">3分钟搞定PayPal注册</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Wildcard</tag>
-        <tag>PayPal</tag>
       </tags>
   </entry>
   <entry>
@@ -2259,6 +2338,105 @@
       </tags>
   </entry>
   <entry>
+    <title>【绝对教会】什么是DeepL？如何订阅支付DeepL，订阅DeepL Pro以及申请DeepL API？</title>
+    <url>/2024/09/12/How-to-subscribe-to-and-pay-for-DeepL/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="什么是DeepL？"><a href="#什么是DeepL？" class="headerlink" title="什么是DeepL？"></a>什么是DeepL？</h2><p>DeepL是一种基于深度学习和神经网络技术的<strong>高质量机器翻译工具</strong>，由德国公司DeepL GmbH于2017年推出。它利用先进的AI算法来提供精准、自然的翻译结果，支持多种语言之间的互译，包括汉语、英语、德语、法语、日语、西班牙语、意大利语、荷兰语及波兰语等。</p>
+<p>DeepL的主要特点在于其使用了<strong>新颖的神经网络设计</strong>，使得翻译更加准确，并且能够掌握句子的微妙含义。此外，DeepL还提供了API接口，支持多种编程语言，如Python、.NET、Node.js、PHP、Ruby和Java，使开发者可以将DeepL的翻译技术集成到自己的产品和服务中。</p>
+<p><strong>早在2008年12月，前Google科学家Gereon Frahling在德国科隆创立了Linguee GmbH，DeepL的前身，并推出了创新的在线双语词典——Linguee。</strong></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205948945.png" alt="image-20240912205948945"></p>
+<p>自 2010 年以来，Linguee 拥有英-德、英-法、英-西和英-葡等多个语言对，并提供各种语言的单词和短语翻译。同时，在 2012 年至 2017 年，DeepL 创始人 Jaroslaw Kutylowski 博士在 Linguee 担任 CTO。</p>
+<p>在尝试改进 Linguee 的同时，Jaroslaw Kutylowski 博士开始着手使用神经网络来改进他们对不同翻译的验证过程。他带领团队开始训练神经网络，并基于他们过去 10 年积累的数据集上进行翻译。最终，Linguee 在 2017 年结束。随后，他们宣布推出了 DeepL。</p>
+<p><strong>DeepL拥有三大产品线，横跨 to C 与 to B</strong></p>
+<p><strong>首先就是 DeepL 翻译器</strong>。它使用 Transformer 的深度神经网络架构，使用自我注意机制，允许它同时注意句子中的所有单词，捕获局部和全局依赖关系。目前 DeepL 已经支持 31 种语言，可以在 PC 客户端、网页端、手机客户端、浏览器插件版。</p>
+<p><strong>其次，是 DeepL Write 产品</strong>。可以改善英语和德语的书面交流，解决书面的语法问题，并提供有关措辞、语气、风格和单词选择的建议</p>
+<p><strong>最后，是 DeepL API</strong>。开发人员能够使用其基于 JSON 的 REST API，将 DeepL 机器翻译技术直接嵌入到他们的产品和平台中。公司可以使用其 API 来翻译浏览器、聊天程序、电子邮件客户端或文字处理器中的文本。它可以翻译Word、PowerPoint、PDF 文本和 HTML 文件。用户还可以通过创建词汇表来指定单词和短语的翻译方式。包括内部通信、实时翻译应用程序和增强现实翻译。</p>
+<h2 id="如何订阅支付DeepL翻译器，订阅DeepL-Pro以及申请DeepL-API"><a href="#如何订阅支付DeepL翻译器，订阅DeepL-Pro以及申请DeepL-API" class="headerlink" title="如何订阅支付DeepL翻译器，订阅DeepL Pro以及申请DeepL API"></a>如何订阅支付DeepL翻译器，订阅DeepL Pro以及申请DeepL API</h2><p>1：首先，我们准备一张虚拟信用卡，这里我推荐：<a href="https://bewildcard.com/i/JJDPH">WildCard</a>（从链接进入有一美元优惠哦，邀请码<strong>JJDPH</strong>），它是国内的一家实体公司，对接了安全监管，我已经从去年用到现在，非常的安全，可以订阅支付国外大多数的服务，比如ChatGPT，Claude，MidJourney等，以及电商购物支付。具体的教程可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">一分钟开卡，轻松订阅海外服务</a></p>
+<p>2：接着我们打开DeepL官网：<a href="https://www.deepl.com/zh/translator">https://www.deepl.com</a>，注册好账号（可以用我们自己的邮箱）登录上去之后，接着我们选择我们需要订阅支付的服务，有DeepL翻译器，DeepL Pro，DeepL API</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205542159.png" alt="image-20240912205542159"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205604937.png" alt="image-20240912205604937"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205634096.png" alt="image-20240912205634096"></p>
+<p>有的计划我们可以免费试用30天，我们点击<strong>免费使用</strong></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205752405.png" alt="image-20240912205752405"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205815258.png" alt="image-20240912205815258"></p>
+<p>这里我们需要绑定在上面步骤申请好的<a href="https://bewildcard.com/i/JJDPH">WildCard信用卡</a>，把卡片的具体信息对应的填进去就好</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205833090.png" alt="image-20240912205833090"></p>
+<h2 id="如何取消订阅DeepL？"><a href="#如何取消订阅DeepL？" class="headerlink" title="如何取消订阅DeepL？"></a>如何取消订阅DeepL？</h2><p>很简单，我们点击右上角的个人头像，然后点击<strong>账户</strong>，或者直接打开这个链接：<a href="https://www.deepl.com/zh/account">https://www.deepl.com/zh/account</a></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205855429.png" alt="image-20240912205855429"></p>
+<p>然后直接点击<strong>取消订阅</strong>即可</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205908362.png" alt="image-20240912205908362"></p>
+<h2 id="为什么要使用DeepL？DeepL有什么优势与功能？"><a href="#为什么要使用DeepL？DeepL有什么优势与功能？" class="headerlink" title="为什么要使用DeepL？DeepL有什么优势与功能？"></a>为什么要使用DeepL？DeepL有什么优势与功能？</h2><p><strong>1.轻松翻译并交流</strong></p>
+<p>少花点时间翻译，多花点时间处理手头的工作。 无论翻译内容还是翻译设备，DeepL Pro都能确保翻译的准确性、安全性，并依照你的需求灵活定制。</p>
+<p><strong>2.听起来地道的人工智能翻译</strong></p>
+<p>有了DeepL，你将无需再担心质量。与其他服务器不同的是——在神经网络和最前沿的人工智能创新的支持下，DeepL的技术甚至可以捕捉到最细微的差别，并在翻译中体现。数据表明，DeepL的译文比竞争对手要准确三倍以上。</p>
+<p><strong>3.随时随地，随时翻译</strong></p>
+<p>无论在办公桌前还是在路上，你都可以随时翻译，从整篇文档到网页、图像和电子邮件，都可以在多台设备上进行翻译。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912210008004.png" alt="image-20240912210008004"></p>
+<p><strong>4.多语言准确的即时翻译</strong></p>
+<p>通过使用DeepL Pro，可以做到：</p>
+<p><strong>即时翻译电子邮件</strong>：使用网页版翻译、桌面应用程序或浏览器扩展来翻译电子邮件。通过正式&#x2F;非正式语气功能，一键调整翻译语气使其符合商业或个人需求。</p>
+<p><strong>在聊天时进行翻译</strong>：通过DeepL Chrome直接在WhatsApp等应用程序中翻译你输入的内容，以实现高效聊天。</p>
+<p><strong>进行多语言对话</strong>：使用DeepL的移动应用程序来翻译对话。适合与朋友、同事聊天，或解决旅行问题。</p>
+<p><strong>5.保护你的所有私人信息</strong></p>
+<p>DeepL基于高级的数据安全措施，你可以安心地翻译任何敏感信息。所有DeepL Pro文本在翻译后立即被删除，使用有保障的 TLS 加密技术保护敏感信息，加密你的工作流程。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912210032070.png" alt="image-20240912210032070"></p>
+<p>DeepL还有更多的功能与优势值得我们去探索，就让我们尽情的享受它给我们带来的便利吧！</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2024/09/12/How-to-subscribe-to-and-pay-for-DeepL/">【绝对教会】什么是DeepL？如何订阅支付DeepL，订阅DeepL Pro以及申请DeepL API？</a></p>
+</blockquote>
+<blockquote>
+<p>参考文章：<br>1.<a href="https://www.deepl.com/zh/blog">DeepL博客官网</a><br>2.<a href="https://www.cnblogs.com/GKLBB/p/13733833.html">神奇的翻译网站deepl（博客园）</a><br>3.<a href="https://bukesci.com/sites/736.html">DeepL翻译（布克学术）</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Wildcard</tag>
+        <tag>DeepL</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【一文看懂】国内如何升级订阅Claude Pro？Claude怎么升级Pro？Claude升级订阅详细指南</title>
     <url>/2024/09/06/How-to-upgrade-Claude-pro/</url>
     <content><![CDATA[<blockquote>
@@ -2414,105 +2592,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【绝对教会】什么是DeepL？如何订阅支付DeepL，订阅DeepL Pro以及申请DeepL API？</title>
-    <url>/2024/09/12/How-to-subscribe-to-and-pay-for-DeepL/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="什么是DeepL？"><a href="#什么是DeepL？" class="headerlink" title="什么是DeepL？"></a>什么是DeepL？</h2><p>DeepL是一种基于深度学习和神经网络技术的<strong>高质量机器翻译工具</strong>，由德国公司DeepL GmbH于2017年推出。它利用先进的AI算法来提供精准、自然的翻译结果，支持多种语言之间的互译，包括汉语、英语、德语、法语、日语、西班牙语、意大利语、荷兰语及波兰语等。</p>
-<p>DeepL的主要特点在于其使用了<strong>新颖的神经网络设计</strong>，使得翻译更加准确，并且能够掌握句子的微妙含义。此外，DeepL还提供了API接口，支持多种编程语言，如Python、.NET、Node.js、PHP、Ruby和Java，使开发者可以将DeepL的翻译技术集成到自己的产品和服务中。</p>
-<p><strong>早在2008年12月，前Google科学家Gereon Frahling在德国科隆创立了Linguee GmbH，DeepL的前身，并推出了创新的在线双语词典——Linguee。</strong></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205948945.png" alt="image-20240912205948945"></p>
-<p>自 2010 年以来，Linguee 拥有英-德、英-法、英-西和英-葡等多个语言对，并提供各种语言的单词和短语翻译。同时，在 2012 年至 2017 年，DeepL 创始人 Jaroslaw Kutylowski 博士在 Linguee 担任 CTO。</p>
-<p>在尝试改进 Linguee 的同时，Jaroslaw Kutylowski 博士开始着手使用神经网络来改进他们对不同翻译的验证过程。他带领团队开始训练神经网络，并基于他们过去 10 年积累的数据集上进行翻译。最终，Linguee 在 2017 年结束。随后，他们宣布推出了 DeepL。</p>
-<p><strong>DeepL拥有三大产品线，横跨 to C 与 to B</strong></p>
-<p><strong>首先就是 DeepL 翻译器</strong>。它使用 Transformer 的深度神经网络架构，使用自我注意机制，允许它同时注意句子中的所有单词，捕获局部和全局依赖关系。目前 DeepL 已经支持 31 种语言，可以在 PC 客户端、网页端、手机客户端、浏览器插件版。</p>
-<p><strong>其次，是 DeepL Write 产品</strong>。可以改善英语和德语的书面交流，解决书面的语法问题，并提供有关措辞、语气、风格和单词选择的建议</p>
-<p><strong>最后，是 DeepL API</strong>。开发人员能够使用其基于 JSON 的 REST API，将 DeepL 机器翻译技术直接嵌入到他们的产品和平台中。公司可以使用其 API 来翻译浏览器、聊天程序、电子邮件客户端或文字处理器中的文本。它可以翻译Word、PowerPoint、PDF 文本和 HTML 文件。用户还可以通过创建词汇表来指定单词和短语的翻译方式。包括内部通信、实时翻译应用程序和增强现实翻译。</p>
-<h2 id="如何订阅支付DeepL翻译器，订阅DeepL-Pro以及申请DeepL-API"><a href="#如何订阅支付DeepL翻译器，订阅DeepL-Pro以及申请DeepL-API" class="headerlink" title="如何订阅支付DeepL翻译器，订阅DeepL Pro以及申请DeepL API"></a>如何订阅支付DeepL翻译器，订阅DeepL Pro以及申请DeepL API</h2><p>1：首先，我们准备一张虚拟信用卡，这里我推荐：<a href="https://bewildcard.com/i/JJDPH">WildCard</a>（从链接进入有一美元优惠哦，邀请码<strong>JJDPH</strong>），它是国内的一家实体公司，对接了安全监管，我已经从去年用到现在，非常的安全，可以订阅支付国外大多数的服务，比如ChatGPT，Claude，MidJourney等，以及电商购物支付。具体的教程可以看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">一分钟开卡，轻松订阅海外服务</a></p>
-<p>2：接着我们打开DeepL官网：<a href="https://www.deepl.com/zh/translator">https://www.deepl.com</a>，注册好账号（可以用我们自己的邮箱）登录上去之后，接着我们选择我们需要订阅支付的服务，有DeepL翻译器，DeepL Pro，DeepL API</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205542159.png" alt="image-20240912205542159"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205604937.png" alt="image-20240912205604937"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205634096.png" alt="image-20240912205634096"></p>
-<p>有的计划我们可以免费试用30天，我们点击<strong>免费使用</strong></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205752405.png" alt="image-20240912205752405"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205815258.png" alt="image-20240912205815258"></p>
-<p>这里我们需要绑定在上面步骤申请好的<a href="https://bewildcard.com/i/JJDPH">WildCard信用卡</a>，把卡片的具体信息对应的填进去就好</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205833090.png" alt="image-20240912205833090"></p>
-<h2 id="如何取消订阅DeepL？"><a href="#如何取消订阅DeepL？" class="headerlink" title="如何取消订阅DeepL？"></a>如何取消订阅DeepL？</h2><p>很简单，我们点击右上角的个人头像，然后点击<strong>账户</strong>，或者直接打开这个链接：<a href="https://www.deepl.com/zh/account">https://www.deepl.com/zh/account</a></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205855429.png" alt="image-20240912205855429"></p>
-<p>然后直接点击<strong>取消订阅</strong>即可</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912205908362.png" alt="image-20240912205908362"></p>
-<h2 id="为什么要使用DeepL？DeepL有什么优势与功能？"><a href="#为什么要使用DeepL？DeepL有什么优势与功能？" class="headerlink" title="为什么要使用DeepL？DeepL有什么优势与功能？"></a>为什么要使用DeepL？DeepL有什么优势与功能？</h2><p><strong>1.轻松翻译并交流</strong></p>
-<p>少花点时间翻译，多花点时间处理手头的工作。 无论翻译内容还是翻译设备，DeepL Pro都能确保翻译的准确性、安全性，并依照你的需求灵活定制。</p>
-<p><strong>2.听起来地道的人工智能翻译</strong></p>
-<p>有了DeepL，你将无需再担心质量。与其他服务器不同的是——在神经网络和最前沿的人工智能创新的支持下，DeepL的技术甚至可以捕捉到最细微的差别，并在翻译中体现。数据表明，DeepL的译文比竞争对手要准确三倍以上。</p>
-<p><strong>3.随时随地，随时翻译</strong></p>
-<p>无论在办公桌前还是在路上，你都可以随时翻译，从整篇文档到网页、图像和电子邮件，都可以在多台设备上进行翻译。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912210008004.png" alt="image-20240912210008004"></p>
-<p><strong>4.多语言准确的即时翻译</strong></p>
-<p>通过使用DeepL Pro，可以做到：</p>
-<p><strong>即时翻译电子邮件</strong>：使用网页版翻译、桌面应用程序或浏览器扩展来翻译电子邮件。通过正式&#x2F;非正式语气功能，一键调整翻译语气使其符合商业或个人需求。</p>
-<p><strong>在聊天时进行翻译</strong>：通过DeepL Chrome直接在WhatsApp等应用程序中翻译你输入的内容，以实现高效聊天。</p>
-<p><strong>进行多语言对话</strong>：使用DeepL的移动应用程序来翻译对话。适合与朋友、同事聊天，或解决旅行问题。</p>
-<p><strong>5.保护你的所有私人信息</strong></p>
-<p>DeepL基于高级的数据安全措施，你可以安心地翻译任何敏感信息。所有DeepL Pro文本在翻译后立即被删除，使用有保障的 TLS 加密技术保护敏感信息，加密你的工作流程。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240912210032070.png" alt="image-20240912210032070"></p>
-<p>DeepL还有更多的功能与优势值得我们去探索，就让我们尽情的享受它给我们带来的便利吧！</p>
-<blockquote>
-<p>参考文章：<a href="https://lcab-ljj.github.io/2024/09/12/How-to-subscribe-to-and-pay-for-DeepL/">【绝对教会】什么是DeepL？如何订阅支付DeepL，订阅DeepL Pro以及申请DeepL API？</a></p>
-</blockquote>
-<blockquote>
-<p>参考文章：<br>1.<a href="https://www.deepl.com/zh/blog">DeepL博客官网</a><br>2.<a href="https://www.cnblogs.com/GKLBB/p/13733833.html">神奇的翻译网站deepl（博客园）</a><br>3.<a href="https://bukesci.com/sites/736.html">DeepL翻译（布克学术）</a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Wildcard</tag>
-        <tag>DeepL</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【包教包会】如何用上AI视频工具Sora？基于最新ChatGPT升级Plus使用指南</title>
     <url>/2024/12/17/How-to-use-the-AI-video-tool-Sora/</url>
     <content><![CDATA[<blockquote>
@@ -2602,6 +2681,97 @@
 ]]></content>
       <tags>
         <tag>Sora</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎么免费使用Google Gemini？教你如何Gemini Pro绑卡升级</title>
+    <url>/2025/01/02/How-to-use-Goole-gemini/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>Google发布了最新的<strong>Gemini 2.0</strong>模型，其多模态能力和ChatGPT不相上下，甚至在某些功能上更胜一筹。 Gemini 2.0不仅可以看到、听到、说话，还新增了实验性的边界框检测，用于对象识别和定位。 </p>
+<p>此外，它还支持图像生成和可控文本到语音。但是，目前Gemini在处理中文时表现稍逊一筹， 比较靠谱的方法是把中文先翻译成英文再去提问，会大大提升回答质量。 </p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102194328596.png" alt="image-20250102194328596"></p>
+<h2 id="为什么选择Google-Gemini？"><a href="#为什么选择Google-Gemini？" class="headerlink" title="为什么选择Google Gemini？"></a>为什么选择Google Gemini？</h2><ul>
+<li><strong>多模态人工智能的先进性</strong>：Google Gemini 2.0 是多模态人工智能的一个重要进展。这个平台支持文本、语音和视觉输入，并具备实时流媒体能力，这使得用户与 AI 系统的互动方式发生了转变。</li>
+<li><strong>速度和效率的显著提升</strong>：Gemini 2.0 的运行速度是其前代 1.5 Flash 的两倍。它能够在数秒内执行 Python 脚本、生成商业洞见和详细分析，将需要数小时完成的工作压缩至短短数分钟，显著提升了商业应用的效率。</li>
+<li><strong>多功能性和应用范围</strong>：Gemini 2.0 提供了一个全面的工具包，适用于多种应用。无论是协助编程任务还是生成创意内容，它都能提高生产力并简化工作流程。</li>
+<li><strong>支持实时流媒体</strong>：通过支持实时流媒体，Gemini 2.0 能够处理连续的数据流，这对于需要实时分析和响应的应用场景尤为重要。</li>
+<li><strong>AI 驱动解决方案的领导者</strong>：尽管某些功能还处于早期访问阶段，但 Gemini 2.0 的强大性能和易用性使其成为 AI 驱动解决方案的领导者</li>
+</ul>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102194431078.png" alt="image-20250102194431078"></p>
+<h2 id="如何免费体验Gemini最新模型？"><a href="#如何免费体验Gemini最新模型？" class="headerlink" title="如何免费体验Gemini最新模型？"></a>如何免费体验Gemini最新模型？</h2><ul>
+<li>Gemini Pro：官方提供新用户免费试用一个月的Pro服务。官网地址：<a href="https://gemini.google.com/app?hl=zh">官网地址</a></li>
+<li>超值白嫖机会：如果有朋友已开通Pro，还能获得<strong>额外4个月</strong>的免费使用机会。 Gemini 2.0订阅需要<strong>绑定支付方式</strong>，但国内的信用卡无法直接充值或订阅。这时，“<a href="https://bewildcard.com/i/JJDPH">虚拟卡</a>”成 了一个简单高效的解决方案。 接下来，教你如何用虚拟卡轻松搞定Gemini Pro订阅。</li>
+</ul>
+<h2 id="白嫖教程：Gemini-Pro绑卡升级"><a href="#白嫖教程：Gemini-Pro绑卡升级" class="headerlink" title="白嫖教程：Gemini Pro绑卡升级"></a>白嫖教程：Gemini Pro绑卡升级</h2><p>以下步骤仅需 1-5分钟，手把手教你使用<a href="https://bewildcard.com/i/JJDPH">Wildcard虚拟卡</a>完成Gemini Pro绑卡升级。</p>
+<p>作者使用该平台一年多啦，平常ChatGPT Plus升级，以及最近很火的Cursor工具都能轻松在该 平台订阅。不用找其他第三方充值让其赚差价，自己申请一张虚拟卡，几乎海外平常的订阅都 可以在这个平台上订阅，自己掌握主动，<strong>用多少充值多少</strong>。 PS：如果想立即体验开卡流程，点击 <a href="https://bewildcard.com/i/JJDPH">WildCard官网访问链接</a> 邀请码：JJDPH，可享受开卡优惠。</p>
+<h3 id="申请虚拟卡"><a href="#申请虚拟卡" class="headerlink" title="申请虚拟卡"></a>申请虚拟卡</h3><p>到 <a href="https://bewildcard.com/i/JJDPH">wildcard官网</a> 申请一张虚拟卡： </p>
+<p>用+86手机号码注册账号；  </p>
+<p>在后台点击“我的卡片”，选择卡片使用期限，并扫码支付虚拟卡年费。两年只需几十块，性价比超高，输入官方邀请码 JJDPH，还能享受<strong>开卡优惠</strong>。</p>
+<p>具体教程可以看这篇 <a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></p>
+<h3 id="查看虚拟卡信息"><a href="#查看虚拟卡信息" class="headerlink" title="查看虚拟卡信息"></a>查看虚拟卡信息</h3><p>申请完成后，再次进入“我的卡片”查看虚拟信用卡的详细信息。这张卡可以解决大部分海外支付问题，比如Gemini、ChatGPT、Cursor等。 </p>
+<h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195254301.png" alt="image-20250102195254301"></h3><h3 id="充值虚拟卡"><a href="#充值虚拟卡" class="headerlink" title="充值虚拟卡"></a>充值虚拟卡</h3><p>点击“充值”按钮，用支付宝或微信完成充值。为了确保绑卡成功，建议先充值 <strong>最低5美元</strong>。后 续不用的钱可以<strong>随时提现</strong>到支付宝，非常方便。</p>
+<h3 id="绑定到Google-Gemini"><a href="#绑定到Google-Gemini" class="headerlink" title="绑定到Google Gemini"></a>绑定到Google Gemini</h3><p>登录Google Gemini官网，选择“开始试用”； </p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195421770.png" alt="image-20250102195421770"></p>
+<p>填写虚拟卡信息进行绑定，确保卡内余额足够覆盖预扣款； </p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195444870.png" alt="image-20250102195444870"></p>
+<p>在虚拟卡选择线上充值，依次点击充值和确认，即可完成绑卡升级，Google Gemini目前不 需要扣款，为了确保绑卡成功，可以先充个最低的5$，绑定卡成功后可以自行提现到支付宝。 </p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195509423.png" alt="image-20250102195509423"></p>
+<h3 id="取消自动续费"><a href="#取消自动续费" class="headerlink" title="取消自动续费"></a>取消自动续费</h3><p>订阅成功后，一定记得取消自动续费： </p>
+<ul>
+<li>进入Gemini首页，点击“设置”→“管理订阅”； </li>
+<li>在Google One界面选择“更改付款方式”，点击“管理订阅信息”； </li>
+<li>弹出窗口后点击“取消订阅”，确认取消即可避免下月扣费。</li>
+</ul>
+<p>绑定虚拟卡后还能做什么？ 学会这套绑定流程后，你还可以订阅其他海外服务，比如ChatGPT、Cursor、Claude等。虚拟卡的灵活性，让你轻松解决支付难题，真正做到“白嫖”或者支付海外软件无压力！ 现在，去体验一下Gemini 2.0和Pro带来的便利吧！无论是多模态功能、图像生成，还是可控文本到语音，都能让你的生产力飞跃提升！ 快行动起来，这波白嫖别错过！</p>
+<blockquote>
+<p>参考文章：<a href="https://lcab-ljj.github.io/2025/01/02/How-to-use-Goole-gemini/">怎么免费使用Google Gemini？教你如何Gemini Pro绑卡升级 </a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Google Gemini</tag>
       </tags>
   </entry>
   <entry>
@@ -2958,111 +3128,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【一看就会】国内如何支付Overleaf？Overleaf如何升级标准版专业版？Overleaf升级保姆级教程</title>
-    <url>/2024/08/07/Overleaf/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="0-【必看】开通步骤简述"><a href="#0-【必看】开通步骤简述" class="headerlink" title="0. 【必看】开通步骤简述"></a>0. 【必看】开通步骤简述</h2><p>升级Overleaf的步骤简要总结如下：</p>
-<p>1.使用虚拟信用卡平台: <a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard开通虚拟信用卡</strong></a>（从链接进入可以优惠15元人民币哦）。<br>2.开卡后，进入Wildcard找到卡片信息<br>3.进入Overleaf绑定卡片并支付，完成支付后就开通成功啦</p>
-<p><strong>总费用</strong>：开卡费9.9美元（一年期）+Overleaf订阅费用</p>
-<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
-<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
-<p>主要是为了拒绝xi qian。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
-<p>至于<strong>隐私问题</strong>是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人<strong>已经稳定使用半年多</strong>了，大家也可以放心哈。</p>
-<h2 id="1-Overleaf介绍"><a href="#1-Overleaf介绍" class="headerlink" title="1. Overleaf介绍"></a>1. Overleaf介绍</h2><p>Overleaf是一个在线协作的LaTeX编辑平台，旨在帮助研究人员、学生和专业人士轻松地创建、编辑和共享科技文档。</p>
-<p>用户可以通过浏览器访问，实时协作编辑LaTeX文档，无需安装任何软件或配置环境，极大地简化了团队合作和版本控制的流程，是科技写作的理想选择。</p>
-<p>它最大优势是：<strong>在线编辑、多人共享</strong></p>
-<p>overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</p>
-<p>其中，免费版只有20s的编译时长，超过20s的文档将不能编译。而标准版和专业版则有240s的编译时长。</p>
-<p>此前，可以通过ieee的认证来白嫖overleaf专业版，不过目前<strong>该方法已经失效</strong>。在24年4月2的时候，overleaf宣布已经暂停该升级渠道。</p>
-<p>此外，还有淘宝等特殊渠道购买overleaf专业版，不过<strong>风险很大</strong>（相当于把自己的论文交给别人任意访问，轻则查重率上升，重则学术不端）。</p>
-<p>今天，胖虎就来教大家如何用正规渠道升级自己的Overleaf账号。</p>
-<h2 id="2-如何用WildCard来开通Overleaf"><a href="#2-如何用WildCard来开通Overleaf" class="headerlink" title="2. 如何用WildCard来开通Overleaf"></a>2. 如何用WildCard来开通Overleaf</h2><h3 id="2-1-什么是虚拟信用卡"><a href="#2-1-什么是虚拟信用卡" class="headerlink" title="2.1 什么是虚拟信用卡"></a>2.1 什么是虚拟信用卡</h3><p>简单的说来，就是如果你需要订阅国外的服务（如chatgpt或者Overleaf）的话，就必须要有国外的信用卡。但是国内不是没有办法开通国外信用卡吗，所以就需要使用虚拟信用卡，然后用这张虚拟卡去订阅服务。</p>
-<p>这里我推荐虚拟卡平台: <a href="https://wildcard.com.cn/i/JJDPH">WildCard</a>。</p>
-<h3 id="2-2-如何开通虚拟卡"><a href="#2-2-如何开通虚拟卡" class="headerlink" title="2.2 如何开通虚拟卡"></a>2.2 如何开通虚拟卡</h3><p>开通步骤如下：</p>
-<p>首先点击链接进入：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 一分钟开卡，轻松订阅海外软件服务</strong></a></p>
-<p>进入网站首页之后，点击立即体验</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l1.jpg"></p>
-<p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l2.jpg"></p>
-<p>点击开通会员</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l3.jpg"></p>
-<p>然后输入你的手机号码接收验证码（使用邀请码JJDPH可以在开卡时优惠1美元！！！）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l4.jpg"></p>
-<p>然后填写你的个人信息</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l5.jpg"></p>
-<p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l6.jpg"></p>
-<p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。<strong>此外，如果你是从上面的链接进入，可以得到2美金优惠</strong></p>
-<p>支付之后需要几分钟的时间等待开通成功。</p>
-<p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l7.jpg"></p>
-<p>然后进入：<a href="https://www.overleaf.com/user/subscription/plans">Overleaf升级界面</a>，选择需要订阅的方案，然后点击buy now或者try for free</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/overleaf1.jpg"></p>
-<p>接着在支付页面把卡片上的信息填入到对应地址</p>
-<p>然后点击升级就可以啦</p>
-<p>记得在点击升级前往wildcard的卡片里<strong>充值足够的余额哦</strong>，要不然会扣款失败，扣款失败超过10次就会被销卡的！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/overleaf2.jpg"></p>
-<h3 id="3-总结"><a href="#3-总结" class="headerlink" title="3. 总结"></a>3. 总结</h3><p>开卡网站（从链接进入有2美元优惠）： <a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
-<p>总费用：<br>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）+ Overleaf订阅费用</p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://latexstudio.net/archives/12495">OverLeaf v2 的入门及中文编辑</a></li>
-<li><a href="https://blog.csdn.net/weixin_43953703/article/details/104448706">Overleaf 指南：30 分钟 LaTeX 入门</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>overleaf</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【绝对有效】怎么支付美区Google Play？Google Play美区账号支付教程|轻松购买美区应用和游戏</title>
     <url>/2024/09/21/Payment-Guide-for-Google-Play-US-Account/</url>
     <content><![CDATA[<blockquote>
@@ -3192,6 +3257,202 @@
       </tags>
   </entry>
   <entry>
+    <title>【推荐】Perplexity订阅问题看这一篇就够了！Perplexity免费版和订阅版区别？免费使用GPT-4！</title>
+    <url>/2024/08/06/Perplexity/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><blockquote>
+<p>Q：Perplexity是什么？Perplexity有什么用？<br>A：Perplexity是一个<strong>AI搜索引擎</strong>，可以理解为可以检索网络结果的GPT，尤其是选中“Academic”后支持特定学术论文的检索。并且文献是真是可查到的而不是GPT式胡编乱造。</p>
+</blockquote>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x1.jpg"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x2.jpg"></p>
+<blockquote>
+<p>Q：Perplexity可以免费用GPT-4是真的吗?怎么做到？<br>A：Perplexity的Pro接入的是GPT-4模型，<strong>每4个小时支持5次免费使用。</strong></p>
+</blockquote>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x3.jpg"></p>
+<blockquote>
+<p>Q：Perplexity要付费吗？Perplexity可以免费用吗？Perplexity有试用吗？<br>A：Perplexity可以免费使用，不过作为AI搜索这个噱头来讲，一般得是<strong>Pro计划</strong>的体验更好，使用Poe教程在：<a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/"><strong>【保姆级】Poe订阅问题看这一篇就够了！Poe免费版和订阅版区别？解决Poe各种问题！最方便使用各类AI！</strong></a></p>
+</blockquote>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x4.jpg"></p>
+<blockquote>
+<p>Q：怎么订阅perplexity？如何解决perplexity订阅银行卡问题？perplexity订阅方法？<br>A：由于平台是国外的，因此只能使用<strong>国外的银行卡</strong>例如Visa，但是我们可以用更方便的虚拟信用卡Wildcard进行注册，详细订阅攻略请看下文。</p>
+</blockquote>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x5.jpg"></p>
+<blockquote>
+<p>Q：订阅perplexity提示年龄验证？<br>A：请您在填写账单地址的时候，<strong>不要选择</strong>德克萨斯、蒙大拿、北卡罗来纳州、弗吉尼亚州、路易斯安那州、阿肯色州、密西西比州和犹他州，这些州全部通过了年龄验证法，也就是强制这些州验证访客的年龄。</p>
+</blockquote>
+<blockquote>
+<p>Q：订阅perplexity提示地址错误？<br>A：注意，绑卡填地址的时候，<strong>一定要从地址补全的下拉框</strong>里面选，随意选择即可，有小概率我们提供的账单地址没法匹配到，这个时候，随意从下拉框里面选择一个<strong>接近地址</strong>的即可。</p>
+</blockquote>
+<h2 id="订阅步骤"><a href="#订阅步骤" class="headerlink" title="订阅步骤"></a>订阅步骤</h2><h3 id="步骤1：注册虚拟信用卡Wildcard"><a href="#步骤1：注册虚拟信用卡Wildcard" class="headerlink" title="步骤1：注册虚拟信用卡Wildcard"></a>步骤1：注册虚拟信用卡Wildcard</h3><p>可以查看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</strong></a></p>
+<h3 id="步骤2：注册登录perplexity"><a href="#步骤2：注册登录perplexity" class="headerlink" title="步骤2：注册登录perplexity"></a>步骤2：注册登录perplexity</h3><p>直接注册即可，如果有谷歌账号也可以直接使用。如果无法访问需要借助魔法工具。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x6.jpg"></p>
+<h3 id="步骤3：点击左侧的尝试Pro"><a href="#步骤3：点击左侧的尝试Pro" class="headerlink" title="步骤3：点击左侧的尝试Pro"></a>步骤3：点击左侧的尝试Pro</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x7.jpg"></p>
+<h3 id="步骤4：选择订阅计划"><a href="#步骤4：选择订阅计划" class="headerlink" title="步骤4：选择订阅计划"></a>步骤4：选择订阅计划</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x8.jpg"></p>
+<h3 id="步骤5：将Wildcard卡片信息填写至各栏内"><a href="#步骤5：将Wildcard卡片信息填写至各栏内" class="headerlink" title="步骤5：将Wildcard卡片信息填写至各栏内"></a>步骤5：将Wildcard卡片信息填写至各栏内</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x9.jpg"></p>
+<h3 id="步骤6：订阅成功"><a href="#步骤6：订阅成功" class="headerlink" title="步骤6：订阅成功"></a>步骤6：订阅成功</h3><blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_27773038">拆解Perplexity：搜索领域的超级黑马，“谷歌杀手”是如何炼成的？</a></li>
+<li><a href="https://www.woshipm.com/evaluating/5990752.html">Perplexity：用答案引擎挑战Google | 万字长文</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_26588279">黄仁勋“几乎每天用”，Perplexity会是“搜索的未来”吗？</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Perplexity</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【一看就会】国内如何支付Overleaf？Overleaf如何升级标准版专业版？Overleaf升级保姆级教程</title>
+    <url>/2024/08/07/Overleaf/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="0-【必看】开通步骤简述"><a href="#0-【必看】开通步骤简述" class="headerlink" title="0. 【必看】开通步骤简述"></a>0. 【必看】开通步骤简述</h2><p>升级Overleaf的步骤简要总结如下：</p>
+<p>1.使用虚拟信用卡平台: <a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard开通虚拟信用卡</strong></a>（从链接进入可以优惠15元人民币哦）。<br>2.开卡后，进入Wildcard找到卡片信息<br>3.进入Overleaf绑定卡片并支付，完成支付后就开通成功啦</p>
+<p><strong>总费用</strong>：开卡费9.9美元（一年期）+Overleaf订阅费用</p>
+<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
+<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
+<p>主要是为了拒绝xi qian。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
+<p>至于<strong>隐私问题</strong>是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人<strong>已经稳定使用半年多</strong>了，大家也可以放心哈。</p>
+<h2 id="1-Overleaf介绍"><a href="#1-Overleaf介绍" class="headerlink" title="1. Overleaf介绍"></a>1. Overleaf介绍</h2><p>Overleaf是一个在线协作的LaTeX编辑平台，旨在帮助研究人员、学生和专业人士轻松地创建、编辑和共享科技文档。</p>
+<p>用户可以通过浏览器访问，实时协作编辑LaTeX文档，无需安装任何软件或配置环境，极大地简化了团队合作和版本控制的流程，是科技写作的理想选择。</p>
+<p>它最大优势是：<strong>在线编辑、多人共享</strong></p>
+<p>overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</p>
+<p>其中，免费版只有20s的编译时长，超过20s的文档将不能编译。而标准版和专业版则有240s的编译时长。</p>
+<p>此前，可以通过ieee的认证来白嫖overleaf专业版，不过目前<strong>该方法已经失效</strong>。在24年4月2的时候，overleaf宣布已经暂停该升级渠道。</p>
+<p>此外，还有淘宝等特殊渠道购买overleaf专业版，不过<strong>风险很大</strong>（相当于把自己的论文交给别人任意访问，轻则查重率上升，重则学术不端）。</p>
+<p>今天，胖虎就来教大家如何用正规渠道升级自己的Overleaf账号。</p>
+<h2 id="2-如何用WildCard来开通Overleaf"><a href="#2-如何用WildCard来开通Overleaf" class="headerlink" title="2. 如何用WildCard来开通Overleaf"></a>2. 如何用WildCard来开通Overleaf</h2><h3 id="2-1-什么是虚拟信用卡"><a href="#2-1-什么是虚拟信用卡" class="headerlink" title="2.1 什么是虚拟信用卡"></a>2.1 什么是虚拟信用卡</h3><p>简单的说来，就是如果你需要订阅国外的服务（如chatgpt或者Overleaf）的话，就必须要有国外的信用卡。但是国内不是没有办法开通国外信用卡吗，所以就需要使用虚拟信用卡，然后用这张虚拟卡去订阅服务。</p>
+<p>这里我推荐虚拟卡平台: <a href="https://wildcard.com.cn/i/JJDPH">WildCard</a>。</p>
+<h3 id="2-2-如何开通虚拟卡"><a href="#2-2-如何开通虚拟卡" class="headerlink" title="2.2 如何开通虚拟卡"></a>2.2 如何开通虚拟卡</h3><p>开通步骤如下：</p>
+<p>首先点击链接进入：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 一分钟开卡，轻松订阅海外软件服务</strong></a></p>
+<p>进入网站首页之后，点击立即体验</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l1.jpg"></p>
+<p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l2.jpg"></p>
+<p>点击开通会员</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l3.jpg"></p>
+<p>然后输入你的手机号码接收验证码（使用邀请码JJDPH可以在开卡时优惠1美元！！！）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l4.jpg"></p>
+<p>然后填写你的个人信息</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l5.jpg"></p>
+<p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l6.jpg"></p>
+<p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。<strong>此外，如果你是从上面的链接进入，可以得到2美金优惠</strong></p>
+<p>支付之后需要几分钟的时间等待开通成功。</p>
+<p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/l7.jpg"></p>
+<p>然后进入：<a href="https://www.overleaf.com/user/subscription/plans">Overleaf升级界面</a>，选择需要订阅的方案，然后点击buy now或者try for free</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/overleaf1.jpg"></p>
+<p>接着在支付页面把卡片上的信息填入到对应地址</p>
+<p>然后点击升级就可以啦</p>
+<p>记得在点击升级前往wildcard的卡片里<strong>充值足够的余额哦</strong>，要不然会扣款失败，扣款失败超过10次就会被销卡的！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/overleaf2.jpg"></p>
+<h3 id="3-总结"><a href="#3-总结" class="headerlink" title="3. 总结"></a>3. 总结</h3><p>开卡网站（从链接进入有2美元优惠）： <a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+<p>总费用：<br>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）+ Overleaf订阅费用</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://latexstudio.net/archives/12495">OverLeaf v2 的入门及中文编辑</a></li>
+<li><a href="https://blog.csdn.net/weixin_43953703/article/details/104448706">Overleaf 指南：30 分钟 LaTeX 入门</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>overleaf</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【保姆级】Poe订阅问题看这一篇就够了！Poe免费版和订阅版区别？解决Poe各种问题！最方便使用各类AI！</title>
     <url>/2024/08/05/Poe%E8%AE%A2%E9%98%85/</url>
     <content><![CDATA[<blockquote>
@@ -3295,97 +3556,6 @@
 ]]></content>
       <tags>
         <tag>Poe</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【推荐】Perplexity订阅问题看这一篇就够了！Perplexity免费版和订阅版区别？免费使用GPT-4！</title>
-    <url>/2024/08/06/Perplexity/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><blockquote>
-<p>Q：Perplexity是什么？Perplexity有什么用？<br>A：Perplexity是一个<strong>AI搜索引擎</strong>，可以理解为可以检索网络结果的GPT，尤其是选中“Academic”后支持特定学术论文的检索。并且文献是真是可查到的而不是GPT式胡编乱造。</p>
-</blockquote>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x1.jpg"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x2.jpg"></p>
-<blockquote>
-<p>Q：Perplexity可以免费用GPT-4是真的吗?怎么做到？<br>A：Perplexity的Pro接入的是GPT-4模型，<strong>每4个小时支持5次免费使用。</strong></p>
-</blockquote>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x3.jpg"></p>
-<blockquote>
-<p>Q：Perplexity要付费吗？Perplexity可以免费用吗？Perplexity有试用吗？<br>A：Perplexity可以免费使用，不过作为AI搜索这个噱头来讲，一般得是<strong>Pro计划</strong>的体验更好，使用Poe教程在：<a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/"><strong>【保姆级】Poe订阅问题看这一篇就够了！Poe免费版和订阅版区别？解决Poe各种问题！最方便使用各类AI！</strong></a></p>
-</blockquote>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x4.jpg"></p>
-<blockquote>
-<p>Q：怎么订阅perplexity？如何解决perplexity订阅银行卡问题？perplexity订阅方法？<br>A：由于平台是国外的，因此只能使用<strong>国外的银行卡</strong>例如Visa，但是我们可以用更方便的虚拟信用卡Wildcard进行注册，详细订阅攻略请看下文。</p>
-</blockquote>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x5.jpg"></p>
-<blockquote>
-<p>Q：订阅perplexity提示年龄验证？<br>A：请您在填写账单地址的时候，<strong>不要选择</strong>德克萨斯、蒙大拿、北卡罗来纳州、弗吉尼亚州、路易斯安那州、阿肯色州、密西西比州和犹他州，这些州全部通过了年龄验证法，也就是强制这些州验证访客的年龄。</p>
-</blockquote>
-<blockquote>
-<p>Q：订阅perplexity提示地址错误？<br>A：注意，绑卡填地址的时候，<strong>一定要从地址补全的下拉框</strong>里面选，随意选择即可，有小概率我们提供的账单地址没法匹配到，这个时候，随意从下拉框里面选择一个<strong>接近地址</strong>的即可。</p>
-</blockquote>
-<h2 id="订阅步骤"><a href="#订阅步骤" class="headerlink" title="订阅步骤"></a>订阅步骤</h2><h3 id="步骤1：注册虚拟信用卡Wildcard"><a href="#步骤1：注册虚拟信用卡Wildcard" class="headerlink" title="步骤1：注册虚拟信用卡Wildcard"></a>步骤1：注册虚拟信用卡Wildcard</h3><p>可以查看这篇文章：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/"><strong>【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</strong></a></p>
-<h3 id="步骤2：注册登录perplexity"><a href="#步骤2：注册登录perplexity" class="headerlink" title="步骤2：注册登录perplexity"></a>步骤2：注册登录perplexity</h3><p>直接注册即可，如果有谷歌账号也可以直接使用。如果无法访问需要借助魔法工具。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x6.jpg"></p>
-<h3 id="步骤3：点击左侧的尝试Pro"><a href="#步骤3：点击左侧的尝试Pro" class="headerlink" title="步骤3：点击左侧的尝试Pro"></a>步骤3：点击左侧的尝试Pro</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x7.jpg"></p>
-<h3 id="步骤4：选择订阅计划"><a href="#步骤4：选择订阅计划" class="headerlink" title="步骤4：选择订阅计划"></a>步骤4：选择订阅计划</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x8.jpg"></p>
-<h3 id="步骤5：将Wildcard卡片信息填写至各栏内"><a href="#步骤5：将Wildcard卡片信息填写至各栏内" class="headerlink" title="步骤5：将Wildcard卡片信息填写至各栏内"></a>步骤5：将Wildcard卡片信息填写至各栏内</h3><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/x9.jpg"></p>
-<h3 id="步骤6：订阅成功"><a href="#步骤6：订阅成功" class="headerlink" title="步骤6：订阅成功"></a>步骤6：订阅成功</h3><blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://www.thepaper.cn/newsDetail_forward_27773038">拆解Perplexity：搜索领域的超级黑马，“谷歌杀手”是如何炼成的？</a></li>
-<li><a href="https://www.woshipm.com/evaluating/5990752.html">Perplexity：用答案引擎挑战Google | 万字长文</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://www.thepaper.cn/newsDetail_forward_26588279">黄仁勋“几乎每天用”，Perplexity会是“搜索的未来”吗？</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Perplexity</tag>
       </tags>
   </entry>
   <entry>
@@ -3858,6 +4028,85 @@
       </tags>
   </entry>
   <entry>
+    <title>【一招解决】为什么谷歌邮箱登录提示：出了点问题 抱歉，出了点问题。请重试？</title>
+    <url>/2024/09/05/There-s-a-problem-with-logging-into-Gmail/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>最近，我在edge浏览器上登录我的Gmail时一直遇到这个问题：<strong>出了点问题 抱歉，出了点问题。请重试。</strong></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905233956066.png" alt="image-20240905233956066"></p>
+<p>我试了很多方法都不行，包括修改浏览器语言、修改代理节点、修改主机ip等等等等，都快给我整抑郁了我的天。</p>
+<p>甚至于我借助辅助邮箱和电话号码甚至直接显示：没有这个账号，给我吓死了（还以为我号没了）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234135377.png" alt="image-20240905234135377"></p>
+<p>最后我在不懈努力各方渠道摸索下，终于找到了解决办法，登上了我的Gmail，那就是<strong>浏览器重置设置</strong></p>
+<p>步骤如下：</p>
+<p>1.找到浏览器右上角的三个点</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234425513.png" alt="image-20240905234425513"></p>
+<p>2.找到设置</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234523916.png" alt="image-20240905234523916"></p>
+<p>3.找到这里的 “ <strong>重置设置</strong> ”</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234633839.png" alt="image-20240905234633839"></p>
+<p>4.选择将其重置（PS：放心，<strong>不会删除浏览器数据的</strong>，很安全）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234747778.png" alt="image-20240905234747778"></p>
+<p>最后，你就可以成功登录你的谷歌邮箱啦~</p>
+<p>你觉得我的文章有帮助就点赞转发吧~</p>
+<blockquote>
+<p>参考文章： </p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Gmail</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【推荐】Suno用法和订阅一文详解！Suno是什么？Suno怎么用？Suno订阅有什么意义？</title>
     <url>/2024/08/05/Suno%E8%AE%A2%E9%98%85/</url>
     <content><![CDATA[<blockquote>
@@ -3970,8 +4219,8 @@
       </tags>
   </entry>
   <entry>
-    <title>【一招解决】为什么谷歌邮箱登录提示：出了点问题 抱歉，出了点问题。请重试？</title>
-    <url>/2024/09/05/There-s-a-problem-with-logging-into-Gmail/</url>
+    <title>【建议收藏】Fomepay跑路不用愁，Wildcard带你轻松应对海外支付</title>
+    <url>/2024/08/22/Wildcard-is-better-than-Fomepay/</url>
     <content><![CDATA[<blockquote>
 <p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
 </blockquote>
@@ -4013,39 +4262,30 @@
 <td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
 </tr>
 </tbody></table>
-<p>最近，我在edge浏览器上登录我的Gmail时一直遇到这个问题：<strong>出了点问题 抱歉，出了点问题。请重试。</strong></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905233956066.png" alt="image-20240905233956066"></p>
-<p>我试了很多方法都不行，包括修改浏览器语言、修改代理节点、修改主机ip等等等等，都快给我整抑郁了我的天。</p>
-<p>甚至于我借助辅助邮箱和电话号码甚至直接显示：没有这个账号，给我吓死了（还以为我号没了）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234135377.png" alt="image-20240905234135377"></p>
-<p>最后我在不懈努力各方渠道摸索下，终于找到了解决办法，登上了我的Gmail，那就是<strong>浏览器重置设置</strong></p>
-<p>步骤如下：</p>
-<p>1.找到浏览器右上角的三个点</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234425513.png" alt="image-20240905234425513"></p>
-<p>2.找到设置</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234523916.png" alt="image-20240905234523916"></p>
-<p>3.找到这里的 “ <strong>重置设置</strong> ”</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234633839.png" alt="image-20240905234633839"></p>
-<p>4.选择将其重置（PS：放心，<strong>不会删除浏览器数据的</strong>，很安全）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240905234747778.png" alt="image-20240905234747778"></p>
-<p>最后，你就可以成功登录你的谷歌邮箱啦~</p>
-<p>你觉得我的文章有帮助就点赞转发吧~</p>
+<img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a42a74c66ef6e8b986944183861a6bf.jpg" style="zoom: 50%;" />
+
+<p>Fomepay虚拟信用卡公司一夜之间消失无踪，大量用户资金不翼而飞！</p>
+<p>首先，讲一下我自己的经历，想使用fomepay开卡订阅gpt，充值两百多后，想提现<strong>客服直接跑路！充多少吞多少！</strong>骗子公司！大家不要再用fomepay了！不禁想到WildCard，界面简单友善，我周围朋友用了大半年没出过事了，就该听我朋友的建议用wildcard！下面我就简单介绍一下wildcard供大家参考吧。</p>
+<img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1542a0012d81316c2f2469081935b05.jpg" style="zoom: 33%;" />
+
+<h2 id="一、Fomepay跑路，用户资金面临巨大风险"><a href="#一、Fomepay跑路，用户资金面临巨大风险" class="headerlink" title="一、Fomepay跑路，用户资金面临巨大风险"></a>一、Fomepay跑路，用户资金面临巨大风险</h2><p>近日，Fomepay虚拟信用卡公司突然宣布停止运营，无数用户的资金被困其中。据报道，Fomepay在跑路前存在诸多问题，如限制用户提现、恶意扣费等。此次事件不仅让用户损失惨重，也对整个虚拟信用卡行业造成了严重的信任危机，很多朋友在我的博客下面吐槽Fomepay，（无辜躺枪）</p>
+<h2 id="二、WildCard：安全、可靠的虚拟信用卡服务"><a href="#二、WildCard：安全、可靠的虚拟信用卡服务" class="headerlink" title="二、WildCard：安全、可靠的虚拟信用卡服务"></a>二、WildCard：安全、可靠的虚拟信用卡服务</h2><p>在Fomepay跑路事件发生后，许多用户开始寻找新的虚拟信用卡服务。WildCard，作为一家备受好评的虚拟信用卡提供商，成为了广大用户的首选。WildCard拥有以下优势：</p>
+<p>1.安全性高：WildCard采用先进的技术手段，确保用户信息的安全。同时，WildCard严格遵守相关法律法规，保障用户的合法权益。UI界面友好，还在不断开发新的功能，包括<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">一键注册GPT</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">注册Claude3</a>、<a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">注册onlyfans</a>。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/adncainviwun1.jpg"></p>
+<p>2.服务优质：WildCard提供多种类型的虚拟信用卡，满足用户在不同场景的需求。此外，WildCard还提供一对一的客服服务，解答用户在使用过程中遇到的问题，<strong>这个客服从来没有跑路，我朋友从去年用到现在！</strong></p>
+<p>3.信誉良好：WildCard在业内拥有良好的口碑，得到了众多用户的一致好评。选择WildCard，就是选择一个值得信赖的虚拟信用卡服务。</p>
+<p>Fomepay跑路事件给用户带来了极大的损失，也提醒了我们在选择虚拟信用卡服务时需谨慎！用多少充多少！WildCard作为一家安全、可靠的虚拟信用卡提供商，才值得广大用户信赖。</p>
+<p>你有被fomepay骗过吗，欢迎评论区友善讨论</p>
 <blockquote>
-<p>参考文章： </p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
+<p>想开通wildcard看我<strong>教程</strong>：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">【重要】wildcard使用教程？如何用wildcard订阅国外服务？</a></p>
 </blockquote>
 <hr>
 <h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
 <p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
 ]]></content>
       <tags>
-        <tag>Gmail</tag>
+        <tag>Wildcard</tag>
+        <tag>Fomepay</tag>
       </tags>
   </entry>
   <entry>
@@ -4156,177 +4396,6 @@
 ]]></content>
       <tags>
         <tag>Wildcard</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【建议收藏】Fomepay跑路不用愁，Wildcard带你轻松应对海外支付</title>
-    <url>/2024/08/22/Wildcard-is-better-than-Fomepay/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a42a74c66ef6e8b986944183861a6bf.jpg" style="zoom: 50%;" />
-
-<p>Fomepay虚拟信用卡公司一夜之间消失无踪，大量用户资金不翼而飞！</p>
-<p>首先，讲一下我自己的经历，想使用fomepay开卡订阅gpt，充值两百多后，想提现<strong>客服直接跑路！充多少吞多少！</strong>骗子公司！大家不要再用fomepay了！不禁想到WildCard，界面简单友善，我周围朋友用了大半年没出过事了，就该听我朋友的建议用wildcard！下面我就简单介绍一下wildcard供大家参考吧。</p>
-<img src="https://jjdph.oss-cn-beijing.aliyuncs.com/1542a0012d81316c2f2469081935b05.jpg" style="zoom: 33%;" />
-
-<h2 id="一、Fomepay跑路，用户资金面临巨大风险"><a href="#一、Fomepay跑路，用户资金面临巨大风险" class="headerlink" title="一、Fomepay跑路，用户资金面临巨大风险"></a>一、Fomepay跑路，用户资金面临巨大风险</h2><p>近日，Fomepay虚拟信用卡公司突然宣布停止运营，无数用户的资金被困其中。据报道，Fomepay在跑路前存在诸多问题，如限制用户提现、恶意扣费等。此次事件不仅让用户损失惨重，也对整个虚拟信用卡行业造成了严重的信任危机，很多朋友在我的博客下面吐槽Fomepay，（无辜躺枪）</p>
-<h2 id="二、WildCard：安全、可靠的虚拟信用卡服务"><a href="#二、WildCard：安全、可靠的虚拟信用卡服务" class="headerlink" title="二、WildCard：安全、可靠的虚拟信用卡服务"></a>二、WildCard：安全、可靠的虚拟信用卡服务</h2><p>在Fomepay跑路事件发生后，许多用户开始寻找新的虚拟信用卡服务。WildCard，作为一家备受好评的虚拟信用卡提供商，成为了广大用户的首选。WildCard拥有以下优势：</p>
-<p>1.安全性高：WildCard采用先进的技术手段，确保用户信息的安全。同时，WildCard严格遵守相关法律法规，保障用户的合法权益。UI界面友好，还在不断开发新的功能，包括<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">一键注册GPT</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">注册Claude3</a>、<a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">注册onlyfans</a>。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/adncainviwun1.jpg"></p>
-<p>2.服务优质：WildCard提供多种类型的虚拟信用卡，满足用户在不同场景的需求。此外，WildCard还提供一对一的客服服务，解答用户在使用过程中遇到的问题，<strong>这个客服从来没有跑路，我朋友从去年用到现在！</strong></p>
-<p>3.信誉良好：WildCard在业内拥有良好的口碑，得到了众多用户的一致好评。选择WildCard，就是选择一个值得信赖的虚拟信用卡服务。</p>
-<p>Fomepay跑路事件给用户带来了极大的损失，也提醒了我们在选择虚拟信用卡服务时需谨慎！用多少充多少！WildCard作为一家安全、可靠的虚拟信用卡提供商，才值得广大用户信赖。</p>
-<p>你有被fomepay骗过吗，欢迎评论区友善讨论</p>
-<blockquote>
-<p>想开通wildcard看我<strong>教程</strong>：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">【重要】wildcard使用教程？如何用wildcard订阅国外服务？</a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Wildcard</tag>
-        <tag>Fomepay</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【小白】国内如何用gpt4？如何升级gpt4？用wildcard一键升级chatgpt4.0保姆级教程</title>
-    <url>/2024/08/16/bewildcard-upgrade-chatgpt4/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="0-【必看】开通步骤简述"><a href="#0-【必看】开通步骤简述" class="headerlink" title="0. 【必看】开通步骤简述"></a>0. 【必看】开通步骤简述</h2><p>开通ChatGPT4.0的步骤简要总结如下：</p>
-<p>1.使用 <a href="https://wildcard.com.cn/i/JJDPH">虚拟信用卡平台WildCard开通虚拟信用卡</a>（从链接进入可以优惠15元人民币哦）。<br>2.开卡后，进入WIldcard首页升级页面，点击“一键升级ChatGPT”进行开通<br>3.完成支付后就开通成功啦</p>
-<p>总费用：开卡费9.9美元+GPT订阅费用（20美元），共计人民币约220.11元</p>
-<p>全程使用支付宝支付，安全快捷。</p>
-<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
-<p>主要是为了<strong>拒绝xi qian</strong>。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
-<p>至于隐私问题是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人已经<strong>稳定使用半年多了</strong>，大家也可以放心哈。</p>
-<h2 id="1-什么是虚拟信用卡"><a href="#1-什么是虚拟信用卡" class="headerlink" title="1. 什么是虚拟信用卡"></a>1. 什么是虚拟信用卡</h2><p>WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支持通过云闪付充值，不收取消费和提现手续费，特设美国网络环境和英国手机号服务，以及直接客服支持，适合全球业务需求。</p>
-<p>简单的说来，就是如果你订阅国外的服务（如chatgpt或者onlyfans）的话，需要用到国外的信用卡。而wildcard就可以给你提供一个国外的虚拟信用卡，让你可以去<strong>订阅相关服务。</strong></p>
-<h2 id="2-如何开通虚拟卡"><a href="#2-如何开通虚拟卡" class="headerlink" title="2. 如何开通虚拟卡"></a>2. 如何开通虚拟卡</h2><p>开通步骤如下：</p>
-<p>首先点击链接进入：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 一分钟开卡，轻松订阅海外软件服务</strong></a></p>
-<p>进入网站首页之后，点击立即体验</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w1.jpg"></p>
-<p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w2.jpg"></p>
-<p>点击开通会员</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w3.jpg"></p>
-<p>然后输入你的手机号码接收验证码（使用邀请码JJDPH可以在开卡时优惠2美元！！！）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w4.jpg"></p>
-<p>然后填写你的个人信息</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w5.jpg"></p>
-<p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w6.jpg"></p>
-<p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。<strong>此外，如果你是从上面的链接进入，可以得到2美金优惠</strong></p>
-<p>支付之后需要几分钟的时间等待开通成功。</p>
-<p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w7.jpg"></p>
-<p>这里<strong>千万要注意</strong>，最好不要使用outlook.com、hotmail、live.cn邮箱注册的gpt账号，否则可能有封号的风险，建议使用gmail邮箱注册的gpt账号。</p>
-<p>免国外手机号注册gpt可以参考这篇文章：<a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程，无需手机验证码</a></p>
-<p>按照图中提示，将GPT升级链接复制到输入框里，再点击“一键升级”就可以开通GPT4啦。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/upgrade-chatgpt4.png"></p>
-<p>上面全部流程走完之后，就可以畅快使用GPT4了！</p>
-<h2 id="3-总结"><a href="#3-总结" class="headerlink" title="3. 总结"></a>3. 总结</h2><p>开卡网站（从链接进入有优惠）： <a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
-<p>总费用：</p>
-<ul>
-<li>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）</li>
-<li>GPT订阅费（20$+0.7$手续费）</li>
-<li>总计30.69$，折合人民币约220.11元（参考汇率7.17）</li>
-</ul>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -4517,6 +4586,107 @@
 ]]></content>
       <tags>
         <tag>chatGPT team</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【小白】国内如何用gpt4？如何升级gpt4？用wildcard一键升级chatgpt4.0保姆级教程</title>
+    <url>/2024/08/16/bewildcard-upgrade-chatgpt4/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="0-【必看】开通步骤简述"><a href="#0-【必看】开通步骤简述" class="headerlink" title="0. 【必看】开通步骤简述"></a>0. 【必看】开通步骤简述</h2><p>开通ChatGPT4.0的步骤简要总结如下：</p>
+<p>1.使用 <a href="https://wildcard.com.cn/i/JJDPH">虚拟信用卡平台WildCard开通虚拟信用卡</a>（从链接进入可以优惠15元人民币哦）。<br>2.开卡后，进入WIldcard首页升级页面，点击“一键升级ChatGPT”进行开通<br>3.完成支付后就开通成功啦</p>
+<p>总费用：开卡费9.9美元+GPT订阅费用（20美元），共计人民币约220.11元</p>
+<p>全程使用支付宝支付，安全快捷。</p>
+<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
+<p>主要是为了<strong>拒绝xi qian</strong>。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
+<p>至于隐私问题是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人已经<strong>稳定使用半年多了</strong>，大家也可以放心哈。</p>
+<h2 id="1-什么是虚拟信用卡"><a href="#1-什么是虚拟信用卡" class="headerlink" title="1. 什么是虚拟信用卡"></a>1. 什么是虚拟信用卡</h2><p>WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支持通过云闪付充值，不收取消费和提现手续费，特设美国网络环境和英国手机号服务，以及直接客服支持，适合全球业务需求。</p>
+<p>简单的说来，就是如果你订阅国外的服务（如chatgpt或者onlyfans）的话，需要用到国外的信用卡。而wildcard就可以给你提供一个国外的虚拟信用卡，让你可以去<strong>订阅相关服务。</strong></p>
+<h2 id="2-如何开通虚拟卡"><a href="#2-如何开通虚拟卡" class="headerlink" title="2. 如何开通虚拟卡"></a>2. 如何开通虚拟卡</h2><p>开通步骤如下：</p>
+<p>首先点击链接进入：<a href="https://wildcard.com.cn/i/JJDPH"><strong>WildCard 一分钟开卡，轻松订阅海外软件服务</strong></a></p>
+<p>进入网站首页之后，点击立即体验</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w1.jpg"></p>
+<p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w2.jpg"></p>
+<p>点击开通会员</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w3.jpg"></p>
+<p>然后输入你的手机号码接收验证码（使用邀请码JJDPH可以在开卡时优惠2美元！！！）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w4.jpg"></p>
+<p>然后填写你的个人信息</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w5.jpg"></p>
+<p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w6.jpg"></p>
+<p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。<strong>此外，如果你是从上面的链接进入，可以得到2美金优惠</strong></p>
+<p>支付之后需要几分钟的时间等待开通成功。</p>
+<p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/w7.jpg"></p>
+<p>这里<strong>千万要注意</strong>，最好不要使用outlook.com、hotmail、live.cn邮箱注册的gpt账号，否则可能有封号的风险，建议使用gmail邮箱注册的gpt账号。</p>
+<p>免国外手机号注册gpt可以参考这篇文章：<a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程，无需手机验证码</a></p>
+<p>按照图中提示，将GPT升级链接复制到输入框里，再点击“一键升级”就可以开通GPT4啦。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/upgrade-chatgpt4.png"></p>
+<p>上面全部流程走完之后，就可以畅快使用GPT4了！</p>
+<h2 id="3-总结"><a href="#3-总结" class="headerlink" title="3. 总结"></a>3. 总结</h2><p>开卡网站（从链接进入有优惠）： <a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+<p>总费用：</p>
+<ul>
+<li>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）</li>
+<li>GPT订阅费（20$+0.7$手续费）</li>
+<li>总计30.69$，折合人民币约220.11元（参考汇率7.17）</li>
+</ul>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -4734,6 +4904,79 @@
       </tags>
   </entry>
   <entry>
+    <title>ChatGPT PLUS 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store</title>
+    <url>/2024/08/31/chatgpt-free/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>今天给大家分享一个不用开虚拟卡，不用冲VIP，不用🪜，也没有封号风险就能直接使用ChatGpt plus的方法，绝对靠谱，我已经把GPT-4续费取消啦，直接使用ChatGPT 随心用。</p>
+<h2 id="登录网站注册账号"><a href="#登录网站注册账号" class="headerlink" title="登录网站注册账号"></a>登录网站注册账号</h2><p>点击：<a href="https://wildcard.com.cn/i/JJDPH">WildCard平台ChatGPT 随心用 (opens new window)</a>选择右上角的【注册】按钮，或者点击首页中间的【立即体验】按钮。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/chatfree1.jpg" alt="img"></p>
+<h2 id="填写手机号码，和验证码，一键注册！"><a href="#填写手机号码，和验证码，一键注册！" class="headerlink" title="填写手机号码，和验证码，一键注册！"></a>填写手机号码，和验证码，一键注册！</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free2.png" alt="img"></p>
+<h2 id="点击ChatGPT-随心用菜单，点击去使用"><a href="#点击ChatGPT-随心用菜单，点击去使用" class="headerlink" title="点击ChatGPT 随心用菜单，点击去使用"></a>点击ChatGPT 随心用菜单，点击去使用</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/chatfree3.png" alt="img"></p>
+<h2 id="输入邀请码立减-1-美金"><a href="#输入邀请码立减-1-美金" class="headerlink" title="输入邀请码立减 1 美金"></a>输入邀请码立减 1 美金</h2><p>随心用$10.99 &#x2F;每月，输入邀请码：<strong>JJDPH</strong> 立减 1 美金，平台提供免费使用一次的机会，可以先体验下。 <img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free4.png" alt="img"></p>
+<h2 id="填写邀请码"><a href="#填写邀请码" class="headerlink" title="填写邀请码"></a>填写邀请码</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free5.png" alt="img"></p>
+<h2 id="选择支付宝支付"><a href="#选择支付宝支付" class="headerlink" title="选择支付宝支付"></a>选择支付宝支付</h2><h2 id="支付成功，愉快的使用GPT4"><a href="#支付成功，愉快的使用GPT4" class="headerlink" title="支付成功，愉快的使用GPT4"></a>支付成功，愉快的使用GPT4</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free6.png" alt="img"></p>
+<p>这太划算啦，GPT官方升级需要$20&#x2F;每月，还需要🪜，需要注册ChatGPT账号，还有封号风险。</p>
+<p>WildCard平台一个专门提供海外信用卡服务的，现在提供ChatGPT 随心用，我简直吹到爆！！！</p>
+<p>就是这么简单，从注册到用上GPT4.0，真的只需要不到一分钟，还无网络要求,无封号风险,独立对话记录,支持GPTs&#x2F;Store，还不赶快来试试！！！！我已经迫不及待啦…</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Wildcard</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ChatGPT4付费失败，提示我们未能验证您的支付方式。请选择另一支付方式并重试</title>
     <url>/2024/08/15/chatgpt-subscribe-failed/</url>
     <content><![CDATA[<blockquote>
@@ -4821,79 +5064,6 @@
 ]]></content>
       <tags>
         <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ChatGPT PLUS 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store</title>
-    <url>/2024/08/31/chatgpt-free/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<p>今天给大家分享一个不用开虚拟卡，不用冲VIP，不用🪜，也没有封号风险就能直接使用ChatGpt plus的方法，绝对靠谱，我已经把GPT-4续费取消啦，直接使用ChatGPT 随心用。</p>
-<h2 id="登录网站注册账号"><a href="#登录网站注册账号" class="headerlink" title="登录网站注册账号"></a>登录网站注册账号</h2><p>点击：<a href="https://wildcard.com.cn/i/JJDPH">WildCard平台ChatGPT 随心用 (opens new window)</a>选择右上角的【注册】按钮，或者点击首页中间的【立即体验】按钮。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/chatfree1.jpg" alt="img"></p>
-<h2 id="填写手机号码，和验证码，一键注册！"><a href="#填写手机号码，和验证码，一键注册！" class="headerlink" title="填写手机号码，和验证码，一键注册！"></a>填写手机号码，和验证码，一键注册！</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free2.png" alt="img"></p>
-<h2 id="点击ChatGPT-随心用菜单，点击去使用"><a href="#点击ChatGPT-随心用菜单，点击去使用" class="headerlink" title="点击ChatGPT 随心用菜单，点击去使用"></a>点击ChatGPT 随心用菜单，点击去使用</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/chatfree3.png" alt="img"></p>
-<h2 id="输入邀请码立减-1-美金"><a href="#输入邀请码立减-1-美金" class="headerlink" title="输入邀请码立减 1 美金"></a>输入邀请码立减 1 美金</h2><p>随心用$10.99 &#x2F;每月，输入邀请码：<strong>JJDPH</strong> 立减 1 美金，平台提供免费使用一次的机会，可以先体验下。 <img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free4.png" alt="img"></p>
-<h2 id="填写邀请码"><a href="#填写邀请码" class="headerlink" title="填写邀请码"></a>填写邀请码</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free5.png" alt="img"></p>
-<h2 id="选择支付宝支付"><a href="#选择支付宝支付" class="headerlink" title="选择支付宝支付"></a>选择支付宝支付</h2><h2 id="支付成功，愉快的使用GPT4"><a href="#支付成功，愉快的使用GPT4" class="headerlink" title="支付成功，愉快的使用GPT4"></a>支付成功，愉快的使用GPT4</h2><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/free6.png" alt="img"></p>
-<p>这太划算啦，GPT官方升级需要$20&#x2F;每月，还需要🪜，需要注册ChatGPT账号，还有封号风险。</p>
-<p>WildCard平台一个专门提供海外信用卡服务的，现在提供ChatGPT 随心用，我简直吹到爆！！！</p>
-<p>就是这么简单，从注册到用上GPT4.0，真的只需要不到一分钟，还无网络要求,无封号风险,独立对话记录,支持GPTs&#x2F;Store，还不赶快来试试！！！！我已经迫不及待啦…</p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Wildcard</tag>
       </tags>
   </entry>
   <entry>
@@ -5464,6 +5634,98 @@
       </tags>
   </entry>
   <entry>
+    <title>【包教包会】国内ChatGPT账号注册教程，无需手机验证码</title>
+    <url>/2024/08/16/how-to-register-chatgpt-without-phone/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<p>之前注册 ChatGPT 除了有一个海外邮箱，还需要手机号接码，一般都是推荐一些虚拟手机号接码平台，比如 sms-activate.org</p>
+<p>但是现在通通不用！</p>
+<p>只需要你能<strong>科学上网，即可注册</strong>。</p>
+<p>注册完后，或者你已经有账户，想要快速升级 Plus，可以看这篇教程：<a href="https://lcab-ljj.github.io/2024/08/16/bewildcard-upgrade-chatgpt4/">【保姆级】国内如何用gpt4？如何升级gpt4？用wildcard一键升级chatgpt4.0保姆级教程</a></p>
+<p>注册步骤：</p>
+<p>国内的邮箱都不再允许注册 ChatGPT，建议申请一个免费的海外邮箱 Proton 来注册，其他海外邮箱，如 Gmail 也可以，但是注册难度高一些。</p>
+<h2 id="一、注册-proton-邮箱"><a href="#一、注册-proton-邮箱" class="headerlink" title="一、注册 proton 邮箱"></a>一、注册 proton 邮箱</h2><h3 id="1-1-访问-proton"><a href="#1-1-访问-proton" class="headerlink" title="1.1 访问 proton"></a>1.1 访问 proton</h3><p><a href="https://proton.me/">https://proton.me/</a><br>选择右上角的 「Create a free account」</p>
+<h3 id="1-2-选择免费套餐"><a href="#1-2-选择免费套餐" class="headerlink" title="1.2 选择免费套餐"></a>1.2 选择免费套餐</h3><h3 id="1-3-选择邮箱后缀，设置用户名和密码"><a href="#1-3-选择邮箱后缀，设置用户名和密码" class="headerlink" title="1.3 选择邮箱后缀，设置用户名和密码"></a>1.3 选择邮箱后缀，设置用户名和密码</h3><p>推荐选择 proton.me</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f1.png"></p>
+<h3 id="1-4-通过真人检验，跳过手机验证"><a href="#1-4-通过真人检验，跳过手机验证" class="headerlink" title="1.4 通过真人检验，跳过手机验证"></a>1.4 通过真人检验，跳过手机验证</h3><p>依次拖动验证码，然后设置显示的名称，跳过手机验证就可以。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f2.png"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f3.png"></p>
+<p>注册完后，可以去登陆邮箱，方便接收验证码：</p>
+<p><a href="https://proton.me/">https://proton.me/</a></p>
+<h2 id="二、注册-OpenAI-账号"><a href="#二、注册-OpenAI-账号" class="headerlink" title="二、注册 OpenAI 账号"></a>二、注册 OpenAI 账号</h2><h3 id="2-1-申请-openai"><a href="#2-1-申请-openai" class="headerlink" title="2.1 申请 openai"></a>2.1 申请 openai</h3><p>首先打开 <a href="https://chat.openai.com/">OpenAI</a> 的账户注册页面，输入邮箱:</p>
+<p><a href="https://chat.openai.com/">https://chat.openai.com/</a></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f4.png"></p>
+<p>首先验证邮箱，去 Proton.me 收件箱里点击「Verify email address」即可。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f5.png"></p>
+<p>然后提供你的名和姓及生日，并点击继续</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f6.png"></p>
+<p>然后选择您创建 API 还是 ChatGPT账户即可。</p>
+<p>个人用户一般都选择 ChatGPT 账户即可：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f7.png"></p>
+<p>Openai 的用户体系分成两大类：ChatGPT 用户和API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的：</p>
+<p>ChatGPT 用户的登录入口是 <a href="https://chat.openai.com/">https://chat.openai.com</a><br>API 开发者用户的登录入口是 <a href="https://platform.openai.com/">https://platform.openai.com</a></p>
+<p>ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，会员的收费标准是 20 美元&#x2F;每月。</p>
+<p>购买 GPT Plus 会员后，可以在 Chat 界面选择 GPT4 进行聊天。</p>
+<p>API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在这里。</p>
+<p>然后需要预充值5美元以上，才能开通GPT-4的访问权限</p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【重要】OpenAI API 绑定WildCard虚拟卡遇到 Declined？最靠谱解决方案</title>
     <url>/2024/08/31/how-to-solve-openai-api-declined/</url>
     <content><![CDATA[<blockquote>
@@ -5693,98 +5955,6 @@
       <tags>
         <tag>Youtube</tag>
         <tag>Youtube Premium</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【包教包会】国内ChatGPT账号注册教程，无需手机验证码</title>
-    <url>/2024/08/16/how-to-register-chatgpt-without-phone/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<p>之前注册 ChatGPT 除了有一个海外邮箱，还需要手机号接码，一般都是推荐一些虚拟手机号接码平台，比如 sms-activate.org</p>
-<p>但是现在通通不用！</p>
-<p>只需要你能<strong>科学上网，即可注册</strong>。</p>
-<p>注册完后，或者你已经有账户，想要快速升级 Plus，可以看这篇教程：<a href="https://lcab-ljj.github.io/2024/08/16/bewildcard-upgrade-chatgpt4/">【保姆级】国内如何用gpt4？如何升级gpt4？用wildcard一键升级chatgpt4.0保姆级教程</a></p>
-<p>注册步骤：</p>
-<p>国内的邮箱都不再允许注册 ChatGPT，建议申请一个免费的海外邮箱 Proton 来注册，其他海外邮箱，如 Gmail 也可以，但是注册难度高一些。</p>
-<h2 id="一、注册-proton-邮箱"><a href="#一、注册-proton-邮箱" class="headerlink" title="一、注册 proton 邮箱"></a>一、注册 proton 邮箱</h2><h3 id="1-1-访问-proton"><a href="#1-1-访问-proton" class="headerlink" title="1.1 访问 proton"></a>1.1 访问 proton</h3><p><a href="https://proton.me/">https://proton.me/</a><br>选择右上角的 「Create a free account」</p>
-<h3 id="1-2-选择免费套餐"><a href="#1-2-选择免费套餐" class="headerlink" title="1.2 选择免费套餐"></a>1.2 选择免费套餐</h3><h3 id="1-3-选择邮箱后缀，设置用户名和密码"><a href="#1-3-选择邮箱后缀，设置用户名和密码" class="headerlink" title="1.3 选择邮箱后缀，设置用户名和密码"></a>1.3 选择邮箱后缀，设置用户名和密码</h3><p>推荐选择 proton.me</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f1.png"></p>
-<h3 id="1-4-通过真人检验，跳过手机验证"><a href="#1-4-通过真人检验，跳过手机验证" class="headerlink" title="1.4 通过真人检验，跳过手机验证"></a>1.4 通过真人检验，跳过手机验证</h3><p>依次拖动验证码，然后设置显示的名称，跳过手机验证就可以。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f2.png"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f3.png"></p>
-<p>注册完后，可以去登陆邮箱，方便接收验证码：</p>
-<p><a href="https://proton.me/">https://proton.me/</a></p>
-<h2 id="二、注册-OpenAI-账号"><a href="#二、注册-OpenAI-账号" class="headerlink" title="二、注册 OpenAI 账号"></a>二、注册 OpenAI 账号</h2><h3 id="2-1-申请-openai"><a href="#2-1-申请-openai" class="headerlink" title="2.1 申请 openai"></a>2.1 申请 openai</h3><p>首先打开 <a href="https://chat.openai.com/">OpenAI</a> 的账户注册页面，输入邮箱:</p>
-<p><a href="https://chat.openai.com/">https://chat.openai.com/</a></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f4.png"></p>
-<p>首先验证邮箱，去 Proton.me 收件箱里点击「Verify email address」即可。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f5.png"></p>
-<p>然后提供你的名和姓及生日，并点击继续</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f6.png"></p>
-<p>然后选择您创建 API 还是 ChatGPT账户即可。</p>
-<p>个人用户一般都选择 ChatGPT 账户即可：</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/f7.png"></p>
-<p>Openai 的用户体系分成两大类：ChatGPT 用户和API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的：</p>
-<p>ChatGPT 用户的登录入口是 <a href="https://chat.openai.com/">https://chat.openai.com</a><br>API 开发者用户的登录入口是 <a href="https://platform.openai.com/">https://platform.openai.com</a></p>
-<p>ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，会员的收费标准是 20 美元&#x2F;每月。</p>
-<p>购买 GPT Plus 会员后，可以在 Chat 界面选择 GPT4 进行聊天。</p>
-<p>API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在这里。</p>
-<p>然后需要预充值5美元以上，才能开通GPT-4的访问权限</p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -6057,90 +6227,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT绑卡失败？Openai绑卡被拒绝？如何使用远程环境进行绑定/支付</title>
-    <url>/2024/08/15/how-to-use-bewildcard-remote-environment/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么要使用美国家庭网络环境？</p>
-<p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个<strong>风控判断</strong>，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付，stripe 会返回以下错误：</p>
-<blockquote>
-<p>Your card does not support this type of purchase.<br>您的银行卡不支持这种购买类型。</p>
-</blockquote>
-<blockquote>
-<p>Your card has been declined.<br>您的卡已被拒绝。</p>
-</blockquote>
-<p>这个时候就需要一个美国家庭网络环境来进行绑定&#x2F;支付，避免因为 stripe 的 IP 判断而失败，具体的使用方法如下：</p>
-<h2 id="远程环境使用教程"><a href="#远程环境使用教程" class="headerlink" title="远程环境使用教程"></a>远程环境使用教程</h2><h3 id="1-注册wildcard并开通一张卡"><a href="#1-注册wildcard并开通一张卡" class="headerlink" title="1. 注册wildcard并开通一张卡"></a>1. 注册wildcard并开通一张卡</h3><p>wildcard首页：<a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
-<p>详细教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
-<h3 id="2-登录远程环境"><a href="#2-登录远程环境" class="headerlink" title="2. 登录远程环境"></a>2. 登录远程环境</h3><p>在登录后的「我的卡」页面，找到「远程环境」的入口，点击「登录远程环境」：</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h1.jpg"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h2.jpg"></p>
-<h3 id="3-启动-brave-浏览器"><a href="#3-启动-brave-浏览器" class="headerlink" title="3. 启动 brave 浏览器"></a>3. 启动 brave 浏览器</h3><p>点击屏幕中央的 「Brave」，然后点击「LAUNCH SESSION」按钮：</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h3.jpg"></p>
-<p>之后会登录到一个远程的浏览器环境。</p>
-<p>然后在浏览器地址栏输入对应的服务网址即可进行访问，每个浏览器环境有20分钟的使用时长：</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h4.jpg"></p>
-<h3 id="4-报错处理"><a href="#4-报错处理" class="headerlink" title="4. 报错处理"></a>4. 报错处理</h3><p>如果重新登录遇到 Kasm Limit Exceeded For User 这类错误，不用担心，点击左边已经运行的 Session，点击 「Resume」即可恢复原来打开的窗口 。</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h5.jpg"></p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h6.jpg"></p>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
-<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GPT不会说人话？让ChatGPT的对话跳出机械框架，实现真人的交流方式！</title>
     <url>/2024/08/16/let-chatgpt-talk-like-human/</url>
     <content><![CDATA[<blockquote>
@@ -6225,6 +6311,219 @@
 ]]></content>
       <tags>
         <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT绑卡失败？Openai绑卡被拒绝？如何使用远程环境进行绑定/支付</title>
+    <url>/2024/08/15/how-to-use-bewildcard-remote-environment/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么要使用美国家庭网络环境？</p>
+<p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个<strong>风控判断</strong>，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付，stripe 会返回以下错误：</p>
+<blockquote>
+<p>Your card does not support this type of purchase.<br>您的银行卡不支持这种购买类型。</p>
+</blockquote>
+<blockquote>
+<p>Your card has been declined.<br>您的卡已被拒绝。</p>
+</blockquote>
+<p>这个时候就需要一个美国家庭网络环境来进行绑定&#x2F;支付，避免因为 stripe 的 IP 判断而失败，具体的使用方法如下：</p>
+<h2 id="远程环境使用教程"><a href="#远程环境使用教程" class="headerlink" title="远程环境使用教程"></a>远程环境使用教程</h2><h3 id="1-注册wildcard并开通一张卡"><a href="#1-注册wildcard并开通一张卡" class="headerlink" title="1. 注册wildcard并开通一张卡"></a>1. 注册wildcard并开通一张卡</h3><p>wildcard首页：<a href="https://wildcard.com.cn/i/JJDPH">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+<p>详细教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
+<h3 id="2-登录远程环境"><a href="#2-登录远程环境" class="headerlink" title="2. 登录远程环境"></a>2. 登录远程环境</h3><p>在登录后的「我的卡」页面，找到「远程环境」的入口，点击「登录远程环境」：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h1.jpg"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h2.jpg"></p>
+<h3 id="3-启动-brave-浏览器"><a href="#3-启动-brave-浏览器" class="headerlink" title="3. 启动 brave 浏览器"></a>3. 启动 brave 浏览器</h3><p>点击屏幕中央的 「Brave」，然后点击「LAUNCH SESSION」按钮：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h3.jpg"></p>
+<p>之后会登录到一个远程的浏览器环境。</p>
+<p>然后在浏览器地址栏输入对应的服务网址即可进行访问，每个浏览器环境有20分钟的使用时长：</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h4.jpg"></p>
+<h3 id="4-报错处理"><a href="#4-报错处理" class="headerlink" title="4. 报错处理"></a>4. 报错处理</h3><p>如果重新登录遇到 Kasm Limit Exceeded For User 这类错误，不用担心，点击左边已经运行的 Session，点击 「Resume」即可恢复原来打开的窗口 。</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h5.jpg"></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/h6.jpg"></p>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li>
+<li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【推荐】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</title>
+    <url>/2024/07/30/midjourney%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="0-【必看】订阅步骤简述"><a href="#0-【必看】订阅步骤简述" class="headerlink" title="0. 【必看】订阅步骤简述"></a>0. 【必看】订阅步骤简述</h2><p>订阅Midjourney的步骤<strong>简要总结</strong>如下：</p>
+<ol>
+<li>使用<a href="https://wildcard.com.cn/i/JJDPH"><strong>虚拟信用卡平台Wildcard</strong></a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
+<li>开卡后，进入Wildcard首页，就能看到自己的虚拟卡信息啦</li>
+<li>把虚拟卡信息填写到midjourney绑定信用卡界面就可以开始订阅啦</li>
+</ol>
+<p><strong>总费用</strong>：开卡费9.9美元+midjourney订阅费用</p>
+<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
+<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
+<p>主要是为了拒绝xi qian。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
+<p>至于<strong>隐私问题</strong>是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人<strong>已经稳定使用半年多</strong>了，大家也可以放心哈。</p>
+<h2 id="1-Midjourney介绍"><a href="#1-Midjourney介绍" class="headerlink" title="1. Midjourney介绍"></a>1. Midjourney介绍</h2><p>Midjourney 是一款备受欢迎的人工智能生成图像工具，它可以通过输入文字描述，自动生成精美的图像。与许多其他图像生成工具不同，Midjourney 不需要安装任何软件，也不受个人电脑性能的限制，因为它运行在云端服务器上。要使用 Midjourney，只需拥有一个 Discord 帐号并加入相应的 Discord 频道即可。</p>
+<h3 id="1-1-新手常见问题"><a href="#1-1-新手常见问题" class="headerlink" title="1.1 新手常见问题"></a>1.1 新手常见问题</h3><blockquote>
+<p>Q：Midjourney是什么？<br>A：一个AI 生成算图工具，只需输入文字就会自动产生图像，Midjourney目前架设在Discord频道上，因此需要有Discord帐号才能使用。<br>Q：Discord是什么？<br>A：一款专为社群设计的免费通讯社交软体，类似于LINE或Slack，但功能更为强大，自带机器人与各种程式功能，能够在上面发开自己工具，有网页版与手机版App。.<br>Q：Midjourney是软件吗？需要安装吗？<br>A：不用，Midjourney并不是软件，也不用安装，它是一个架设在Discord之下的工具，使用方式只需要在Discord输入文字即可，所以与你电脑本身效能无关，运算中关闭Midjourney也没问题，因为真正运算图片的是云端电脑。</p>
+</blockquote>
+<h3 id="2-midjourney多少钱一个月"><a href="#2-midjourney多少钱一个月" class="headerlink" title="2. midjourney多少钱一个月"></a>2. midjourney多少钱一个月</h3><p>下面的表格是我为大家总结的midjourney的不同订阅计划的费用和区别，</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>基础计划</th>
+<th>标准计划</th>
+<th>专业计划</th>
+<th>大型计划</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>每月订阅费用</td>
+<td>$10</td>
+<td>$30</td>
+<td>$60</td>
+<td>$120</td>
+</tr>
+<tr>
+<td>年度订阅费用</td>
+<td>$96（$8 &#x2F;月）</td>
+<td>$288（$24 &#x2F;月）</td>
+<td>$576（$48&#x2F;月）</td>
+<td>$1152($96&#x2F;月)</td>
+</tr>
+<tr>
+<td>使用限制</td>
+<td>每月可以生成200张图没有fast模式不能免排队生成图</td>
+<td>每月可无限量生成图片15小时fast模式生图时间可以免排队生成图</td>
+<td>有隐私模式，别人看不到你的图和关键词fast模式生图时间有30小时可以免排队生成图</td>
+<td>在专业计划的基础上，有60小时的fast模式</td>
+</tr>
+</tbody></table>
+<p>对于一般用户而言，选择<strong>基础计划</strong>或者<strong>标准计划</strong>就可以满足日常使用需求。<br>对于商业用途而言，建议选择专业计划或者大型计划。</p>
+<h2 id="3-国内如何订阅midjourney"><a href="#3-国内如何订阅midjourney" class="headerlink" title="3. 国内如何订阅midjourney"></a>3. 国内如何订阅midjourney</h2><p>目前国内银行卡是支付不了的，原先还可以支付宝支付，现在也不可以了，只能通过国外银行卡支付。</p>
+<p>如果你已经有国外的银行卡，那么你可以直接自己付。</p>
+<p>如果没有，那么可以使用虚拟卡来订阅midjourney</p>
+<h3 id="3-1-如何使用虚拟卡来订阅midjourney"><a href="#3-1-如何使用虚拟卡来订阅midjourney" class="headerlink" title="3.1 如何使用虚拟卡来订阅midjourney"></a>3.1 如何使用虚拟卡来订阅midjourney</h3><ol>
+<li>首先，去<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>上面购买一张虚拟信用卡，可以得到一张虚拟信用卡和卡片信息。这一步需要9.99美元的开卡费，开完卡之后这就是你的信用卡了，你可以用支付宝向里面充值金额来支付midjourney的订阅。Wildcard手把手教学流程参考：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</a></li>
+</ol>
+<p><img src="https://pic3.zhimg.com/80/v2-5960decba46e462a5b647a1279cb7d4a_720w.webp"></p>
+<ol>
+<li>登录你的<a href="https://www.midjourney.com/explore">Midjourney账户</a>，进入订阅中心（如果是在Discord频道里，则是在频道输入框输入&#x2F;subscribe，然后点击一下，再回车）</li>
+<li>选择您需要订阅的会员计划，选择月支付&#x2F;年支付</li>
+<li>进入支付页面，选择银行卡支付</li>
+<li>把你在第一步购买到的虚拟信用卡卡号、有效期、CVV码等信息填写到对应的地方</li>
+</ol>
+<p><img src="https://pic2.zhimg.com/80/v2-a3d46c89273dd0ebdddceee5c6a3e981_720w.webp"></p>
+<ol start="5">
+<li>填写完信息之后，点击确认订阅就可以啦</li>
+</ol>
+<blockquote>
+<p>参考文章：</p>
+<ol>
+<li><a href="https://cloud.tencent.com/developer/techpedia/1969">Midjourney</a></li>
+<li><a href="https://www.uisdc.com/midjourney-user-guide">Midjourney用户手册中文版！详解模型、命令、参数与高级用法</a></li>
+<li><a href="https://sspai.com/post/80640#!">Midjourney从零基础到落地实践</a></li>
+<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
+<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
+</ol>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Wildcard</tag>
+        <tag>midjourney</tag>
       </tags>
   </entry>
   <entry>
@@ -6432,135 +6731,6 @@
       <tags>
         <tag>Llama</tag>
         <tag>GPT-4</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【推荐】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</title>
-    <url>/2024/07/30/midjourney%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h2 id="0-【必看】订阅步骤简述"><a href="#0-【必看】订阅步骤简述" class="headerlink" title="0. 【必看】订阅步骤简述"></a>0. 【必看】订阅步骤简述</h2><p>订阅Midjourney的步骤<strong>简要总结</strong>如下：</p>
-<ol>
-<li>使用<a href="https://wildcard.com.cn/i/JJDPH"><strong>虚拟信用卡平台Wildcard</strong></a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
-<li>开卡后，进入Wildcard首页，就能看到自己的虚拟卡信息啦</li>
-<li>把虚拟卡信息填写到midjourney绑定信用卡界面就可以开始订阅啦</li>
-</ol>
-<p><strong>总费用</strong>：开卡费9.9美元+midjourney订阅费用</p>
-<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
-<p>此外，大家可能会问一个问题：为什么在开通虚拟信用卡时需要支付宝认证？</p>
-<p>主要是为了拒绝xi qian。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了更好的保证大家的虚拟卡的安全（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
-<p>至于<strong>隐私问题</strong>是完全不用担心的，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我本人<strong>已经稳定使用半年多</strong>了，大家也可以放心哈。</p>
-<h2 id="1-Midjourney介绍"><a href="#1-Midjourney介绍" class="headerlink" title="1. Midjourney介绍"></a>1. Midjourney介绍</h2><p>Midjourney 是一款备受欢迎的人工智能生成图像工具，它可以通过输入文字描述，自动生成精美的图像。与许多其他图像生成工具不同，Midjourney 不需要安装任何软件，也不受个人电脑性能的限制，因为它运行在云端服务器上。要使用 Midjourney，只需拥有一个 Discord 帐号并加入相应的 Discord 频道即可。</p>
-<h3 id="1-1-新手常见问题"><a href="#1-1-新手常见问题" class="headerlink" title="1.1 新手常见问题"></a>1.1 新手常见问题</h3><blockquote>
-<p>Q：Midjourney是什么？<br>A：一个AI 生成算图工具，只需输入文字就会自动产生图像，Midjourney目前架设在Discord频道上，因此需要有Discord帐号才能使用。<br>Q：Discord是什么？<br>A：一款专为社群设计的免费通讯社交软体，类似于LINE或Slack，但功能更为强大，自带机器人与各种程式功能，能够在上面发开自己工具，有网页版与手机版App。.<br>Q：Midjourney是软件吗？需要安装吗？<br>A：不用，Midjourney并不是软件，也不用安装，它是一个架设在Discord之下的工具，使用方式只需要在Discord输入文字即可，所以与你电脑本身效能无关，运算中关闭Midjourney也没问题，因为真正运算图片的是云端电脑。</p>
-</blockquote>
-<h3 id="2-midjourney多少钱一个月"><a href="#2-midjourney多少钱一个月" class="headerlink" title="2. midjourney多少钱一个月"></a>2. midjourney多少钱一个月</h3><p>下面的表格是我为大家总结的midjourney的不同订阅计划的费用和区别，</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>基础计划</th>
-<th>标准计划</th>
-<th>专业计划</th>
-<th>大型计划</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>每月订阅费用</td>
-<td>$10</td>
-<td>$30</td>
-<td>$60</td>
-<td>$120</td>
-</tr>
-<tr>
-<td>年度订阅费用</td>
-<td>$96（$8 &#x2F;月）</td>
-<td>$288（$24 &#x2F;月）</td>
-<td>$576（$48&#x2F;月）</td>
-<td>$1152($96&#x2F;月)</td>
-</tr>
-<tr>
-<td>使用限制</td>
-<td>每月可以生成200张图没有fast模式不能免排队生成图</td>
-<td>每月可无限量生成图片15小时fast模式生图时间可以免排队生成图</td>
-<td>有隐私模式，别人看不到你的图和关键词fast模式生图时间有30小时可以免排队生成图</td>
-<td>在专业计划的基础上，有60小时的fast模式</td>
-</tr>
-</tbody></table>
-<p>对于一般用户而言，选择<strong>基础计划</strong>或者<strong>标准计划</strong>就可以满足日常使用需求。<br>对于商业用途而言，建议选择专业计划或者大型计划。</p>
-<h2 id="3-国内如何订阅midjourney"><a href="#3-国内如何订阅midjourney" class="headerlink" title="3. 国内如何订阅midjourney"></a>3. 国内如何订阅midjourney</h2><p>目前国内银行卡是支付不了的，原先还可以支付宝支付，现在也不可以了，只能通过国外银行卡支付。</p>
-<p>如果你已经有国外的银行卡，那么你可以直接自己付。</p>
-<p>如果没有，那么可以使用虚拟卡来订阅midjourney</p>
-<h3 id="3-1-如何使用虚拟卡来订阅midjourney"><a href="#3-1-如何使用虚拟卡来订阅midjourney" class="headerlink" title="3.1 如何使用虚拟卡来订阅midjourney"></a>3.1 如何使用虚拟卡来订阅midjourney</h3><ol>
-<li>首先，去<a href="https://wildcard.com.cn/i/JJDPH"><strong>Wildcard</strong></a>上面购买一张虚拟信用卡，可以得到一张虚拟信用卡和卡片信息。这一步需要9.99美元的开卡费，开完卡之后这就是你的信用卡了，你可以用支付宝向里面充值金额来支付midjourney的订阅。Wildcard手把手教学流程参考：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">【2024最新版】怎么购买GPT-4？GPT-4买不了怎么办？GPT-4订阅银行卡教程他来了！！！</a></li>
-</ol>
-<p><img src="https://pic3.zhimg.com/80/v2-5960decba46e462a5b647a1279cb7d4a_720w.webp"></p>
-<ol>
-<li>登录你的<a href="https://www.midjourney.com/explore">Midjourney账户</a>，进入订阅中心（如果是在Discord频道里，则是在频道输入框输入&#x2F;subscribe，然后点击一下，再回车）</li>
-<li>选择您需要订阅的会员计划，选择月支付&#x2F;年支付</li>
-<li>进入支付页面，选择银行卡支付</li>
-<li>把你在第一步购买到的虚拟信用卡卡号、有效期、CVV码等信息填写到对应的地方</li>
-</ol>
-<p><img src="https://pic2.zhimg.com/80/v2-a3d46c89273dd0ebdddceee5c6a3e981_720w.webp"></p>
-<ol start="5">
-<li>填写完信息之后，点击确认订阅就可以啦</li>
-</ol>
-<blockquote>
-<p>参考文章：</p>
-<ol>
-<li><a href="https://cloud.tencent.com/developer/techpedia/1969">Midjourney</a></li>
-<li><a href="https://www.uisdc.com/midjourney-user-guide">Midjourney用户手册中文版！详解模型、命令、参数与高级用法</a></li>
-<li><a href="https://sspai.com/post/80640#!">Midjourney从零基础到落地实践</a></li>
-<li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li>
-<li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li>
-</ol>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Wildcard</tag>
-        <tag>midjourney</tag>
       </tags>
   </entry>
   <entry>
@@ -7737,176 +7907,6 @@
       <tags>
         <tag>Anthropic</tag>
         <tag>Claude Android</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版/专业版？</title>
-    <url>/2024/12/24/How-to-Use-and-Upgrade-Overleaf/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<h3 id="1-Overleaf介绍"><a href="#1-Overleaf介绍" class="headerlink" title="1. Overleaf介绍"></a>1. Overleaf介绍</h3><p>Overleaf是<strong>一个使用LaTeX进行多人协同编辑的平台</strong>，可以免费注册和使用，不用下载LaTeX软件，是最为著名的LaTeX在线协作系统。 LaTeX 是一种广泛使用的排版系统，特别适合于科学文档、学术论文、图书和其他技术文档的编写。</p>
-<p>它最大优势是：<strong>在线编辑、多人共享</strong></p>
-<p>overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</p>
-<p>免费版Overleaf限制编译时间为20秒，超出此限制的文档无法编译。相比之下，标准版和专业版的编译时间长达240秒。值得注意的是，之前通过IEEE认证可免费获得专业版Overleaf的方式，已于2024年4月2日被Overleaf官方宣布暂停。</p>
-<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/b1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/b1.png" alt="b1"></a></p>
-<p>此外，还有淘宝等特殊渠道购买overleaf专业版，不过<strong>风险很大</strong>（相当于把自己的论文交给别人任意访问，轻则查重率上升，重则学术不端），胖虎不建议大家用这种渠道。</p>
-<h3 id="2-Overleaf有哪些功能-优势"><a href="#2-Overleaf有哪些功能-优势" class="headerlink" title="2. Overleaf有哪些功能&#x2F;优势"></a>2. Overleaf有哪些功能&#x2F;优势</h3><p>Overleaf是一个功能强大的在线LaTeX编辑器，它提供了以下主要功能：</p>
-<ol>
-<li><strong>在线协作</strong>：Overleaf 支持多人实时协作，这意味着多个用户可以同时编辑同一个文档，非常适合<strong>团队合作</strong>。</li>
-<li><strong>模板库</strong>：Overleaf 提供了大量的文档模板，包括期刊文章、会议论文、简历、报告、书籍等，用户可以直接使用这些模板开始编写文档。</li>
-<li><strong>版本控制</strong>：Overleaf 自动保存文档的版本历史，用户可以轻松回滚到之前的版本。</li>
-<li><strong>实时预览</strong>：编辑 LaTeX 文档时，Overleaf 提供实时的文档预览，让用户即时看到排版效果。</li>
-<li><strong>集成编译器</strong>：Overleaf 内置了 LaTeX 编译器，用户无需在本地安装任何软件即可编译文档。</li>
-<li><strong>云存储</strong>：文档存储在云端，可以随时随地访问，并且支持从其他云服务或本地计算机导入和导出文档。</li>
-<li><strong>丰富的功能</strong>：Overleaf 支持 LaTeX 的所有功能，包括插入图片、表格、数学公式、参考文献等。</li>
-<li><strong>教育支持</strong>：Overleaf 为教育机构提供特殊支持，包括免费的教育版和专业版，供教师和学生使用。</li>
-</ol>
-<h3 id="3-Overleaf怎样升级到标准版-专业版"><a href="#3-Overleaf怎样升级到标准版-专业版" class="headerlink" title="3. Overleaf怎样升级到标准版&#x2F;专业版"></a>3. Overleaf怎样升级到标准版&#x2F;专业版</h3><p>首先你需要注册一个Overleaf账号:</p>
-<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155138688.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155138688.png" alt="image-20240524155138688"></a></p>
-<p>然后选择你要升级的套餐，标准版年付199刀。当然月付也行，但要21刀&#x2F;每月。</p>
-<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/image-20240524155214174.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20240524155214174.png" alt="image-20240524155214174"></a></p>
-<p>最后填写支付信息，估计很多人没有国外的信用卡，这里可以使用虚拟信用卡。推荐使用<a href="https://bewildcard.com/i/JJDPH">WildCard</a>（使用邀请码：JJDPH有优惠哦），能用它来订阅大部分海外服务，并且专门针对ChatGPT相关服务做了优化，感兴趣的可以看看我的教程<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">WildCard是什么？怎样使用WildCard订阅国外服务？</a></p>
-<p><a href="https://snowfeng.oss-cn-beijing.aliyuncs.com/snowfeng/a1.png"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/a1.png" alt="a1"></a></p>
-<p>至此，就可以愉快地使用更强大的OverLeaf了。</p>
-<blockquote>
-<p>参考文章：<a href="https://lcab-ljj.github.io/2024/12/24/How-to-Use-and-Upgrade-Overleaf/">【小白向】Overleaf是什么？Overleaf能干嘛？如何升级到标准版&#x2F;专业版？ | 进击的胖虎</a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Overleaf</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怎么免费使用Google Gemini？教你如何Gemini Pro绑卡升级</title>
-    <url>/2025/01/02/How-to-use-Goole-gemini/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
-</blockquote>
-<hr>
-<p><strong>其他精选文章</strong></p>
-<table>
-<thead>
-<tr>
-<th>类别</th>
-<th>教程</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Claude</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
-</tr>
-<tr>
-<td>Sora</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
-</tr>
-<tr>
-<td>ChatGPT</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
-</tr>
-<tr>
-<td>Midjourney</td>
-<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
-</tr>
-<tr>
-<td>Poe</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
-</tr>
-<tr>
-<td>Suno</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
-</tr>
-<tr>
-<td>其他</td>
-<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
-</tr>
-</tbody></table>
-<p>Google发布了最新的<strong>Gemini 2.0</strong>模型，其多模态能力和ChatGPT不相上下，甚至在某些功能上更胜一筹。 Gemini 2.0不仅可以看到、听到、说话，还新增了实验性的边界框检测，用于对象识别和定位。 </p>
-<p>此外，它还支持图像生成和可控文本到语音。但是，目前Gemini在处理中文时表现稍逊一筹， 比较靠谱的方法是把中文先翻译成英文再去提问，会大大提升回答质量。 </p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102194328596.png" alt="image-20250102194328596"></p>
-<h2 id="为什么选择Google-Gemini？"><a href="#为什么选择Google-Gemini？" class="headerlink" title="为什么选择Google Gemini？"></a>为什么选择Google Gemini？</h2><ul>
-<li><strong>多模态人工智能的先进性</strong>：Google Gemini 2.0 是多模态人工智能的一个重要进展。这个平台支持文本、语音和视觉输入，并具备实时流媒体能力，这使得用户与 AI 系统的互动方式发生了转变。</li>
-<li><strong>速度和效率的显著提升</strong>：Gemini 2.0 的运行速度是其前代 1.5 Flash 的两倍。它能够在数秒内执行 Python 脚本、生成商业洞见和详细分析，将需要数小时完成的工作压缩至短短数分钟，显著提升了商业应用的效率。</li>
-<li><strong>多功能性和应用范围</strong>：Gemini 2.0 提供了一个全面的工具包，适用于多种应用。无论是协助编程任务还是生成创意内容，它都能提高生产力并简化工作流程。</li>
-<li><strong>支持实时流媒体</strong>：通过支持实时流媒体，Gemini 2.0 能够处理连续的数据流，这对于需要实时分析和响应的应用场景尤为重要。</li>
-<li><strong>AI 驱动解决方案的领导者</strong>：尽管某些功能还处于早期访问阶段，但 Gemini 2.0 的强大性能和易用性使其成为 AI 驱动解决方案的领导者</li>
-</ul>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102194431078.png" alt="image-20250102194431078"></p>
-<h2 id="如何免费体验Gemini最新模型？"><a href="#如何免费体验Gemini最新模型？" class="headerlink" title="如何免费体验Gemini最新模型？"></a>如何免费体验Gemini最新模型？</h2><ul>
-<li>Gemini Pro：官方提供新用户免费试用一个月的Pro服务。官网地址：<a href="https://gemini.google.com/app?hl=zh">官网地址</a></li>
-<li>超值白嫖机会：如果有朋友已开通Pro，还能获得<strong>额外4个月</strong>的免费使用机会。 Gemini 2.0订阅需要<strong>绑定支付方式</strong>，但国内的信用卡无法直接充值或订阅。这时，“<a href="https://bewildcard.com/i/JJDPH">虚拟卡</a>”成 了一个简单高效的解决方案。 接下来，教你如何用虚拟卡轻松搞定Gemini Pro订阅。</li>
-</ul>
-<h2 id="白嫖教程：Gemini-Pro绑卡升级"><a href="#白嫖教程：Gemini-Pro绑卡升级" class="headerlink" title="白嫖教程：Gemini Pro绑卡升级"></a>白嫖教程：Gemini Pro绑卡升级</h2><p>以下步骤仅需 1-5分钟，手把手教你使用<a href="https://bewildcard.com/i/JJDPH">Wildcard虚拟卡</a>完成Gemini Pro绑卡升级。</p>
-<p>作者使用该平台一年多啦，平常ChatGPT Plus升级，以及最近很火的Cursor工具都能轻松在该 平台订阅。不用找其他第三方充值让其赚差价，自己申请一张虚拟卡，几乎海外平常的订阅都 可以在这个平台上订阅，自己掌握主动，<strong>用多少充值多少</strong>。 PS：如果想立即体验开卡流程，点击 <a href="https://bewildcard.com/i/JJDPH">WildCard官网访问链接</a> 邀请码：JJDPH，可享受开卡优惠。</p>
-<h3 id="申请虚拟卡"><a href="#申请虚拟卡" class="headerlink" title="申请虚拟卡"></a>申请虚拟卡</h3><p>到 <a href="https://bewildcard.com/i/JJDPH">wildcard官网</a> 申请一张虚拟卡： </p>
-<p>用+86手机号码注册账号；  </p>
-<p>在后台点击“我的卡片”，选择卡片使用期限，并扫码支付虚拟卡年费。两年只需几十块，性价比超高，输入官方邀请码 JJDPH，还能享受<strong>开卡优惠</strong>。</p>
-<p>具体教程可以看这篇 <a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></p>
-<h3 id="查看虚拟卡信息"><a href="#查看虚拟卡信息" class="headerlink" title="查看虚拟卡信息"></a>查看虚拟卡信息</h3><p>申请完成后，再次进入“我的卡片”查看虚拟信用卡的详细信息。这张卡可以解决大部分海外支付问题，比如Gemini、ChatGPT、Cursor等。 </p>
-<h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195254301.png" alt="image-20250102195254301"></h3><h3 id="充值虚拟卡"><a href="#充值虚拟卡" class="headerlink" title="充值虚拟卡"></a>充值虚拟卡</h3><p>点击“充值”按钮，用支付宝或微信完成充值。为了确保绑卡成功，建议先充值 <strong>最低5美元</strong>。后 续不用的钱可以<strong>随时提现</strong>到支付宝，非常方便。</p>
-<h3 id="绑定到Google-Gemini"><a href="#绑定到Google-Gemini" class="headerlink" title="绑定到Google Gemini"></a>绑定到Google Gemini</h3><p>登录Google Gemini官网，选择“开始试用”； </p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195421770.png" alt="image-20250102195421770"></p>
-<p>填写虚拟卡信息进行绑定，确保卡内余额足够覆盖预扣款； </p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195444870.png" alt="image-20250102195444870"></p>
-<p>在虚拟卡选择线上充值，依次点击充值和确认，即可完成绑卡升级，Google Gemini目前不 需要扣款，为了确保绑卡成功，可以先充个最低的5$，绑定卡成功后可以自行提现到支付宝。 </p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250102195509423.png" alt="image-20250102195509423"></p>
-<h3 id="取消自动续费"><a href="#取消自动续费" class="headerlink" title="取消自动续费"></a>取消自动续费</h3><p>订阅成功后，一定记得取消自动续费： </p>
-<ul>
-<li>进入Gemini首页，点击“设置”→“管理订阅”； </li>
-<li>在Google One界面选择“更改付款方式”，点击“管理订阅信息”； </li>
-<li>弹出窗口后点击“取消订阅”，确认取消即可避免下月扣费。</li>
-</ul>
-<p>绑定虚拟卡后还能做什么？ 学会这套绑定流程后，你还可以订阅其他海外服务，比如ChatGPT、Cursor、Claude等。虚拟卡的灵活性，让你轻松解决支付难题，真正做到“白嫖”或者支付海外软件无压力！ 现在，去体验一下Gemini 2.0和Pro带来的便利吧！无论是多模态功能、图像生成，还是可控文本到语音，都能让你的生产力飞跃提升！ 快行动起来，这波白嫖别错过！</p>
-<blockquote>
-<p>参考文章：<a href="https://lcab-ljj.github.io/2025/01/02/How-to-use-Goole-gemini/">怎么免费使用Google Gemini？教你如何Gemini Pro绑卡升级 </a></p>
-</blockquote>
-<hr>
-<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
-<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
-]]></content>
-      <tags>
-        <tag>Google Gemini</tag>
       </tags>
   </entry>
 </search>
