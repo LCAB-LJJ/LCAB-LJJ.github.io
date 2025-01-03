@@ -908,13 +908,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Google-play/</loc>
-    <lastmod>2025-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/PVG/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -923,6 +916,13 @@
   
   <url>
     <loc>https://lcab-ljj.github.io/tags/OpenAi/</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lcab-ljj.github.io/tags/Google-play/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
