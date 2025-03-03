@@ -8108,4 +8108,82 @@
         <tag>Bolt</tag>
       </tags>
   </entry>
+  <entry>
+    <title>【包教包会】竟然力压Deepseek？什么是Grok？怎么订阅Grok？</title>
+    <url>/2025/03/03/How-to-subscribe-Grok/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="什么是Grok？"><a href="#什么是Grok？" class="headerlink" title="什么是Grok？"></a>什么是Grok？</h2><p>马斯克研发的Grok 3是由他的AI公司xAI推出的最新旗舰人工智能模型。这个模型被马斯克称为“<strong>地球上最聪明的人工智能</strong>”，标志着AI技术的一个重要突破。Grok 3的发布在技术架构和性能表现上都显示出显著的进步。</p>
+<p>技术架构方面，Grok 3基于xAI自研的Colossus超级计算机进行训练，使用了20万块英伟达H100 GPU，累计消耗了2亿GPU小时，其计算量是前代Grok-2的10倍。Grok 3还引入了“思维链推理机制”（Chain of Thought），这是一种类似人类认知的逐步推理能力，能够显著减少AI的幻觉问题。此外，Grok 3支持多模态和实时信息处理，能够处理文本、图像分析和代码生成等任务。</p>
+<p>在性能表现上，Grok 3在各种基准测试中展现了卓越的性能。例如，在数学推理（AIME24）、科学逻辑（GPQA）和编程（LCB）测试中，Grok 3的得分全面超越了GPT-4o、Gemini-2 Pro等竞争对手。它还在一个综合竞技场（LMSYS）的测试中取得了1402分的高分，<strong>超过了DeepSeek-V3和GPT-4o</strong>。</p>
+<h2 id="Grok-3的性能表现"><a href="#Grok-3的性能表现" class="headerlink" title="Grok 3的性能表现"></a>Grok 3的性能表现</h2><ul>
+<li>数学推理能⼒ 在2024年美国数学邀请赛（AIME’24）测试中，Grok 3获得了52分，明显超过DeepSeek-V3的39分。 在2025年AIME性能测试中，Grok 3的Reasoning Beta版本在推理和计算时间复合评分上取得93分，其精简版本Grok 3 mini也达到了90分。 </li>
+<li>科学知识处理：在科学知识评估（GPQA）中，Grok 3获得75分，领先于DeepSeek-V3的65分。 </li>
+<li>编程能⼒：在编程能⼒测试（LCB Oct-Feb）中，Grok 3获得57分，超过了DeepSeek-V3的36分。 </li>
+<li>综合推理能⼒：在多领域推理能⼒测试中，Grok 3在数学、科学、编程等多个维度上均超越DeepSeek-R1，显⽰出全⾯的推理优势。 </li>
+<li>聊天机器⼈性能：在LMSYS聊天机器⼈竞技场评估中，Grok 3得分约1400分，领先于GPT-4、Claude等主流⼤模型。</li>
+</ul>
+<h2 id="Grok官网地址"><a href="#Grok官网地址" class="headerlink" title="Grok官网地址"></a>Grok官网地址</h2><p>官网地址在这里：<a href="https://grok.com/"><strong>Grok官网地址</strong></a></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303114740236.png" alt="image-20250303114740236"></p>
+<h2 id="Grok订阅教程"><a href="#Grok订阅教程" class="headerlink" title="Grok订阅教程"></a>Grok订阅教程</h2><p>由于Grok不是免费的，需要绑定账户方便订阅，国内暂时没有这个业务，这里我推荐使用<a href="https://yeka.ai/i/JJDPH">wildcard</a>，本人已使用半年多，安全可靠，还可以绑定使用chatGPT等，非常方便！</p>
+<p>这里是开卡教程：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></p>
+<p>下面附上订阅教程：</p>
+<h3 id="1-登录wildcard官网"><a href="#1-登录wildcard官网" class="headerlink" title="1.登录wildcard官网"></a>1.登录wildcard官网</h3><p>点击订阅订阅服务，选择Grok，点击查看卡片</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303114008664.png" alt="image-20250303114008664"></p>
+<h3 id="2-登录Grok官网"><a href="#2-登录Grok官网" class="headerlink" title="2.登录Grok官网"></a>2.登录Grok官网</h3><p><a href="https://grok.com/">官网地址Grok</a></p>
+<p>点击左下角Go Super，点击注册</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303114929676.png" alt="image-20250303114929676"></p>
+<h3 id="3-绑定卡片信息"><a href="#3-绑定卡片信息" class="headerlink" title="3.绑定卡片信息"></a>3.绑定卡片信息</h3><p>点击银行卡，将自己的wildcard信息绑定到这个账户</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303115039983.png" alt="image-20250303115039983"></p>
+<p>将右边的信息依次填写到左边Grok账户，注意<strong>不勾选记住账号信息</strong></p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303115227891.png" alt="image-20250303115227891"></p>
+<h3 id="4-订阅成功"><a href="#4-订阅成功" class="headerlink" title="4.订阅成功"></a>4.订阅成功</h3><p>出现这个标识就说明订阅成功啦！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/image-20250303115402457.png" alt="image-20250303115402457"></p>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Grok</tag>
+      </tags>
+  </entry>
 </search>
