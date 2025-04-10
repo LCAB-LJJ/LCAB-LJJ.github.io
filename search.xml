@@ -8259,4 +8259,205 @@
         <tag>Wildcard</tag>
       </tags>
   </entry>
+  <entry>
+    <title>【重要必看】Grok3 API 已经免费开放了，附上免费使用 Grok3 API的教程</title>
+    <url>/2025/04/10/how-to-use-Grok3-for-free/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Sora等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></strong></p>
+</blockquote>
+<hr>
+<p><strong>其他精选文章</strong></p>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>教程</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Claude</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td>
+</tr>
+<tr>
+<td>Sora</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td>
+</tr>
+<tr>
+<td>ChatGPT</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td>
+</tr>
+<tr>
+<td>Midjourney</td>
+<td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td>
+</tr>
+<tr>
+<td>Poe</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td>
+</tr>
+<tr>
+<td>Suno</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td>
+</tr>
+</tbody></table>
+<h2 id="Grok-3是什么"><a href="#Grok-3是什么" class="headerlink" title="Grok-3是什么"></a>Grok-3是什么</h2><p><strong>Grok-3</strong> 是 <strong>xAI</strong>（由 Elon Musk 创立的 AI 公司）开发的最新大语言模型（LLM），属于 <strong>Grok 系列模型的第三代</strong>，旨在与 OpenAI 的 GPT-4、Anthropic 的 Claude 3 和 Google 的 Gemini 1.5 等顶尖 AI 竞争。</p>
+<h3 id="Grok-系列的发展历程"><a href="#Grok-系列的发展历程" class="headerlink" title="Grok 系列的发展历程"></a><strong>Grok 系列的发展历程</strong></h3><ol>
+<li><strong>Grok-1（2023 年 11 月）</strong><ul>
+<li>xAI 的首个大语言模型，采用类似 LLaMA 的架构，但训练数据更偏向实时信息（如 X&#x2F;Twitter 数据）。</li>
+<li>参数量约 330 亿（33B），性能接近 LLaMA 2（70B）。</li>
+<li>主要集成在 X（原 Twitter）的 <strong>Premium+</strong> 订阅服务中，提供对话式 AI 体验。</li>
+</ul>
+</li>
+<li><strong>Grok-1.5（2024 年 3 月）</strong><ul>
+<li>改进版本，支持 <strong>128K 上下文窗口</strong>（比 GPT-4 Turbo 更长）。</li>
+<li>增强了代码能力（HumanEval 评测达 74.1%），接近 GPT-4 水平。</li>
+<li>开始支持多模态（图像、文档理解）。</li>
+</ul>
+</li>
+<li><strong>Grok-3（预计 2024 年发布）</strong><ul>
+<li>目前仍在训练中，预计参数量大幅提升（可能达到 GPT-4 级别，即万亿级）。</li>
+<li>采用 <strong>混合专家（MoE）架构</strong>，类似 GPT-4，以提高计算效率。</li>
+<li>目标是在推理、数学、编程和实时信息处理方面超越 GPT-4。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="Grok-3-的核心优势"><a href="#Grok-3-的核心优势" class="headerlink" title="Grok-3 的核心优势"></a><strong>Grok-3 的核心优势</strong></h3><ol>
+<li><strong>实时信息整合</strong><ul>
+<li>直接接入 <strong>X（Twitter）的实时数据</strong>，能提供最新的新闻、趋势和社交讨论分析。</li>
+<li>相比 GPT-4（数据截止到 2023 年），Grok-3 在时效性上更具优势。</li>
+</ul>
+</li>
+<li><strong>超长上下文支持</strong><ul>
+<li>Grok-1.5 已支持 128K tokens，Grok-3 预计会进一步扩展，适合处理长文档、代码库分析等任务。</li>
+</ul>
+</li>
+<li><strong>与 X（Twitter）生态深度结合</strong><ul>
+<li>可作为 <strong>社交 AI 助手</strong>，帮助用户分析推文、生成内容、推荐趋势话题等。</li>
+<li>可能整合到 X 的广告、推荐系统中，提供更智能的社交互动。</li>
+</ul>
+</li>
+<li><strong>开源可能性</strong><ul>
+<li>Elon Musk 曾表示 xAI 可能开源 Grok（类似 Meta 开源 LLaMA），这可能会推动 AI 社区的发展。</li>
+</ul>
+</li>
+<li><strong>计算效率优化</strong><ul>
+<li>采用 <strong>MoE（混合专家）架构</strong>，类似 GPT-4，能在保持高性能的同时降低计算成本。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="Grok-3-的应用潜力"><a href="#Grok-3-的应用潜力" class="headerlink" title="Grok-3 的应用潜力"></a><strong>Grok-3 的应用潜力</strong></h3><ol>
+<li><strong>社交媒体增强</strong><ul>
+<li>自动生成推文、分析热门话题、提供个性化内容推荐。</li>
+<li>帮助品牌进行社交媒体营销（如自动回复、趋势分析）。</li>
+</ul>
+</li>
+<li><strong>金融与实时数据分析</strong><ul>
+<li>结合 X 的实时信息，可用于 <strong>股市预测、舆情监控、新闻摘要</strong>。</li>
+</ul>
+</li>
+<li><strong>编程与代码生成</strong><ul>
+<li>Grok-1.5 的代码能力已接近 GPT-4，Grok-3 可能成为开发者的强力工具。</li>
+</ul>
+</li>
+<li><strong>教育 &amp; 研究</strong><ul>
+<li>长上下文能力适合论文阅读、知识问答、学习辅导。</li>
+</ul>
+</li>
+<li><strong>企业级 AI 助手</strong><ul>
+<li>可集成到 X 的企业服务中，提供客服、数据分析、自动化报告等功能。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="Grok-3-与其他大模型的比较"><a href="#Grok-3-与其他大模型的比较" class="headerlink" title="Grok-3 与其他大模型的比较"></a><strong>Grok-3 与其他大模型的比较</strong></h3><table>
+<thead>
+<tr>
+<th align="left"><strong>模型</strong></th>
+<th align="left"><strong>公司</strong></th>
+<th align="left"><strong>参数量</strong></th>
+<th align="left"><strong>关键优势</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Grok-3</strong></td>
+<td align="left">xAI</td>
+<td align="left">~1T+（预计）</td>
+<td align="left">实时数据、X 生态整合</td>
+</tr>
+<tr>
+<td align="left"><strong>GPT-4 Turbo</strong></td>
+<td align="left">OpenAI</td>
+<td align="left">~1T</td>
+<td align="left">最强通用能力、插件生态</td>
+</tr>
+<tr>
+<td align="left"><strong>Claude 3</strong></td>
+<td align="left">Anthropic</td>
+<td align="left">未公开</td>
+<td align="left">长上下文、低幻觉</td>
+</tr>
+<tr>
+<td align="left"><strong>Gemini 1.5</strong></td>
+<td align="left">200K+ 上下文、多模态强</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<p>Grok-3 的主要差异化在于 <strong>实时数据 + X 社交整合</strong>，如果能在推理和代码能力上匹敌 GPT-4，可能会成为 AI 领域的重要竞争者。</p>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>Grok-3 是 xAI 的下一代 AI 模型，预计在 <strong>性能、实时数据处理、社交整合</strong> 方面有重大突破。如果成功，它可能成为 GPT-4 的有力竞争对手，并在 <strong>金融、社交、编程、企业服务</strong> 等领域发挥重要作用。</p>
+<p>Elon Musk 的目标是让 Grok 成为 <strong>“最具实用价值的 AI”</strong>，而 Grok-3 将是实现这一目标的关键一步。</p>
+<h2 id="怎么免费使用Grok3-API"><a href="#怎么免费使用Grok3-API" class="headerlink" title="怎么免费使用Grok3 API"></a>怎么免费使用Grok3 API</h2><p>教程开始之前，肯定得先知道Grok API平台，并且注册一个账号，<strong>建议使用“谷歌邮箱”登录，</strong> </p>
+<blockquote>
+<p>下面就是Grok API 开发者平台：<a href="https://console.x.ai/">console.x.ai</a></p>
+</blockquote>
+<p><strong>那么如何才可以薅到Grok API 的 150美元体验金呢？有个前置条件：</strong></p>
+<ol>
+<li>绑定卡，并充值最低 5 美元</li>
+<li>加入数据共享计划</li>
+</ol>
+<h3 id="国内如何绑卡并充值-Grok-API-5-美元呢？"><a href="#国内如何绑卡并充值-Grok-API-5-美元呢？" class="headerlink" title="国内如何绑卡并充值 Grok API 5 美元呢？"></a><a href="https://pic3.zhimg.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg" alt="150美刀免费额度"></a><strong>国内如何绑卡并充值 Grok API 5 美元呢？</strong></h3><p>如果你有国内的visa、master国际信用卡，也可以尝试。<strong>如果不行，或者没有国际信用卡的话，就使用Master虚拟卡。</strong></p>
+<blockquote>
+<p><strong>Master虚拟卡</strong>：<a href="https://yeka.ai/i/JJDPH">https://yeka.ai/i/JJDPH</a> </p>
+<p><strong>申请教程在这里</strong>：<a href="https://lcab-ljj.github.io/2024/08/07/Wildcard/">Wildcard教程</a></p>
+</blockquote>
+<p>申请之后，会有一个美区的Master国际信用卡信息，可以把这些信息进行绑定 X AI 平台，也就是 Grok API 平台。</p>
+<p><a href="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></a></p>
+<p>先给虚拟卡充值5美刀，可以使用支付宝进行充值，不使用的话，可以<strong>直接提现</strong>。</p>
+<p><a href="https://pic4.zhimg.com/v2-f7207a4e09f15cc3543cbd8a0ef2211f_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-f7207a4e09f15cc3543cbd8a0ef2211f_1440w.jpg" alt="img"></a></p>
+<p>打开 Grok API 平台：<a href="console.x.ai">console.x.ai </a>按下面，找到 “Payment settings” 进行 填写账单地址，然后再添加卡。</p>
+<p>这两个信息都直接用虚拟卡上的信息即可。<strong>虚拟卡上没有的信息，可以不用填，比如 最下方的电话号码。</strong></p>
+<p><a href="https://pic1.zhimg.com/v2-2dedea6771c1a612ec4281ca6b34a5f8_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-2dedea6771c1a612ec4281ca6b34a5f8_1440w.jpg" alt="img"></a></p>
+<p>填完账单地址之后，就可以进行绑卡了，绑定之后，充值 5 美元即可。</p>
+<p><a href="https://pic1.zhimg.com/v2-eda86ab55888c0e0f9472d3c9556c6de_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-eda86ab55888c0e0f9472d3c9556c6de_1440w.jpg" alt="img"></a></p>
+<p>这里，我使用的魔法节点是美区｜原生｜IP，纯净度还可以。就直接一次性过了，不通过的情况下，可以重试哈。</p>
+<p><a href="https://picx.zhimg.com/v2-836f9c59006c27b52629812e4a0dc80b_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-836f9c59006c27b52629812e4a0dc80b_1440w.jpg" alt="img"></a></p>
+<p><a href="https://pica.zhimg.com/v2-5e2faf5afb65204d626a1bb34ec097fc_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-5e2faf5afb65204d626a1bb34ec097fc_1440w.jpg" alt="img"></a></p>
+<p>绑定成功之后，有一条预扣款 0 元的信息：</p>
+<p><a href="https://pica.zhimg.com/v2-b5cedcc283ac42e1af94d039eeffe1dc_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-b5cedcc283ac42e1af94d039eeffe1dc_1440w.jpg" alt="img"></a></p>
+<p>确保自己的虚拟卡账户有 5 美元，<strong>最后一步：现在你可以进行一个充值5美元的操作了。</strong></p>
+<p>找到 “Credits”，然后往下滑动， 找到 “Purchase credits” 进行支付即可。</p>
+<p><a href="https://pic2.zhimg.com/v2-0b0aa0313dcae98cd08e5eb93c9fac03_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-0b0aa0313dcae98cd08e5eb93c9fac03_1440w.jpg" alt="img"></a></p>
+<p>成功之后，开启数据共享协议，就可以有下面这个150美元的免费额度啦～</p>
+<p><a href="https://pic3.zhimg.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg" alt="150美刀免费额度"></a></p>
+<p>如果，你充值了 5 美元之后，还没有到账 150 美元的话，可以来这里查 <a href="https://docs.x.ai/docs/data-sharing%23how-it-works">Free Credits via Data Sharing | xAI Docs</a>，因为<strong>需要签署一个数据共享协议</strong>:</p>
+<p><a href="https://pic3.zhimg.com/v2-3980a79327d9df410915299ff2488ff4_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-3980a79327d9df410915299ff2488ff4_1440w.jpg" alt="img"></a></p>
+<p>你充值5美元之后，在下方测试是否有资格的，可以点击 “check for eligibility“ 就行，之后再到 ”credit“ 里面选择共享数据就可以获得150美元的额度：</p>
+<p><a href="https://pic3.zhimg.com/v2-cbcb1c0a69594983b1689884ccea6ec2_1440w.jpg"><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/v2-cbcb1c0a69594983b1689884ccea6ec2_1440w.jpg" alt="img"></a></p>
+<blockquote>
+<p>参考原文：<a href="https://lcab-ljj.github.io/2025/04/10/how-to-use-Grok3-for-free/">【重要必看】Grok3 API 已经免费开放了，附上免费使用 Grok3 API的教程 | 进击的胖虎</a></p>
+</blockquote>
+<hr>
+<h3 id="你好，我是进击的胖虎"><a href="#你好，我是进击的胖虎" class="headerlink" title="你好，我是进击的胖虎"></a>你好，我是进击的胖虎</h3><p>亲爱的读者你好！我是<strong>进击的胖虎</strong>。欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</p>
+<p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/gzh.bmp"></p>
+]]></content>
+      <tags>
+        <tag>Grok3</tag>
+      </tags>
+  </entry>
 </search>
