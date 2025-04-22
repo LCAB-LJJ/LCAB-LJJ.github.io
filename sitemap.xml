@@ -747,6 +747,13 @@
   </url>
   
   <url>
+    <loc>https://lcab-ljj.github.io/tags/Claude/</loc>
+    <lastmod>2025-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lcab-ljj.github.io/tags/Claude3/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -761,7 +768,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Claude/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Cursor/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -796,7 +803,7 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Cursor/</loc>
+    <loc>https://lcab-ljj.github.io/tags/GPT/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -810,13 +817,6 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/GPT/</loc>
-    <lastmod>2025-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lcab-ljj.github.io/tags/Heygen/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -824,14 +824,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Midjourney/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Google-Play/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Google-Play/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Midjourney/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -887,14 +887,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Google-Gemini/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Google-Gemini/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Sora/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -922,14 +922,14 @@
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Poe/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Rewind/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lcab-ljj.github.io/tags/Rewind/</loc>
+    <loc>https://lcab-ljj.github.io/tags/Poe/</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
